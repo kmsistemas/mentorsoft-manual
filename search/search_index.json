@@ -1,0 +1,414 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Conhe\u00e7a agora o\n\u00ab\n\n\n\n\n \n\n\n\n\n\n\nMentorSoft\n\u00ab\n\n\n\n\nDesenvolvido pela \nKM Sistemas de Gest\u00e3o\n, o \nMentorSoft\n \u00e9 um sistema de gest\u00e3o composto por m\u00f3dulos integrados para pequenas, m\u00e9dias e grandes empresas.\n\n\n\n\n\n\nwww.kmsistemas.com.br\n \n\n\n\n\n\n\nEste manual est\u00e1 em desenvolvimento para auxiliar os nossos usu\u00e1rios com duvidas ao sistema. \n\nAinda nao possui n\u00e3o possui todo o conte\u00fado. Caso n\u00e3o encontre a informa\u00e7\u00e3o que procura, entre em contato com o \nsuporte\n solicitando uma futura inclus\u00e3o do mesmo!\n\n\n\n\nAprenda a Instalar\n\u00ab\n\n\n\n\n\n\n\n\nM\u00f3dulos Disponiveis\n\u00ab\n\n\n\n\n\n\n\n\nSimplificam o processo de vendas da sua empresa: Registro de Comunica\u00e7\u00e3o com o Cliente, Emiss\u00e3o de Or\u00e7amentos, Customiza\u00e7\u00e3o de Produtos, Forma\u00e7\u00e3o de Custos.  \n\n\n\n\n\n\n\n\nControle de abastecimento de materiais, Gest\u00e3o de Compras, Registro de Entradas e Sa\u00eddas de materiais, Cadastro de Produtos e Servi\u00e7os, Controles para Expedi\u00e7\u00e3o.  \n\n\n\n\n\n\n\n\nPermite que a sua ind\u00fastria fa\u00e7a o registro das estruturas de produtos e suas varia\u00e7\u00f5es de forma a automatizar os processos de produ\u00e7\u00e3o\n\n\n\n\n\n\n\n\nAtende a legisla\u00e7\u00e3o na emiss\u00e3o de Docs. Eletr\u00f4nicos (NF-e / NFC-e);\n\n\n\n\n\n\n\n\nGest\u00e3o de pessoas: Controle da folha e ficha de funcion\u00e1rios.\n\n\n\n\n\n\n\n\nControle facilitado do Contas a Pagar.\n\n\n\n\n\n\n\n\nControle de Duplicatas a Receber, Emiss\u00e3o de Boletos.\n\n\n\n\n\n\n\n\nGest\u00e3o financeira, Concilia\u00e7\u00e3o banc\u00e1ria, Controle de cheques, Fluxo de Caixa, Demonstrativo Gerencial de Resultados.\n\n\n\n\n\n\n\n\nKM Sistemas de Gest\u00e3o",
+            "title": "In\u00edcio"
+        },
+        {
+            "location": "/#conheca-agora-o",
+            "text": "",
+            "title": "Conhe\u00e7a agora o"
+        },
+        {
+            "location": "/#mentorsoft",
+            "text": "Desenvolvido pela  KM Sistemas de Gest\u00e3o , o  MentorSoft  \u00e9 um sistema de gest\u00e3o composto por m\u00f3dulos integrados para pequenas, m\u00e9dias e grandes empresas.    www.kmsistemas.com.br      Este manual est\u00e1 em desenvolvimento para auxiliar os nossos usu\u00e1rios com duvidas ao sistema.  \nAinda nao possui n\u00e3o possui todo o conte\u00fado. Caso n\u00e3o encontre a informa\u00e7\u00e3o que procura, entre em contato com o  suporte  solicitando uma futura inclus\u00e3o do mesmo!",
+            "title": "MentorSoft"
+        },
+        {
+            "location": "/#aprenda-a-instalar",
+            "text": "",
+            "title": "Aprenda a Instalar"
+        },
+        {
+            "location": "/#modulos-disponiveis",
+            "text": "Simplificam o processo de vendas da sua empresa: Registro de Comunica\u00e7\u00e3o com o Cliente, Emiss\u00e3o de Or\u00e7amentos, Customiza\u00e7\u00e3o de Produtos, Forma\u00e7\u00e3o de Custos.       Controle de abastecimento de materiais, Gest\u00e3o de Compras, Registro de Entradas e Sa\u00eddas de materiais, Cadastro de Produtos e Servi\u00e7os, Controles para Expedi\u00e7\u00e3o.       Permite que a sua ind\u00fastria fa\u00e7a o registro das estruturas de produtos e suas varia\u00e7\u00f5es de forma a automatizar os processos de produ\u00e7\u00e3o     Atende a legisla\u00e7\u00e3o na emiss\u00e3o de Docs. Eletr\u00f4nicos (NF-e / NFC-e);     Gest\u00e3o de pessoas: Controle da folha e ficha de funcion\u00e1rios.     Controle facilitado do Contas a Pagar.     Controle de Duplicatas a Receber, Emiss\u00e3o de Boletos.     Gest\u00e3o financeira, Concilia\u00e7\u00e3o banc\u00e1ria, Controle de cheques, Fluxo de Caixa, Demonstrativo Gerencial de Resultados.     KM Sistemas de Gest\u00e3o",
+            "title": "M\u00f3dulos Disponiveis"
+        },
+        {
+            "location": "/instalacao/",
+            "text": "Instala\u00e7\u00e3o do sistema\n\u00ab\n\n\nInstalar Sistema do Principio\n\u00ab\n\n\nNesse passo a passo, estaremos ensinando a como fazer a instala\u00e7\u00e3o do sistema em uma m\u00e1quina qualquer.\n\nPara continuar, precisaremos de acesso ao servidor.  \n\n\nVoc\u00ea deve:  \n\n\n\n\nMapear Unidade de Rede para a pasta do sistema  utilizando a letra K.\n\nAp\u00f3s a conclus\u00e3o do mapeamento, ao acessar o mapeamento (K:) deve encontrar as pastas  \n\n\n\n\n\n\nBackup  \n\n\nDLL  \n\n\nEXE  \n\n\nNFE  \n\n\n\n\n\n\n\n\n  \n\n\nNo seu C:\\ crie uma pasta chamada \nMentorSoft\n dentro dessa pasta deve ficar da seguinte forma:  \n\n\n\n\nBackup \u2013 Pasta padr\u00e3o de backup do sistema  \n\n\n\n\n\n\nDLLs do Backup  \n\n\nEXEs backup  \n\n\n\n\n\n\nEXE \u2013 Execut\u00e1veis do sistema  \n\n\n\n\n\n\nMentorSoft.exe  \n\n\nsisKM.ini  \n\n\nArquivos ini para emiss\u00e3o da nota  \n\n\n\n\n\n\n\n\nV\u00e1 no servidor (K:) em \nK:\\exe\n copie os arquivos \nMentorSoft.exe\n e \nsisKM.ini\n e cole em \nC:\\MentorSoft\\exe\n;\n\nLogo em seguida v\u00e1 em \nK:\\DLL\n copie todos os arquivos e cole em uma das seguintes pastas:  \n\n\n\n\nPara Windows 32 Bits (x86):  \n\n\n\n\n\n\n\u201cC:\\Windows\\System32\u201d  \n\n\n\n\n\n\nPara Windows 64 bits (x64):  \n\n\n\n\n\n\n\u201cC:\\Windows\\SysWOW64\u201d  \n\n\n\n\n\n\n\n\nSe o usu\u00e1rio que utilizar\u00e1 m\u00e1quina for respons\u00e1vel de backup, voc\u00ea precisa configurar a mesma para que o fa\u00e7a, v\u00e1 em \n K:\\backup\n, copie todos os arquivos que n\u00e3o contenham a extens\u00e3o \n.backup\n e cole em \nC:\\MentorSoft\\Backup\n\n\nOkay, seu sistema est\u00e1 instalado e deve funcionar, v\u00e1 na pasta \nC:\\MentorSoft\\exe\n e crie um atalho do \nMentorSoft.exe\n.  \n\n\n\n\nConfigurando para Emiss\u00e3o de Nota\n\u00ab\n\n\nEm Breve",
+            "title": "Instala\u00e7\u00e3o"
+        },
+        {
+            "location": "/instalacao/#instalacao-do-sistema",
+            "text": "",
+            "title": "Instala\u00e7\u00e3o do sistema"
+        },
+        {
+            "location": "/instalacao/#instalar-sistema-do-principio",
+            "text": "Nesse passo a passo, estaremos ensinando a como fazer a instala\u00e7\u00e3o do sistema em uma m\u00e1quina qualquer. \nPara continuar, precisaremos de acesso ao servidor.    Voc\u00ea deve:     Mapear Unidade de Rede para a pasta do sistema  utilizando a letra K. \nAp\u00f3s a conclus\u00e3o do mapeamento, ao acessar o mapeamento (K:) deve encontrar as pastas      Backup    DLL    EXE    NFE           No seu C:\\ crie uma pasta chamada  MentorSoft  dentro dessa pasta deve ficar da seguinte forma:     Backup \u2013 Pasta padr\u00e3o de backup do sistema      DLLs do Backup    EXEs backup      EXE \u2013 Execut\u00e1veis do sistema      MentorSoft.exe    sisKM.ini    Arquivos ini para emiss\u00e3o da nota       V\u00e1 no servidor (K:) em  K:\\exe  copie os arquivos  MentorSoft.exe  e  sisKM.ini  e cole em  C:\\MentorSoft\\exe ; \nLogo em seguida v\u00e1 em  K:\\DLL  copie todos os arquivos e cole em uma das seguintes pastas:     Para Windows 32 Bits (x86):      \u201cC:\\Windows\\System32\u201d      Para Windows 64 bits (x64):      \u201cC:\\Windows\\SysWOW64\u201d       Se o usu\u00e1rio que utilizar\u00e1 m\u00e1quina for respons\u00e1vel de backup, voc\u00ea precisa configurar a mesma para que o fa\u00e7a, v\u00e1 em   K:\\backup , copie todos os arquivos que n\u00e3o contenham a extens\u00e3o  .backup  e cole em  C:\\MentorSoft\\Backup  Okay, seu sistema est\u00e1 instalado e deve funcionar, v\u00e1 na pasta  C:\\MentorSoft\\exe  e crie um atalho do  MentorSoft.exe .",
+            "title": "Instalar Sistema do Principio"
+        },
+        {
+            "location": "/instalacao/#configurando-para-emissao-de-nota",
+            "text": "Em Breve",
+            "title": "Configurando para Emiss\u00e3o de Nota"
+        },
+        {
+            "location": "/modulos/comercial/",
+            "text": "Modulo Comercial\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nCliente\n - Aprenda a como cadastrar um cliente.\n\n\nEndere\u00e7o do Cliente\n - Aprenda a como cadastrar um Endere\u00e7o do cliente.\n\n\nFornecedor\n - Aprenda a como cadastrar um Fornecedor.\n\n\nEndere\u00e7o do Fornecedor\n - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.\n\n\nContato do Fornecedor\n - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.\n\n\nTipo de Pedido\n - Aprenda a como cadastrar um Tipo de pedido.\n\n\nCondi\u00e7\u00e3o Pagamento\n - Aprenda a como cadastrar uma Condi\u00e7\u00e3o de Pagamento.  \n\n\n\n\n\n\n\n\n\n\nMovimentos\n\n\n\n\nComunica\u00e7\u00e3o com Cliente\n - Agende liga\u00e7\u00f5es/Registre toda informa\u00e7\u00e3o conversada com o cliente.",
+            "title": "Comercial"
+        },
+        {
+            "location": "/modulos/comercial/#modulo-comercial",
+            "text": "Cadastros   Cliente  - Aprenda a como cadastrar um cliente.  Endere\u00e7o do Cliente  - Aprenda a como cadastrar um Endere\u00e7o do cliente.  Fornecedor  - Aprenda a como cadastrar um Fornecedor.  Endere\u00e7o do Fornecedor  - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.  Contato do Fornecedor  - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.  Tipo de Pedido  - Aprenda a como cadastrar um Tipo de pedido.  Condi\u00e7\u00e3o Pagamento  - Aprenda a como cadastrar uma Condi\u00e7\u00e3o de Pagamento.        Movimentos   Comunica\u00e7\u00e3o com Cliente  - Agende liga\u00e7\u00f5es/Registre toda informa\u00e7\u00e3o conversada com o cliente.",
+            "title": "Modulo Comercial"
+        },
+        {
+            "location": "/modulos/estoque/",
+            "text": "Modulo Estoque\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nFornecedor\n - Aprenda a como cadastrar um fornecedor.\n\n\nEndere\u00e7o do Fornecedor\n - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.  \n\n\nContato do Fornecedor\n - Aprenda a como cadastrar um Contato do Fornecedor.  \n\n\n\n\n\n\n\n\n\n\nMovimentos    \n\n\n\n\nSolicita\u00e7\u00e3o de Compra\n - Solicite uma nova compra.\n\n\nRomaneio de Faturamento\n - Embale seus produtos.",
+            "title": "Estoque"
+        },
+        {
+            "location": "/modulos/estoque/#modulo-estoque",
+            "text": "Cadastros   Fornecedor  - Aprenda a como cadastrar um fornecedor.  Endere\u00e7o do Fornecedor  - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.    Contato do Fornecedor  - Aprenda a como cadastrar um Contato do Fornecedor.        Movimentos       Solicita\u00e7\u00e3o de Compra  - Solicite uma nova compra.  Romaneio de Faturamento  - Embale seus produtos.",
+            "title": "Modulo Estoque"
+        },
+        {
+            "location": "/modulos/industrial/",
+            "text": "Modulo Industrial\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\n\n\n\n\nMovimentos",
+            "title": "Industrial"
+        },
+        {
+            "location": "/modulos/industrial/#modulo-industrial",
+            "text": "Cadastros     Movimentos",
+            "title": "Modulo Industrial"
+        },
+        {
+            "location": "/modulos/faturamento/",
+            "text": "Modulo Faturamento\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nCliente\n - Aprenda a como cadastrar um Cliente.\n\n\nEndere\u00e7o do Cliente\n - Aprenda a como cadastrar um Endere\u00e7o de cliente.\n\n\nFornecedor\n - Aprenda a como cadastrar um Fornecedor.\n\n\nEndere\u00e7o do Fornecedor\n - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor. \n\n\nContato do Fornecedor\n - Aprenda a como cadastrar um Contato do Fornecedor.\n\n\nTipo de Pedido\n - Aprenda a como cadastrar um Tipo de Pedido.\n\n\nCadastro de CEST\n - Aprenda a como cadastrar um CEST.\n\n\nCadastro de Tributa\u00e7\u00e3o\n - Aprenda a como cadastrar uma Tributa\u00e7\u00e3o.  \n\n\n\n\n\n\n\n\n\n\nMovimentos    \n\n\n\n\nAbertura de Faturamento\n - Fature seu pedido de venda.\n\n\n\n\n\n\n\n\n\n\nConfigura\u00e7\u00f5es NFe\n\n\n\n\nGrade Separada por Cliente\n - Itens da nota com Grade Separada por Cliente.",
+            "title": "Faturamento"
+        },
+        {
+            "location": "/modulos/faturamento/#modulo-faturamento",
+            "text": "Cadastros   Cliente  - Aprenda a como cadastrar um Cliente.  Endere\u00e7o do Cliente  - Aprenda a como cadastrar um Endere\u00e7o de cliente.  Fornecedor  - Aprenda a como cadastrar um Fornecedor.  Endere\u00e7o do Fornecedor  - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.   Contato do Fornecedor  - Aprenda a como cadastrar um Contato do Fornecedor.  Tipo de Pedido  - Aprenda a como cadastrar um Tipo de Pedido.  Cadastro de CEST  - Aprenda a como cadastrar um CEST.  Cadastro de Tributa\u00e7\u00e3o  - Aprenda a como cadastrar uma Tributa\u00e7\u00e3o.        Movimentos       Abertura de Faturamento  - Fature seu pedido de venda.      Configura\u00e7\u00f5es NFe   Grade Separada por Cliente  - Itens da nota com Grade Separada por Cliente.",
+            "title": "Modulo Faturamento"
+        },
+        {
+            "location": "/modulos/grh/",
+            "text": "Modulo GRH\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nFornecedor\n - Aprenda a como cadastrar um fornecedor.\n\n\nEndere\u00e7o do Fornecedor\n - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.\n\n\nContato do Fornecedor\n - Aprenda a como cadastrar um Contato do Fornecedor.\n\n\n\n\n\n\n\n\n\n\nMovimentos",
+            "title": "GRH"
+        },
+        {
+            "location": "/modulos/grh/#modulo-grh",
+            "text": "Cadastros   Fornecedor  - Aprenda a como cadastrar um fornecedor.  Endere\u00e7o do Fornecedor  - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.  Contato do Fornecedor  - Aprenda a como cadastrar um Contato do Fornecedor.      Movimentos",
+            "title": "Modulo GRH"
+        },
+        {
+            "location": "/modulos/pagar/",
+            "text": "Modulo Pagar\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nFornecedor\n - Aprenda a como cadastrar um fornecedor.\n\n\nEndere\u00e7o do Fornecedor\n - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor. \n\n\nContato do Fornecedor\n - Aprenda a como cadastrar um Contato do Fornecedor.\n\n\nCondi\u00e7\u00e3o Pagamento\n - Aprenda a como cadastrar uma Condi\u00e7\u00e3o de Pagamento.  \n\n\n\n\n\n\n\n\n\n\nMovimentos    \n\n\n\n\nAdiantamento de Fornecedores\n \n\n\nIncluir Novo Documento a Pagar\n\n\nAgrupando titulo a pagar\n\n\nOpera\u00e7\u00e3o de Pagamento",
+            "title": "Pagar"
+        },
+        {
+            "location": "/modulos/pagar/#modulo-pagar",
+            "text": "Cadastros   Fornecedor  - Aprenda a como cadastrar um fornecedor.  Endere\u00e7o do Fornecedor  - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.   Contato do Fornecedor  - Aprenda a como cadastrar um Contato do Fornecedor.  Condi\u00e7\u00e3o Pagamento  - Aprenda a como cadastrar uma Condi\u00e7\u00e3o de Pagamento.        Movimentos       Adiantamento de Fornecedores    Incluir Novo Documento a Pagar  Agrupando titulo a pagar  Opera\u00e7\u00e3o de Pagamento",
+            "title": "Modulo Pagar"
+        },
+        {
+            "location": "/modulos/receber/",
+            "text": "Modulo Receber\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nCliente\n - Aprenda a como cadastrar um Cliente. \n\nEndere\u00e7o do Cliente\n - Aprenda a como cadastrar um Endere\u00e7o de cliente.\n\n\nCondi\u00e7\u00e3o Pagamento\n - Aprenda a como cadastrar uma Condi\u00e7\u00e3o de Pagamento.  \n\n\n\n\n\n\n\n\n\n\nMovimentos    \n\n\n\n\nOpera\u00e7\u00e3o de Recebimento\n - Aprenda a como liquidar um titulo a receber.",
+            "title": "Receber"
+        },
+        {
+            "location": "/modulos/receber/#modulo-receber",
+            "text": "Cadastros   Cliente  - Aprenda a como cadastrar um Cliente.  Endere\u00e7o do Cliente  - Aprenda a como cadastrar um Endere\u00e7o de cliente.  Condi\u00e7\u00e3o Pagamento  - Aprenda a como cadastrar uma Condi\u00e7\u00e3o de Pagamento.        Movimentos       Opera\u00e7\u00e3o de Recebimento  - Aprenda a como liquidar um titulo a receber.",
+            "title": "Modulo Receber"
+        },
+        {
+            "location": "/modulos/tesouraria/",
+            "text": "Modulo Tesouraria\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\n\n\n\n\nMovimentos",
+            "title": "Tesouraria"
+        },
+        {
+            "location": "/modulos/tesouraria/#modulo-tesouraria",
+            "text": "Cadastros     Movimentos",
+            "title": "Modulo Tesouraria"
+        },
+        {
+            "location": "/cadclien/",
+            "text": "Cliente\n\u00ab\n\n\nCadastrando Cliente\n\u00ab\n\n\nPara se inserir um novo cliente, voc\u00ea deve ir por um destes caminhos \n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTROS \u00bb CLIENTES\u201d\n\n\u201cFATURAMENTO \u00bb CADASTROS \u00bb CLIENTES\u201d\n\n\u201cRECEBER \u00bb CADASTROS \u00bb CLIENTES\u201d  \n\n\n\n\n\n\n  \n\n\nIr\u00e1 abrir a seguinte tela:\n\n  \n\n\nClique no bot\u00e3o \nInsere\n, o sistema vai te direcionar para a aba de Cadastro:\n\n  \n\n\nPreencha devidamente os campos de acordo com os dados do cliente, alguns campos s\u00e3o obrigat\u00f3rios, dependendo do Tipo de Cliente. Assim que finalizar o cadastro, aperte no bot\u00e3o \nGrava\n, caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.\n\n\n\n\nCadastrando de Endere\u00e7o do Cliente\n\u00ab\n\n\nAp\u00f3s terminar de digitar os dados da Aba Cadastro, vamos para a aba de \nEndere\u00e7os/Contatos\n:\n\n\n  \n\n\nDe um duplo clique dentro de Endere\u00e7o\n\n\n  \n\n\nVai abrir a seguinte Tela:\n\n\n  \n\n\nClique no bot\u00e3o \nInsere\n, abrir\u00e1 a seguinte tela para a pesquisa de \nCEP\n:\n\n\n  \n\n\nDigite o endere\u00e7o ou cep, e aperte \nLOCALIZAR\n.\n\nLocalizar o endere\u00e7o correto, selecione ele e aperte \nCarregar\n, como na imagem abaixo:\n\n\n  \n\n\nAp\u00f3s isso vir\u00e1 a confirma\u00e7\u00e3o.\n\n\n \n\n\nSelecione para qual Status seria este endere\u00e7o, como na imagem abaixo\n\n\n  \n\n\n\n\nIncluir Representante no Cliente\n\u00ab\n\n\nPara incluir um representante ao cadastro do cliente, acesse:\n\n\nIncluindo Representante no Cliente\n  \n\n\n\n\nGrade Separada na NFe por Cliente\n\u00ab\n\n\nAcesse o cadastro de clientes, voc\u00ea deve ir por um destes caminhos \n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTROS \u00bb CLIENTES\u201d\n\n\u201cFATURAMENTO \u00bb CADASTROS \u00bb CLIENTES\u201d\n\n\u201cRECEBER \u00bb CADASTROS \u00bb CLIENTES\u201d  \n\n\n\n\n  \n\n\nNa tela de clientes, localiza o cliente que deseja e d\u00ea dois cliques para abrir o cadastro do mesmo:\n\n\n  \n\n\nNo cadastro do cliente, vai at\u00e9 a aba observa\u00e7\u00e3o/Refer\u00eancias:\n\n\n  \n\n\nAltera as informa\u00e7\u00f5es em destaque conforme o quadro abaixo:\n\n\n  \n\n\nFeito isso, quando for fazer o faturamento para esse cliente, vai sair o produto separado por grade, item por item.",
+            "title": "Cliente"
+        },
+        {
+            "location": "/cadclien/#cliente",
+            "text": "",
+            "title": "Cliente"
+        },
+        {
+            "location": "/cadclien/#cadastrando-cliente",
+            "text": "Para se inserir um novo cliente, voc\u00ea deve ir por um destes caminhos    \u201cCOMERCIAL \u00bb CADASTROS \u00bb CLIENTES\u201d \n\u201cFATURAMENTO \u00bb CADASTROS \u00bb CLIENTES\u201d \n\u201cRECEBER \u00bb CADASTROS \u00bb CLIENTES\u201d          Ir\u00e1 abrir a seguinte tela:     Clique no bot\u00e3o  Insere , o sistema vai te direcionar para a aba de Cadastro:     Preencha devidamente os campos de acordo com os dados do cliente, alguns campos s\u00e3o obrigat\u00f3rios, dependendo do Tipo de Cliente. Assim que finalizar o cadastro, aperte no bot\u00e3o  Grava , caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.",
+            "title": "Cadastrando Cliente"
+        },
+        {
+            "location": "/cadclien/#cadastrando-de-endereco-do-cliente",
+            "text": "Ap\u00f3s terminar de digitar os dados da Aba Cadastro, vamos para a aba de  Endere\u00e7os/Contatos :      De um duplo clique dentro de Endere\u00e7o      Vai abrir a seguinte Tela:      Clique no bot\u00e3o  Insere , abrir\u00e1 a seguinte tela para a pesquisa de  CEP :      Digite o endere\u00e7o ou cep, e aperte  LOCALIZAR . \nLocalizar o endere\u00e7o correto, selecione ele e aperte  Carregar , como na imagem abaixo:      Ap\u00f3s isso vir\u00e1 a confirma\u00e7\u00e3o.     Selecione para qual Status seria este endere\u00e7o, como na imagem abaixo",
+            "title": "Cadastrando de Endere\u00e7o do Cliente"
+        },
+        {
+            "location": "/cadclien/#incluir-representante-no-cliente",
+            "text": "Para incluir um representante ao cadastro do cliente, acesse:  Incluindo Representante no Cliente",
+            "title": "Incluir Representante no Cliente"
+        },
+        {
+            "location": "/cadclien/#grade-separada-na-nfe-por-cliente",
+            "text": "Acesse o cadastro de clientes, voc\u00ea deve ir por um destes caminhos    \u201cCOMERCIAL \u00bb CADASTROS \u00bb CLIENTES\u201d \n\u201cFATURAMENTO \u00bb CADASTROS \u00bb CLIENTES\u201d \n\u201cRECEBER \u00bb CADASTROS \u00bb CLIENTES\u201d         Na tela de clientes, localiza o cliente que deseja e d\u00ea dois cliques para abrir o cadastro do mesmo:      No cadastro do cliente, vai at\u00e9 a aba observa\u00e7\u00e3o/Refer\u00eancias:      Altera as informa\u00e7\u00f5es em destaque conforme o quadro abaixo:      Feito isso, quando for fazer o faturamento para esse cliente, vai sair o produto separado por grade, item por item.",
+            "title": "Grade Separada na NFe por Cliente"
+        },
+        {
+            "location": "/cadrepre/",
+            "text": "Cadastro Representante\n\u00ab\n\n\nComo Cadastrar um Novo Representante\n\u00ab\n\n\nPara cadastrar um representante, v\u00e1 em:\n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTRO \u00bb REPRESENTANTES\u201d\n\n\n\n\n\n\n  \n\n\nAo abrir a tela aperte em \n, em seguida deve ver  a seguinte tela:\n\n\n  \n\n\n\n\n\n\nN\u00edvel\n\n\nEste campo \u00e9 utiliza para informar qual o n\u00edvel de visualiza\u00e7\u00e3o de seu Representante. Por ordem o \nSupervisor\n visualiza informa\u00e7\u00f5es de um \nGestor\n e \nRepresentante\n.  \n\n\n\n\n\n\nFornecedor\n\n\nSelecione para qual fornecedor deseja que seja gerada a comiss\u00e3o. Caso seja gerada para o pr\u00f3prio representante, deve-se cadastrar um fornecedor com o nome do mesmo!\n\n\n\n\n\n\nP.C.%\n\n\nBasicamente o percentual  de comiss\u00e3o\n\n\n\n\n\n\nSupervisor\n\n\nNo caso de no \nN\u00edvel\n ser selecionado \nGESTOR\n deve ser selecionado um supervisor para o mesmo.\n\n\n\n\n\n\nGestor\n\n\nNo caso de no \nN\u00edvel\n ser selecionado \nREPRESENTANTE\n deve ser selecionado um supervisor para o mesmo.\n\n\n\n\n\n\nGera Comiss\u00e3o\n\n\nSe para esse representante ir\u00e1 gerar comiss\u00e3o.\n\n\n\n\n\n\nTipo de comiss\u00e3o\n\n\nQuando ser\u00e1 gerada essa comiss\u00e3o, ex: No recebimento do cliente ou faturamento da nota.  \n\n\n\n\n\n\nVCTO da Comiss\u00e3o  \n\n\nQual ser\u00e1 a data de vencimento do t\u00edtulo de comiss\u00e3o, temos tr\u00eas op\u00e7\u00f5es:\n\n\n  \n\n\n\n\n\n\nDia Vcto\n\n\nQual o dia para vencimento da comiss\u00e3o\n\n\n\n\n\n\n\n\n\n\nIncluir Representante no Cliente\n\u00ab\n\n\nEntre no cadastro do cliente desejado.  \n\n\nPara cadastrar um novo cliente verifique o: \nCadastro de Cliente\n  \n\n\nNa tela de cliente, v\u00e1 na aba \n\"Representantes/ Aut. XML\"\n.\n\n\nInforme o representante, se ser\u00e1 o representante principal ou n\u00e3o e qual ser\u00e1 a porcentagem de comiss\u00e3o.",
+            "title": "Representante"
+        },
+        {
+            "location": "/cadrepre/#cadastro-representante",
+            "text": "",
+            "title": "Cadastro Representante"
+        },
+        {
+            "location": "/cadrepre/#como-cadastrar-um-novo-representante",
+            "text": "Para cadastrar um representante, v\u00e1 em:   \u201cCOMERCIAL \u00bb CADASTRO \u00bb REPRESENTANTES\u201d        Ao abrir a tela aperte em  , em seguida deve ver  a seguinte tela:        N\u00edvel  Este campo \u00e9 utiliza para informar qual o n\u00edvel de visualiza\u00e7\u00e3o de seu Representante. Por ordem o  Supervisor  visualiza informa\u00e7\u00f5es de um  Gestor  e  Representante .      Fornecedor  Selecione para qual fornecedor deseja que seja gerada a comiss\u00e3o. Caso seja gerada para o pr\u00f3prio representante, deve-se cadastrar um fornecedor com o nome do mesmo!    P.C.%  Basicamente o percentual  de comiss\u00e3o    Supervisor  No caso de no  N\u00edvel  ser selecionado  GESTOR  deve ser selecionado um supervisor para o mesmo.    Gestor  No caso de no  N\u00edvel  ser selecionado  REPRESENTANTE  deve ser selecionado um supervisor para o mesmo.    Gera Comiss\u00e3o  Se para esse representante ir\u00e1 gerar comiss\u00e3o.    Tipo de comiss\u00e3o  Quando ser\u00e1 gerada essa comiss\u00e3o, ex: No recebimento do cliente ou faturamento da nota.      VCTO da Comiss\u00e3o    Qual ser\u00e1 a data de vencimento do t\u00edtulo de comiss\u00e3o, temos tr\u00eas op\u00e7\u00f5es:        Dia Vcto  Qual o dia para vencimento da comiss\u00e3o",
+            "title": "Como Cadastrar um Novo Representante"
+        },
+        {
+            "location": "/cadrepre/#incluir-representante-no-cliente",
+            "text": "Entre no cadastro do cliente desejado.    Para cadastrar um novo cliente verifique o:  Cadastro de Cliente     Na tela de cliente, v\u00e1 na aba  \"Representantes/ Aut. XML\" .  Informe o representante, se ser\u00e1 o representante principal ou n\u00e3o e qual ser\u00e1 a porcentagem de comiss\u00e3o.",
+            "title": "Incluir Representante no Cliente"
+        },
+        {
+            "location": "/cadforn/",
+            "text": "Fornecedor\n\u00ab\n\n\nCadastrando Fornecedor\n\u00ab\n\n\nPara inserir um novo \u201cFornecedor\u201d, voc\u00ea deve ir por um destes caminhos  \n\n\n\n\n\u201cCOMERCIAL > CADASTROS > FORNECEDORES\u201d\n\n\u201cESTOQUE > CADASTROS > FORNECEDORES\u201d\n\n\u201cPAGAR > CADASTROS > FORNECEDORES\u201d\n\n\u201cFATURAMENTO > CADASTROS > FORNECEDORES\u201d\n\n\u201cGRH > CADASTROS > FORNECEDORES\u201d  \n\n\n\n\n\n\n  \n\n\nIr\u00e1 abrir a seguinte tela:\n\n\n  \n\n\nClique no bot\u00e3o \nInsere\n, o sistema vai te direcionar para a aba de Cadastro:\n\n\n  \n\n\nPreencha devidamente os campos de acordo com os dados do fornecedor, alguns campos s\u00e3o obrigat\u00f3rios, dependendo do Tipo de Fornecedor. Assim que finalizar o cadastro, aperte no bot\u00e3o \nGravar\n, caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.  \n\n\n\n\nCadastrando Endere\u00e7o do Fornecedor\n\u00ab\n\n\nAp\u00f3s terminar de digitar os dados da Aba Cadastro, vamos para a aba de \nEndere\u00e7os/Contatos\n:\n\n\n  \n\n\nDe um duplo clique dentro de Endere\u00e7o\n\n\n  \n\n\nVai abrir a seguinte Tela,\n\n\n  \n\n\nDe um duplo clique no \nCep\n\n\n  \n\n\nDigite o endere\u00e7o ou \nCep\n, e aperte \nLOCALIZAR\n. Ap\u00f3s localizar o endere\u00e7o correto, selecione ele e aperte \nCarregar\n, como na imagem abaixo\n\n\n  \n\n\nAp\u00f3s isso vir\u00e1 a confirma\u00e7\u00e3o.\n\n\n  \n\n\nSelecione para qual Status seria este endere\u00e7o, como na imagem abaixo\n\n\n  \n\n\nAp\u00f3s o cadastrado de todos os dados do Endere\u00e7o , clique em \nGravar\n\n\n  \n\n\n\n\nCadastrando Contatos do Cliente\n\u00ab\n\n\nAinda na aba de \nEndere\u00e7os/Contatos\n, d\u00ea um duplo clique dentro de Contato\n\n\n  \n\n\nIr\u00e1 abrir a seguinte tela\n\n\n  \n\n\nAperte o bot\u00e3o \nInsere\n e preencha os campos de acordo com as informa\u00e7\u00f5es que possui do Contato:\n\n\n  \n\n\nAp\u00f3s cadastrar os dados do Contato, clique em \nGravar\n, e depois em \nSair\n\n\n(Obs. Se houver mais de um Contato, somente um poder\u00e1 ser o Principal)\n \n  \n\n\n\n\n  \n\n\nPara finalizar aperte \nGravar\n, pronto est\u00e1 cadastrado seu Fornecedor",
+            "title": "Fornecedor"
+        },
+        {
+            "location": "/cadforn/#fornecedor",
+            "text": "",
+            "title": "Fornecedor"
+        },
+        {
+            "location": "/cadforn/#cadastrando-fornecedor",
+            "text": "Para inserir um novo \u201cFornecedor\u201d, voc\u00ea deve ir por um destes caminhos     \u201cCOMERCIAL > CADASTROS > FORNECEDORES\u201d \n\u201cESTOQUE > CADASTROS > FORNECEDORES\u201d \n\u201cPAGAR > CADASTROS > FORNECEDORES\u201d \n\u201cFATURAMENTO > CADASTROS > FORNECEDORES\u201d \n\u201cGRH > CADASTROS > FORNECEDORES\u201d          Ir\u00e1 abrir a seguinte tela:      Clique no bot\u00e3o  Insere , o sistema vai te direcionar para a aba de Cadastro:      Preencha devidamente os campos de acordo com os dados do fornecedor, alguns campos s\u00e3o obrigat\u00f3rios, dependendo do Tipo de Fornecedor. Assim que finalizar o cadastro, aperte no bot\u00e3o  Gravar , caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.",
+            "title": "Cadastrando Fornecedor"
+        },
+        {
+            "location": "/cadforn/#cadastrando-endereco-do-fornecedor",
+            "text": "Ap\u00f3s terminar de digitar os dados da Aba Cadastro, vamos para a aba de  Endere\u00e7os/Contatos :      De um duplo clique dentro de Endere\u00e7o      Vai abrir a seguinte Tela,      De um duplo clique no  Cep      Digite o endere\u00e7o ou  Cep , e aperte  LOCALIZAR . Ap\u00f3s localizar o endere\u00e7o correto, selecione ele e aperte  Carregar , como na imagem abaixo      Ap\u00f3s isso vir\u00e1 a confirma\u00e7\u00e3o.      Selecione para qual Status seria este endere\u00e7o, como na imagem abaixo      Ap\u00f3s o cadastrado de todos os dados do Endere\u00e7o , clique em  Gravar",
+            "title": "Cadastrando Endere\u00e7o do Fornecedor"
+        },
+        {
+            "location": "/cadforn/#cadastrando-contatos-do-cliente",
+            "text": "Ainda na aba de  Endere\u00e7os/Contatos , d\u00ea um duplo clique dentro de Contato      Ir\u00e1 abrir a seguinte tela      Aperte o bot\u00e3o  Insere  e preencha os campos de acordo com as informa\u00e7\u00f5es que possui do Contato:      Ap\u00f3s cadastrar os dados do Contato, clique em  Gravar , e depois em  Sair  (Obs. Se houver mais de um Contato, somente um poder\u00e1 ser o Principal)            Para finalizar aperte  Gravar , pronto est\u00e1 cadastrado seu Fornecedor",
+            "title": "Cadastrando Contatos do Cliente"
+        },
+        {
+            "location": "/cadtpped/",
+            "text": "Tipo de Pedido\n\u00ab\n\n\nComo Cadastrar Tipo de Pedido\n\u00ab\n\n\nPara inserir um novo \nFornecedor\n, voc\u00ea deve ir por um destes caminhos  \n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d\n\n\u201cFATURAMENTO \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d  \n\n\n\n\n\n\n  \n\n\nIr\u00e1 abrir a seguinte tela:\n\n  \n\n\nClique no bot\u00e3o \nInsere\n, o sistema vai te direcionar para a aba de Cadastro:\n\n\n  \n\n\nPreencha devidamente os campos de acordo com os dados do Tipo de Pedido. Assim que finalizar o cadastro, aperte no bot\u00e3o \nGravar\n, caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.  \n\n\n\n\nEmpresas Poss\u00edveis\n\u00ab\n\n\n\nSelecione as Empresas Poss\u00edveis que ir\u00e3o utilizar esse Tipo de Pedido, para escolher mais de uma empresa aperte \nTAB\n, assim que finalizar o cadastro, aperte no bot\u00e3o \nGrava\n.",
+            "title": "Tipo de Pedido"
+        },
+        {
+            "location": "/cadtpped/#tipo-de-pedido",
+            "text": "",
+            "title": "Tipo de Pedido"
+        },
+        {
+            "location": "/cadtpped/#como-cadastrar-tipo-de-pedido",
+            "text": "Para inserir um novo  Fornecedor , voc\u00ea deve ir por um destes caminhos     \u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d \n\u201cFATURAMENTO \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d          Ir\u00e1 abrir a seguinte tela:     Clique no bot\u00e3o  Insere , o sistema vai te direcionar para a aba de Cadastro:      Preencha devidamente os campos de acordo com os dados do Tipo de Pedido. Assim que finalizar o cadastro, aperte no bot\u00e3o  Gravar , caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.",
+            "title": "Como Cadastrar Tipo de Pedido"
+        },
+        {
+            "location": "/cadtpped/#empresas-possiveis",
+            "text": "Selecione as Empresas Poss\u00edveis que ir\u00e3o utilizar esse Tipo de Pedido, para escolher mais de uma empresa aperte  TAB , assim que finalizar o cadastro, aperte no bot\u00e3o  Grava .",
+            "title": "Empresas Poss\u00edveis"
+        },
+        {
+            "location": "/cadcondpg/",
+            "text": "Condi\u00e7\u00e3o Pagamento\n\u00ab\n\n\nCadastrando uma Nova Condi\u00e7\u00e3o\n\u00ab\n\n\nPara se inserir uma nova condi\u00e7\u00e3o, voc\u00ea deve ir por um destes caminhos\n\n\n\n\n\u201cCOMERCIAL > CADASTROS > FORNECEDORES\u201d\n\n\u201cPAGAR > CADASTROS > FORNECEDORES\u201d\n\n\u201cRECEBER > CADASTROS > FORNECEDORES\u201d  \n\n\n\n\nUtilizando qualquer um dos m\u00f3dulos a cima \u2013 V\u00e1 at\u00e9 Cadastros, Condi\u00e7\u00e3o de Pagamento.  \n\n\n  \n\n\nApresentar\u00e1 a tela de consulta, onde \u00e9 poss\u00edvel pesquisar as condi\u00e7\u00f5es de pagamento que j\u00e1 fora cadastradas.\n\n\n  \n\n\n\n\nClicando no bot\u00e3o \nINSERE\n. Poder\u00e1 ser feito uma nova condi\u00e7\u00e3o\n\n\n\n\nCondi\u00e7\u00e3o:\n ser\u00e1 a descri\u00e7\u00e3o desse cadastro, pode ser da forma que o usuario achar melhor para visualiza\u00e7\u00e3o.  \n\n\nSitua\u00e7\u00e3o:\n \nAtivo\n, para que poss\u00e1 ser utilizada em alguma opera\u00e7\u00e3o. \nInativo\n n\u00e3o haver\u00e1 possibilidade de usar.  \n\n\nTipo:\n \n\u00c0 Vista\n ou \nA Prazo\n  \n\n\nPermite Visu. No Pedido:\n Se esse campo estiver como \nSIM\n, no pedido de Venda ou Compra, podera ser utilizado essa condi\u00e7\u00e3o. Caso estiver como \nN\u00c3O\n, n\u00e3o ser\u00e1 apresentando nos pedidos.  \n\n\nDias da Condi\u00e7\u00e3o:\n Seguindo a figura abaixo, Na coluna Dias ser\u00e1 as parcelas que ser\u00e3o registradas.  \n\n\n% Juros Cart\u00e3o:\n Para cada parcela que for adicionada na Coluna DIAS poder\u00e1 ser incluido uma porcetagem de juros  conforme a empresa utiliza",
+            "title": "Condi\u00e7\u00e3o Pagamento"
+        },
+        {
+            "location": "/cadcondpg/#condicao-pagamento",
+            "text": "",
+            "title": "Condi\u00e7\u00e3o Pagamento"
+        },
+        {
+            "location": "/cadcondpg/#cadastrando-uma-nova-condicao",
+            "text": "Para se inserir uma nova condi\u00e7\u00e3o, voc\u00ea deve ir por um destes caminhos   \u201cCOMERCIAL > CADASTROS > FORNECEDORES\u201d \n\u201cPAGAR > CADASTROS > FORNECEDORES\u201d \n\u201cRECEBER > CADASTROS > FORNECEDORES\u201d     Utilizando qualquer um dos m\u00f3dulos a cima \u2013 V\u00e1 at\u00e9 Cadastros, Condi\u00e7\u00e3o de Pagamento.        Apresentar\u00e1 a tela de consulta, onde \u00e9 poss\u00edvel pesquisar as condi\u00e7\u00f5es de pagamento que j\u00e1 fora cadastradas.       Clicando no bot\u00e3o  INSERE . Poder\u00e1 ser feito uma nova condi\u00e7\u00e3o   Condi\u00e7\u00e3o:  ser\u00e1 a descri\u00e7\u00e3o desse cadastro, pode ser da forma que o usuario achar melhor para visualiza\u00e7\u00e3o.    Situa\u00e7\u00e3o:   Ativo , para que poss\u00e1 ser utilizada em alguma opera\u00e7\u00e3o.  Inativo  n\u00e3o haver\u00e1 possibilidade de usar.    Tipo:   \u00c0 Vista  ou  A Prazo     Permite Visu. No Pedido:  Se esse campo estiver como  SIM , no pedido de Venda ou Compra, podera ser utilizado essa condi\u00e7\u00e3o. Caso estiver como  N\u00c3O , n\u00e3o ser\u00e1 apresentando nos pedidos.    Dias da Condi\u00e7\u00e3o:  Seguindo a figura abaixo, Na coluna Dias ser\u00e1 as parcelas que ser\u00e3o registradas.    % Juros Cart\u00e3o:  Para cada parcela que for adicionada na Coluna DIAS poder\u00e1 ser incluido uma porcetagem de juros  conforme a empresa utiliza",
+            "title": "Cadastrando uma Nova Condi\u00e7\u00e3o"
+        },
+        {
+            "location": "/cadcest/",
+            "text": "Cadastro de CEST\n\u00ab\n\n\nPara cadastrar um novo c\u00f3digo CEST, va em:\n\n\n\n\n\"Faturamento \u00bb Cadastro \u00bb Configura\u00e7\u00f5es \u00bb Cadastro CEST\"  \n\n\n\n\n  \n\n\nAgora vamos \ninserir\n o c\u00f3digo no sistema:\n\n\n  \n\n\nAp\u00f3s feito o cadastro, temos que ir no \ncadastro de tributa\u00e7\u00e3o\n escolher qual tributa\u00e7\u00e3o/produto(NCM) pretendo adicionar o c\u00f3digo \nCEST\n:\n\n\n  \n\n\nLocalizar no \ncadastro de tributa\u00e7\u00e3o\n, qual \nNCM\n voc\u00ea pretende e/ou precisa colocar o c\u00f3digo \nCEST\n correspondente, assim encontrado, selecionar o c\u00f3digo \nCEST\n:\n\n\n  \n\n\nAp\u00f3s selecionado o c\u00f3digo correto, dar \nTAB\n at\u00e9 ir para a pr\u00f3xima linha ou clicar em \nGRAVAR\n.  \n\n\nFeito este procedimento j\u00e1 vai estar adicionado o c\u00f3digo \nCEST\n para o produto(NCM) e assim j\u00e1 vai estar configurado para cumprir a determina\u00e7\u00e3o.",
+            "title": "Cadastro CEST"
+        },
+        {
+            "location": "/cadcest/#cadastro-de-cest",
+            "text": "Para cadastrar um novo c\u00f3digo CEST, va em:   \"Faturamento \u00bb Cadastro \u00bb Configura\u00e7\u00f5es \u00bb Cadastro CEST\"         Agora vamos  inserir  o c\u00f3digo no sistema:      Ap\u00f3s feito o cadastro, temos que ir no  cadastro de tributa\u00e7\u00e3o  escolher qual tributa\u00e7\u00e3o/produto(NCM) pretendo adicionar o c\u00f3digo  CEST :      Localizar no  cadastro de tributa\u00e7\u00e3o , qual  NCM  voc\u00ea pretende e/ou precisa colocar o c\u00f3digo  CEST  correspondente, assim encontrado, selecionar o c\u00f3digo  CEST :      Ap\u00f3s selecionado o c\u00f3digo correto, dar  TAB  at\u00e9 ir para a pr\u00f3xima linha ou clicar em  GRAVAR .    Feito este procedimento j\u00e1 vai estar adicionado o c\u00f3digo  CEST  para o produto(NCM) e assim j\u00e1 vai estar configurado para cumprir a determina\u00e7\u00e3o.",
+            "title": "Cadastro de CEST"
+        },
+        {
+            "location": "/cadtribu/",
+            "text": "Cadastro tributa\u00e7\u00e3o\n\u00ab\n\n\nDisponibilizaremos assim que poss\u00edvel! Fique atento!",
+            "title": "Cadastro Tributa\u00e7\u00e3o"
+        },
+        {
+            "location": "/cadtribu/#cadastro-tributacao",
+            "text": "Disponibilizaremos assim que poss\u00edvel! Fique atento!",
+            "title": "Cadastro tributa\u00e7\u00e3o"
+        },
+        {
+            "location": "/modulos/comercial/movimentos/comuclien/",
+            "text": "Comunica\u00e7\u00e3o com Cliente\n\u00ab\n\n\nInserindo Comunica\u00e7\u00e3o\n\u00ab\n\n\nPara inserir uma comunica\u00e7\u00e3o com o cliente, voc\u00ea deve ir no \u201cCOMERCIAL > MOVIMENTOS > COMUNICA\u00c7\u00c3O COM O CLIENTE\u201d\n\n\n\n\n  \n\n\nIr\u00e1 abrir a seguinte tela:\n\n\n  \n\n\nDevera procurar o cliente, e depois seleciona o mesmo e carregar, como mostra na tela:\n\n\n  \n\n\nVai clicar no bot\u00e3o \n  \n\n\n  \n\n\nVai escolher um Tipo de Comunica\u00e7\u00e3o\n\n\n  \n\n\nAp\u00f3s adicionar o Assunto e os Dados da Comunica\u00e7\u00e3o, vai escolher a data do retorno se tiver, se n\u00e3o tiver vai colocar a data que encerrou a comunica\u00e7\u00e3o.\n\n\n  \n\n\nInserido a Comunica\u00e7\u00e3o com o Cliente.",
+            "title": "Comunica\u00e7\u00e3o com Cliente"
+        },
+        {
+            "location": "/modulos/comercial/movimentos/comuclien/#comunicacao-com-cliente",
+            "text": "",
+            "title": "Comunica\u00e7\u00e3o com Cliente"
+        },
+        {
+            "location": "/modulos/comercial/movimentos/comuclien/#inserindo-comunicacao",
+            "text": "Para inserir uma comunica\u00e7\u00e3o com o cliente, voc\u00ea deve ir no \u201cCOMERCIAL > MOVIMENTOS > COMUNICA\u00c7\u00c3O COM O CLIENTE\u201d       Ir\u00e1 abrir a seguinte tela:      Devera procurar o cliente, e depois seleciona o mesmo e carregar, como mostra na tela:      Vai clicar no bot\u00e3o          Vai escolher um Tipo de Comunica\u00e7\u00e3o      Ap\u00f3s adicionar o Assunto e os Dados da Comunica\u00e7\u00e3o, vai escolher a data do retorno se tiver, se n\u00e3o tiver vai colocar a data que encerrou a comunica\u00e7\u00e3o.      Inserido a Comunica\u00e7\u00e3o com o Cliente.",
+            "title": "Inserindo Comunica\u00e7\u00e3o"
+        },
+        {
+            "location": "/modulos/estoque/movimentos/solcompra/",
+            "text": "Solicita\u00e7\u00e3o de Compra\n\u00ab\n\n\nSolicitando uma nova compra\n\u00ab\n\n\nPara inserir uma nova solicita\u00e7\u00e3o de compra, voc\u00ea deve ir em  \n\n\n\n\n\"ESTOQUE > MOVIMENTOS > COMPRAS > SOLICITA\u00c7\u00c3O DE COMPRAS\"\n\n\n\n\n  \n\n\nIr\u00e1 abrir a seguinte tela:\n\n\n  \n\n\nClique no bot\u00e3o \nInsere\n, o sistema vai te direcionar para a aba de Cadastro:\n\n\n  \n\n\nPreencha os dados e aperte no bot\u00e3o \nGRAVA\n\n\n  \n\n\nEscolha o Tipo de Servi\u00e7o:\n\n\n  \n\n\nALMOXARIFADO\n  Seria seus produtos que gera estoque\n\n\nCONSUMO DIRETO\n Seria  os produtos que n\u00e3o gera estoque\n\n\n  \n\n\nAp\u00f3s preencher os produtos , aperte o bot\u00e3o \nGRAVA\n Solicita\u00e7\u00e3o finalizada.",
+            "title": "Solicita\u00e7\u00e3o de Compra"
+        },
+        {
+            "location": "/modulos/estoque/movimentos/solcompra/#solicitacao-de-compra",
+            "text": "",
+            "title": "Solicita\u00e7\u00e3o de Compra"
+        },
+        {
+            "location": "/modulos/estoque/movimentos/solcompra/#solicitando-uma-nova-compra",
+            "text": "Para inserir uma nova solicita\u00e7\u00e3o de compra, voc\u00ea deve ir em     \"ESTOQUE > MOVIMENTOS > COMPRAS > SOLICITA\u00c7\u00c3O DE COMPRAS\"       Ir\u00e1 abrir a seguinte tela:      Clique no bot\u00e3o  Insere , o sistema vai te direcionar para a aba de Cadastro:      Preencha os dados e aperte no bot\u00e3o  GRAVA      Escolha o Tipo de Servi\u00e7o:      ALMOXARIFADO   Seria seus produtos que gera estoque  CONSUMO DIRETO  Seria  os produtos que n\u00e3o gera estoque      Ap\u00f3s preencher os produtos , aperte o bot\u00e3o  GRAVA  Solicita\u00e7\u00e3o finalizada.",
+            "title": "Solicitando uma nova compra"
+        },
+        {
+            "location": "/modulos/estoque/movimentos/romaneiofat/",
+            "text": "Romaneio de Faturamento\n\u00ab\n\n\nIncluindo um Novo Romaneio\n\u00ab\n\n\nEssa tela se encontra em:\n\n\n\n\n\u201cESTOQUE \u00bb MOVIMENTOS \u00bb ROMANEIO DE FATURAMENTO\u201d.   \n\n\n\n\nUtilizado para definir carregamento de mercadorias a serem entregues\n\n\n  \n\n\nIr\u00e1 apresentar uma tela de consulta para que sejam listados todos os romaneios que j\u00e1 foram cadastrados. Ao clicar em \nPesquisar\n.\n\n\n  \n\n\nPara realizar um novo Romaneio, clicar em \nInsere\n.\n\n\n  \n\n\nAp\u00f3s clicar no bot\u00e3o \ninsere\n, ir\u00e1 apresentar alterar a aba de consulta para cadastrado, onde ser\u00e3o preenchidas as informa\u00e7\u00f5es.  \n\n\nNecess\u00e1rio informar qual o \nPedido\n pode-se localizar ou digitar no campo at\u00e9 encontrar qual pedido ser\u00e1 feito o romaneio.  \n\n\nAp\u00f3s localizar o pedido, selecionar qual \nNota\n. Nesse campo s\u00f3 ser\u00e1 listado as notas que est\u00e3o relacionadas ao pedido que foi inclu\u00eddo.\n\n\n  \n\n\nAp\u00f3s isso, Gravar: \n  \n\n\nAdicionar Volume\n, e selecionar qual \u00e9 a embalagem que ser\u00e1 utilizada para fazer o romaneio. Ap\u00f3s localizar, clicar em \ninsere\n. \n(Caso n\u00e3o encontrar a Embalagem, necess\u00e1rio fazer o cadastro)\n.  \n\n\nAdicionando o volume no romaneio, selecionar qual o produto e sua quantidade que ser\u00e1 inserido dentro do volume. \n(Tamb\u00e9m pode-se inclu\u00eddos os produtos por c\u00f3digo de barras caso foi gerado)\n.  \n\n\nDepois de incluir o item, selecionar o volume do lado esquerdo e clique em \nEtiqueta Caixa\n, ir\u00e1 apresentar o layout da etiqueta do romaneio. Ao fechar a tela da impress\u00e3o, automaticamente o volume selecionado ir\u00e1 ficar em vermelho identificando que est\u00e1 fechado.  \n\n\nLogo clicando no bot\u00e3o \nLiberar Romaneio\n, ser\u00e1 poss\u00edvel utilizar na Nota Fiscal.",
+            "title": "Romaneio de Faturamento"
+        },
+        {
+            "location": "/modulos/estoque/movimentos/romaneiofat/#romaneio-de-faturamento",
+            "text": "",
+            "title": "Romaneio de Faturamento"
+        },
+        {
+            "location": "/modulos/estoque/movimentos/romaneiofat/#incluindo-um-novo-romaneio",
+            "text": "Essa tela se encontra em:   \u201cESTOQUE \u00bb MOVIMENTOS \u00bb ROMANEIO DE FATURAMENTO\u201d.      Utilizado para definir carregamento de mercadorias a serem entregues      Ir\u00e1 apresentar uma tela de consulta para que sejam listados todos os romaneios que j\u00e1 foram cadastrados. Ao clicar em  Pesquisar .      Para realizar um novo Romaneio, clicar em  Insere .      Ap\u00f3s clicar no bot\u00e3o  insere , ir\u00e1 apresentar alterar a aba de consulta para cadastrado, onde ser\u00e3o preenchidas as informa\u00e7\u00f5es.    Necess\u00e1rio informar qual o  Pedido  pode-se localizar ou digitar no campo at\u00e9 encontrar qual pedido ser\u00e1 feito o romaneio.    Ap\u00f3s localizar o pedido, selecionar qual  Nota . Nesse campo s\u00f3 ser\u00e1 listado as notas que est\u00e3o relacionadas ao pedido que foi inclu\u00eddo.      Ap\u00f3s isso, Gravar:      Adicionar Volume , e selecionar qual \u00e9 a embalagem que ser\u00e1 utilizada para fazer o romaneio. Ap\u00f3s localizar, clicar em  insere .  (Caso n\u00e3o encontrar a Embalagem, necess\u00e1rio fazer o cadastro) .    Adicionando o volume no romaneio, selecionar qual o produto e sua quantidade que ser\u00e1 inserido dentro do volume.  (Tamb\u00e9m pode-se inclu\u00eddos os produtos por c\u00f3digo de barras caso foi gerado) .    Depois de incluir o item, selecionar o volume do lado esquerdo e clique em  Etiqueta Caixa , ir\u00e1 apresentar o layout da etiqueta do romaneio. Ao fechar a tela da impress\u00e3o, automaticamente o volume selecionado ir\u00e1 ficar em vermelho identificando que est\u00e1 fechado.    Logo clicando no bot\u00e3o  Liberar Romaneio , ser\u00e1 poss\u00edvel utilizar na Nota Fiscal.",
+            "title": "Incluindo um Novo Romaneio"
+        },
+        {
+            "location": "/modulos/pagar/movimentos/oppag/",
+            "text": "Opera\u00e7\u00e3o de Pagamento\n\u00ab\n\n\nPara inserir uma nova \nOpera\u00e7\u00e3o de Pagamento\n, vamos em:    \n\n\n\n\n\u201cM\u00f3dulo Pagar \u00bb Movimentos \u00bb Opera\u00e7\u00e3o de Pagamento\u201d    \n\n\n\n\nNesse passo a passo iremos mostrar algumas formas de liquida\u00e7\u00e3o de documentos a pagar.   \n\n\n\n\nUtilizando Caixa/D\u00e9bito em conta\n\u00ab\n\n\nAo abrir a tala de opera\u00e7\u00e3o, vamos em \n, o sistema ir\u00e1 lhe apresentar a seguinte tela:    \n\n\n  \n\n\n\n\nDescri\u00e7\u00e3o: Iremos informar alguma descri\u00e7\u00e3o que identifique a opera\u00e7\u00e3o;  \n\n\n\n\nExemplo: \u201cPAGAMENTO COMISS\u00d5ES\u201d / \u201cPAGAMENTO S\u00c1LARIOS\u201d  \n\n\n\n\nTipo de Opera\u00e7\u00e3o: Basicamente de qual forma vamos pagar o fornecedor  \n\n\n\n\nExemplo: D\u00e9bito em conta, pagamento com cheque, dinheiro (CAIXA), etc...  \n\n\n\n\nBanco/Ag\u00eancia/Conta: Conta de qual vamos debitar  \n\n\n\n\nPodendo ser banco ou caixa interno  \n\n\n\n\n\n\nPara fazer pagamento em dinheiro ou transfer\u00eancia devemos selecionar da forma a baixo: \n\n\n\n\nSe pago em dinheiro, deve-se selecionar o \u201cCaixa Interno\u201d. Para transfer\u00eancia banc\u00e1ria, deve selecionar qual a conta que foi utilizada para tal opera\u00e7\u00e3o.\n\nAp\u00f3s preencher estes dados aperte em \n.\n\nA opera\u00e7\u00e3o ser\u00e1 salva e ir\u00e1 aparecer para voc\u00ea a seguinte tela:\n\n\n\nAgora iremos selecionar os documentos a pagar que queremos fazer a liquida\u00e7\u00e3o!\n\nClicaremos em \n no canto esquerdo para abrir a tela de localiza\u00e7\u00e3o dos t\u00edtulos:  \n\n\n\nEsta tela disponibiliza v\u00e1rios filtros para facilitar na procura do documento!\n\n\n\nEncontre o mesmo e aperte em  \n para que o mesmo carregue para \nItens Selecionados para Opera\u00e7\u00e3o\n. Pode carregar mais de um documento:\n\n\n\nAgora vamos em  \n para carregar os t\u00edtulos na opera\u00e7\u00e3o:\n\n\n\nAgora vamos em \n para gerar baixa nos documentos:\n\n\n\nDeve ficar como a imagem a cima!\n\nAgora clicamos em \n.\n\nOpera\u00e7\u00e3o finalizada! Os documentos foram liquidados!\n\n\n\n\n\u00danico Cheque para V\u00e1rios T\u00edtulos\n\u00ab\n\n\nAgora iremos fazer uma opera\u00e7\u00e3o de pagamento utilizando um \u00fanico cheque para liquidar v\u00e1rios documentos.\n\nInsira uma nova opera\u00e7\u00e3o conforme os passos anteriores preencha a descri\u00e7\u00e3o e no campo \nTipo de Opera\u00e7\u00e3o\n informe \nPGTO FORN.  COM UNICO CHEQUE LCTOS AGRUPADOS\n.\n\nNo campo a baixo, informe a conta financeira do \ncheque\n em quest\u00e3o.\n\nConforme imagem:\n\n\n\nInforme os dados do cheque, n\u00famero, data pr\u00e9 e nominal. Aperte em \n.\n\nVerifique:\n\n\n\nCarregue os t\u00edtulos que ser\u00e3o liquidados (Conforme ensinado a cima no passo a passo).\n\nAperte em \nGera Baixa Doctos\n para gerar a baixa nos documentos e processe a opera\u00e7\u00e3o!\n\n\n\nOk, opera\u00e7\u00e3o conclu\u00edda.",
+            "title": "Opera\u00e7\u00e3o de Pagamento"
+        },
+        {
+            "location": "/modulos/pagar/movimentos/oppag/#operacao-de-pagamento",
+            "text": "Para inserir uma nova  Opera\u00e7\u00e3o de Pagamento , vamos em:       \u201cM\u00f3dulo Pagar \u00bb Movimentos \u00bb Opera\u00e7\u00e3o de Pagamento\u201d       Nesse passo a passo iremos mostrar algumas formas de liquida\u00e7\u00e3o de documentos a pagar.",
+            "title": "Opera\u00e7\u00e3o de Pagamento"
+        },
+        {
+            "location": "/modulos/pagar/movimentos/oppag/#utilizando-caixadebito-em-conta",
+            "text": "Ao abrir a tala de opera\u00e7\u00e3o, vamos em  , o sistema ir\u00e1 lhe apresentar a seguinte tela:           Descri\u00e7\u00e3o: Iremos informar alguma descri\u00e7\u00e3o que identifique a opera\u00e7\u00e3o;     Exemplo: \u201cPAGAMENTO COMISS\u00d5ES\u201d / \u201cPAGAMENTO S\u00c1LARIOS\u201d     Tipo de Opera\u00e7\u00e3o: Basicamente de qual forma vamos pagar o fornecedor     Exemplo: D\u00e9bito em conta, pagamento com cheque, dinheiro (CAIXA), etc...     Banco/Ag\u00eancia/Conta: Conta de qual vamos debitar     Podendo ser banco ou caixa interno      Para fazer pagamento em dinheiro ou transfer\u00eancia devemos selecionar da forma a baixo:    Se pago em dinheiro, deve-se selecionar o \u201cCaixa Interno\u201d. Para transfer\u00eancia banc\u00e1ria, deve selecionar qual a conta que foi utilizada para tal opera\u00e7\u00e3o. \nAp\u00f3s preencher estes dados aperte em  . \nA opera\u00e7\u00e3o ser\u00e1 salva e ir\u00e1 aparecer para voc\u00ea a seguinte tela:  \nAgora iremos selecionar os documentos a pagar que queremos fazer a liquida\u00e7\u00e3o! \nClicaremos em   no canto esquerdo para abrir a tela de localiza\u00e7\u00e3o dos t\u00edtulos:    \nEsta tela disponibiliza v\u00e1rios filtros para facilitar na procura do documento!  \nEncontre o mesmo e aperte em    para que o mesmo carregue para  Itens Selecionados para Opera\u00e7\u00e3o . Pode carregar mais de um documento:  \nAgora vamos em    para carregar os t\u00edtulos na opera\u00e7\u00e3o:  \nAgora vamos em   para gerar baixa nos documentos:  \nDeve ficar como a imagem a cima! \nAgora clicamos em  . \nOpera\u00e7\u00e3o finalizada! Os documentos foram liquidados!",
+            "title": "Utilizando Caixa/D\u00e9bito em conta"
+        },
+        {
+            "location": "/modulos/pagar/movimentos/oppag/#unico-cheque-para-varios-titulos",
+            "text": "Agora iremos fazer uma opera\u00e7\u00e3o de pagamento utilizando um \u00fanico cheque para liquidar v\u00e1rios documentos. \nInsira uma nova opera\u00e7\u00e3o conforme os passos anteriores preencha a descri\u00e7\u00e3o e no campo  Tipo de Opera\u00e7\u00e3o  informe  PGTO FORN.  COM UNICO CHEQUE LCTOS AGRUPADOS . \nNo campo a baixo, informe a conta financeira do  cheque  em quest\u00e3o. \nConforme imagem:  \nInforme os dados do cheque, n\u00famero, data pr\u00e9 e nominal. Aperte em  . \nVerifique:  \nCarregue os t\u00edtulos que ser\u00e3o liquidados (Conforme ensinado a cima no passo a passo). \nAperte em  Gera Baixa Doctos  para gerar a baixa nos documentos e processe a opera\u00e7\u00e3o!  \nOk, opera\u00e7\u00e3o conclu\u00edda.",
+            "title": "\u00danico Cheque para V\u00e1rios T\u00edtulos"
+        },
+        {
+            "location": "/modulos/pagar/movimentos/parcpagar/",
+            "text": "Manuten\u00e7\u00e3o Parcelas a Pagar\n\u00ab\n\n\nIncluindo novo Titulo a pagar\n\u00ab\n\n\nPara incluir um novo documento a pagar, deve-se ir em:\n\n\n\n\n\"Pagar \u00bb Movimentos \u00bb Manuten\u00e7\u00e3o Parcelas a Pagar\"\n\n\n\n\n  \n\n\nAo abrir a tela de Consulta dos documentos a pagar, aperte em \nINSERE\n\n\n  \n\n\nPrimeiro vamos informar os dados principais do documento:  \n\n\n\n\nInforme o \nFornecedor\n do documento a pagar;\n\nO campo \nDocumento\n deve ser preenchido com o c\u00f3digo do mesmo;\n\nEm \nTipo de Documento\n, selecione qual o tipo. Ex: \nBoleto, Duplicata, Etc...\n;\n\nInforme a \nCondi\u00e7\u00e3o de pagamento\n desejada;\n\nE em seguida o \nValor total do Titulo a Pagar\n;\n\nAperte \n  \n\n\n\n\n  \n\n\nVerifique que o sistema gerou as parcelas:\n\n\n  \n\n\nSeu titulo a pagar est\u00e1 lan\u00e7ado no sistema!\n\nAgora precisamos incluir um Rateio despesa para o mesmo.\n\n\n\n\nRateio despesa\n\u00ab\n\n\nPara Lan\u00e7ar o rateio despesa, devemos ir em \n\"Lan\u00e7ar Rateios\"\n.\n\nAo lan\u00e7ar por este bot\u00e3o, o sistema ir\u00e1 fazer o rateio para cada parcela do documento!\n\n\n  \n\n\nQuando pressionar o bot\u00e3o, ir\u00e1 abrir a seguinte tela do sistema:\n\n\n   \n\n\nAperte \nInsere\n e informe os dados:\n\n\n   \n\n\n Sempre que preencher os dados, utilize a tecla \"TAB\" para ir alternando entre as colunas \n\n\n\n\nEmpresa\n Para qual empresa ser\u00e1 registrado a despesa;\n\n\nUnidade\n Qual a unidade de neg\u00f3cio;  \n\n\n\n\nAo chegar no campo \nDespesa\n utilizando a tecla \n\"TAB\"\n, o sistema ir\u00e1 abrir a seguinte tela: \n\n   \n\n\nSelecione a conta despesa desejada e aperte em \nCarregar\n\nLogo em seguida aperte \nProcessar\n\n\n   \n\n\n Agora seu titulo a pagar est\u00e1 lan\u00e7ado e com o rateio despesa preenchido!\n\n\nPara conferir v\u00e1 na aba \nRateio Despesa\n:\n\n\n   \n\n\n\n\nAgrupar Titulos a Pagar\n\u00ab\n\n\nNo m\u00f3dulo pagar, vamos em:  \n\n\n\n\n\"Movimentos \u00bb Manuten\u00e7\u00e3o Parcelas a Pagar\"\n\n\n\n\n  \n\n\nVamos inserir um novo t\u00edtulo,\n\nPreencha os dados do agrupamento \n(como se fosse um novo titulo)\n:\n\n\n  \n\n\nAo chegar no campo \n, n\u00e3o informe valor nenhum.\n\nAperte em \n, e logo ap\u00f3s em SIM, ir\u00e1 abrir a seguinte tela:  \n\n\n  \n\n\nProcure os t\u00edtulos que deseja agrupar, voc\u00ea pode utilizar os filtros a baixo:\n\n\n  \n\n\nCom \u201cDUPLO CLICK\u201d ou clicando em \n voc\u00ea carregar\u00e1 eles para a baixo para serem inclu\u00eddos no agrupamento.\n\n\n\n\nCOM O CONTROL (CTRL) VOC\u00ca PODE SELECIONAR V\u00c1RIOS DE UMA S\u00d3 VEZ. PARA CARREGAR UTILIZE O \n\u201cINCLUIR SELECIONADOS\u201d\n.  \n\n\nAp\u00f3s o carregamento de todos os itens, aperte em \n ao topo da tela.  \n\n\nSeu t\u00edtulo de agrupamento est\u00e1 pronto! Na tela de manuten\u00e7\u00e3o v\u00e1 em \n para conferir.",
+            "title": "Manuten\u00e7\u00e3o Parcelas a Pagar"
+        },
+        {
+            "location": "/modulos/pagar/movimentos/parcpagar/#manutencao-parcelas-a-pagar",
+            "text": "",
+            "title": "Manuten\u00e7\u00e3o Parcelas a Pagar"
+        },
+        {
+            "location": "/modulos/pagar/movimentos/parcpagar/#incluindo-novo-titulo-a-pagar",
+            "text": "Para incluir um novo documento a pagar, deve-se ir em:   \"Pagar \u00bb Movimentos \u00bb Manuten\u00e7\u00e3o Parcelas a Pagar\"       Ao abrir a tela de Consulta dos documentos a pagar, aperte em  INSERE      Primeiro vamos informar os dados principais do documento:     Informe o  Fornecedor  do documento a pagar; \nO campo  Documento  deve ser preenchido com o c\u00f3digo do mesmo; \nEm  Tipo de Documento , selecione qual o tipo. Ex:  Boleto, Duplicata, Etc... ; \nInforme a  Condi\u00e7\u00e3o de pagamento  desejada; \nE em seguida o  Valor total do Titulo a Pagar ; \nAperte           Verifique que o sistema gerou as parcelas:      Seu titulo a pagar est\u00e1 lan\u00e7ado no sistema! \nAgora precisamos incluir um Rateio despesa para o mesmo.",
+            "title": "Incluindo novo Titulo a pagar"
+        },
+        {
+            "location": "/modulos/pagar/movimentos/parcpagar/#rateio-despesa",
+            "text": "Para Lan\u00e7ar o rateio despesa, devemos ir em  \"Lan\u00e7ar Rateios\" . \nAo lan\u00e7ar por este bot\u00e3o, o sistema ir\u00e1 fazer o rateio para cada parcela do documento!      Quando pressionar o bot\u00e3o, ir\u00e1 abrir a seguinte tela do sistema:       Aperte  Insere  e informe os dados:        Sempre que preencher os dados, utilize a tecla \"TAB\" para ir alternando entre as colunas    Empresa  Para qual empresa ser\u00e1 registrado a despesa;  Unidade  Qual a unidade de neg\u00f3cio;     Ao chegar no campo  Despesa  utilizando a tecla  \"TAB\" , o sistema ir\u00e1 abrir a seguinte tela:       Selecione a conta despesa desejada e aperte em  Carregar \nLogo em seguida aperte  Processar        Agora seu titulo a pagar est\u00e1 lan\u00e7ado e com o rateio despesa preenchido!  Para conferir v\u00e1 na aba  Rateio Despesa :",
+            "title": "Rateio despesa"
+        },
+        {
+            "location": "/modulos/pagar/movimentos/parcpagar/#agrupar-titulos-a-pagar",
+            "text": "No m\u00f3dulo pagar, vamos em:     \"Movimentos \u00bb Manuten\u00e7\u00e3o Parcelas a Pagar\"       Vamos inserir um novo t\u00edtulo, \nPreencha os dados do agrupamento  (como se fosse um novo titulo) :      Ao chegar no campo  , n\u00e3o informe valor nenhum. \nAperte em  , e logo ap\u00f3s em SIM, ir\u00e1 abrir a seguinte tela:        Procure os t\u00edtulos que deseja agrupar, voc\u00ea pode utilizar os filtros a baixo:      Com \u201cDUPLO CLICK\u201d ou clicando em   voc\u00ea carregar\u00e1 eles para a baixo para serem inclu\u00eddos no agrupamento.   COM O CONTROL (CTRL) VOC\u00ca PODE SELECIONAR V\u00c1RIOS DE UMA S\u00d3 VEZ. PARA CARREGAR UTILIZE O  \u201cINCLUIR SELECIONADOS\u201d .    Ap\u00f3s o carregamento de todos os itens, aperte em   ao topo da tela.    Seu t\u00edtulo de agrupamento est\u00e1 pronto! Na tela de manuten\u00e7\u00e3o v\u00e1 em   para conferir.",
+            "title": "Agrupar Titulos a Pagar"
+        },
+        {
+            "location": "/modulos/pagar/movimentos/adianforne/",
+            "text": "Adiantamento de Fornecedores\n\u00ab\n\n\nPara incluir um novo adiantamento para Fornecedores, v\u00e1 em:  \n\n\n\n\n\u201cPagar \u00bb Movimentos \u00bb Adiantamento de Fornecedores\u201d  \n\n\n\n\nVamos em \nInsere\n:\n\n\n  \n\n\nO sistema abrir\u00e1 a tela para localizar o \nfornecedor\n desejado:  \n\n\n\nAp\u00f3s carregar o \nfornecedor\n, devemos preencher os dados com as informa\u00e7\u00f5es solicitadas, como no exemplo a baixo:  \n\n\n  \n\n\n\n\nBanco/Ag\u00eancia/Conta Financeira  \n\n\n\n\nInforma\u00e7\u00f5es de qual conta o sistema deve fazer o d\u00e9bito  \n\n\n\n\nCheque  \n\n\n\n\nPara o caso do adiantamento ter sido efetuado em cheque  \n\n\n\n\n\n\nLogo ap\u00f3s preencher todas as informa\u00e7\u00f5es, clicamos em  \n\nIr\u00e1 lhe questionar se realmente deseja processar o adiantamento, pressione \nSIM\n  \n\n\n  \n\n\nOk, seu adiantamento est\u00e1 lan\u00e7ado!",
+            "title": "Adiantamento de Fornecedores"
+        },
+        {
+            "location": "/modulos/pagar/movimentos/adianforne/#adiantamento-de-fornecedores",
+            "text": "Para incluir um novo adiantamento para Fornecedores, v\u00e1 em:     \u201cPagar \u00bb Movimentos \u00bb Adiantamento de Fornecedores\u201d     Vamos em  Insere :      O sistema abrir\u00e1 a tela para localizar o  fornecedor  desejado:    \nAp\u00f3s carregar o  fornecedor , devemos preencher os dados com as informa\u00e7\u00f5es solicitadas, como no exemplo a baixo:         Banco/Ag\u00eancia/Conta Financeira     Informa\u00e7\u00f5es de qual conta o sistema deve fazer o d\u00e9bito     Cheque     Para o caso do adiantamento ter sido efetuado em cheque      Logo ap\u00f3s preencher todas as informa\u00e7\u00f5es, clicamos em   \nIr\u00e1 lhe questionar se realmente deseja processar o adiantamento, pressione  SIM         Ok, seu adiantamento est\u00e1 lan\u00e7ado!",
+            "title": "Adiantamento de Fornecedores"
+        },
+        {
+            "location": "/modulos/receber/movimentos/oprec/",
+            "text": "Opera\u00e7\u00e3o de Recebimento\n\u00ab\n\n\nPara inserir uma nova \nOpera\u00e7\u00e3o de Recebimento\n, vamos em:    \n\n\n\n\n\u201cM\u00f3dulo Receber \u00bb Movimentos \u00bb Opera\u00e7\u00e3o de Pagamento\u201d    \n\n\n\n\nNesse passo a passo iremos mostrar algumas formas de liquida\u00e7\u00e3o de documentos a Receber.   \n\n\n\n\nLiquida\u00e7\u00e3o DPL Carteira\n\u00ab\n\n\nApertem em \nInsere\n, o sistema ir\u00e1 abrir uma tela para selecionar o tipo de opera\u00e7\u00e3o que deseja efetuar.\n\n\n  \n\n\n\n\n\n\n\n\nConta Financeira\n\n\n\n\nSelecione a conta que deseja creditar o valor.\n\n\n\n\n\n\n\n\nTipo\n\n\n\n\nBaixa/Transforma\u00e7\u00e3o: Esquema de Liquida\u00e7\u00f5es e liquida\u00e7\u00f5es transformando para outros tipos de documentos\nTransfer\u00eancia de Carteira: Transfere um documento para outra carteira (Ex: Boletos/Descontos).\n\n\n\n\n\n\n\n\nDocumento Origem\n\n\n\n\nQual o tipo de documento que o t\u00edtulo que ir\u00e1 ser liquidado est\u00e1.\n\n\n\n\n\n\n\n\n\n\nPara essa opera\u00e7\u00e3o, liquidaremos Duplicatas (DPL em Carteira).\n\nSelecione as op\u00e7\u00f5es conforme explicado a cima, e aperte em \n.\n\nO sistema ir\u00e1 abrir a seguinte tela:\n\n\nSelecione os t\u00edtulos que deseja (voc\u00ea pode selecionar v\u00e1rios segurando a tecla \nCTRL\n) e aperte em \n. Esses t\u00edtulos ser\u00e3o carregados para a tela de baixo.\n\n\n\nEsses ser\u00e3o os t\u00edtulos carregados para serem liquidados!\nAp\u00f3s efetuar os passos acima, aperte \n para os t\u00edtulos serem carregados: \n\n\n\nAgora \u00e9 s\u00f3 \nPROCESSAR OPERA\u00c7\u00c3O\n e os t\u00edtulos ser\u00e3o liquidados e o saldo creditado na conta selecionada!\nVoc\u00ea pode utilizar a aba \nMovimento Financeiro\n para conferir:\n\n\n   \n\n\n\n\nInformando Desconto\n\u00ab\n\n\nJ\u00e1 com a opera\u00e7\u00e3o feita e com o documento desejado dentro da mesma, v\u00e1 no campo \nVlr Recebido\n e informe o valor com o desconto:\n\n\n \n\nSalve  a informa\u00e7\u00e3o no bot\u00e3o gravar:\n\n\n\nO sistema ir\u00e1 lhe informar a seguinte mensagem:\n\n\n \n\nAperte \nSIM\n.\n\nInforme o tipo da diferen\u00e7a e o valor:\n\n\n \n\nD\u00ea \nTAB\n at\u00e9 a linha de baixo para salvar e depois aperte \nESC\n, feche essa tela!\n\nDesconto concedido!\n\nVoc\u00ea j\u00e1 pode \nPROCESSAR OPERA\u00c7\u00c3O\n se desejado.  \n\n\n\n\nUtilizando Adiantamento\n\u00ab\n\n\nQuando houver adiantamentos para o cliente, o sistema ir\u00e1 avisar a voc\u00ea com uma mensagem em vermelho/azul: \n\nJ\u00e1 na opera\u00e7\u00e3o com o documento informado nela, v\u00e1 na aba \nADIANTAMENTOS\n, como na imagem a baixo:\n\n\n\nNa aba adiantamentos, do lado esquerdo o sistema te mostrar\u00e1 os adiantamentos lan\u00e7ados para esse cliente:\n\n\n\nE do lado direito haver\u00e1 um combo para sele\u00e7\u00e3o de algum deles, veja a baixo:\n\n\n\nNesse combo selecione o adiantamento que deseja utilizar e o valor, sendo o que precisar. Se o valor for menor que o adiantamento o sistema baixar\u00e1 parcial o mesmo!\n\nAp\u00f3s selecionar e informar o valor, \u00e9 s\u00f3 dar TAB at\u00e9 a linha de baixo e ap\u00f3s um ESC para que o sistema grave a informa\u00e7\u00e3o.\n\n\n\nPronto! Adiantamento selecionado, agora \u00e9 s\u00f3 processar!",
+            "title": "Opera\u00e7\u00e3o de Recebimento"
+        },
+        {
+            "location": "/modulos/receber/movimentos/oprec/#operacao-de-recebimento",
+            "text": "Para inserir uma nova  Opera\u00e7\u00e3o de Recebimento , vamos em:       \u201cM\u00f3dulo Receber \u00bb Movimentos \u00bb Opera\u00e7\u00e3o de Pagamento\u201d       Nesse passo a passo iremos mostrar algumas formas de liquida\u00e7\u00e3o de documentos a Receber.",
+            "title": "Opera\u00e7\u00e3o de Recebimento"
+        },
+        {
+            "location": "/modulos/receber/movimentos/oprec/#liquidacao-dpl-carteira",
+            "text": "Apertem em  Insere , o sistema ir\u00e1 abrir uma tela para selecionar o tipo de opera\u00e7\u00e3o que deseja efetuar.         Conta Financeira   Selecione a conta que deseja creditar o valor.     Tipo   Baixa/Transforma\u00e7\u00e3o: Esquema de Liquida\u00e7\u00f5es e liquida\u00e7\u00f5es transformando para outros tipos de documentos\nTransfer\u00eancia de Carteira: Transfere um documento para outra carteira (Ex: Boletos/Descontos).     Documento Origem   Qual o tipo de documento que o t\u00edtulo que ir\u00e1 ser liquidado est\u00e1.      Para essa opera\u00e7\u00e3o, liquidaremos Duplicatas (DPL em Carteira). \nSelecione as op\u00e7\u00f5es conforme explicado a cima, e aperte em  . \nO sistema ir\u00e1 abrir a seguinte tela: \nSelecione os t\u00edtulos que deseja (voc\u00ea pode selecionar v\u00e1rios segurando a tecla  CTRL ) e aperte em  . Esses t\u00edtulos ser\u00e3o carregados para a tela de baixo.  \nEsses ser\u00e3o os t\u00edtulos carregados para serem liquidados!\nAp\u00f3s efetuar os passos acima, aperte   para os t\u00edtulos serem carregados:   \nAgora \u00e9 s\u00f3  PROCESSAR OPERA\u00c7\u00c3O  e os t\u00edtulos ser\u00e3o liquidados e o saldo creditado na conta selecionada!\nVoc\u00ea pode utilizar a aba  Movimento Financeiro  para conferir:",
+            "title": "Liquida\u00e7\u00e3o DPL Carteira"
+        },
+        {
+            "location": "/modulos/receber/movimentos/oprec/#informando-desconto",
+            "text": "J\u00e1 com a opera\u00e7\u00e3o feita e com o documento desejado dentro da mesma, v\u00e1 no campo  Vlr Recebido  e informe o valor com o desconto:    \nSalve  a informa\u00e7\u00e3o no bot\u00e3o gravar:  \nO sistema ir\u00e1 lhe informar a seguinte mensagem:    \nAperte  SIM . \nInforme o tipo da diferen\u00e7a e o valor:    \nD\u00ea  TAB  at\u00e9 a linha de baixo para salvar e depois aperte  ESC , feche essa tela! \nDesconto concedido! \nVoc\u00ea j\u00e1 pode  PROCESSAR OPERA\u00c7\u00c3O  se desejado.",
+            "title": "Informando Desconto"
+        },
+        {
+            "location": "/modulos/receber/movimentos/oprec/#utilizando-adiantamento",
+            "text": "Quando houver adiantamentos para o cliente, o sistema ir\u00e1 avisar a voc\u00ea com uma mensagem em vermelho/azul:  \nJ\u00e1 na opera\u00e7\u00e3o com o documento informado nela, v\u00e1 na aba  ADIANTAMENTOS , como na imagem a baixo:  \nNa aba adiantamentos, do lado esquerdo o sistema te mostrar\u00e1 os adiantamentos lan\u00e7ados para esse cliente:  \nE do lado direito haver\u00e1 um combo para sele\u00e7\u00e3o de algum deles, veja a baixo:  \nNesse combo selecione o adiantamento que deseja utilizar e o valor, sendo o que precisar. Se o valor for menor que o adiantamento o sistema baixar\u00e1 parcial o mesmo! \nAp\u00f3s selecionar e informar o valor, \u00e9 s\u00f3 dar TAB at\u00e9 a linha de baixo e ap\u00f3s um ESC para que o sistema grave a informa\u00e7\u00e3o.  \nPronto! Adiantamento selecionado, agora \u00e9 s\u00f3 processar!",
+            "title": "Utilizando Adiantamento"
+        },
+        {
+            "location": "/modulos/faturamento/movimentos/fatabert/",
+            "text": "Abertura de Faturamento\n\u00ab\n\n\nFaturando um Pedido de Venda\n\u00ab\n\n\nPara realizar o faturamento de um pedido e necess\u00e1rio ir em:  \n\n\n\n\nFaturamento \u2192 Movimentos \u2192 Abertura de Faturamento.  \n\n\n\n\n  \n\n\nApresentar\u00e1 a tela de consulta listando todas as aberturas que foram iniciadas e as que j\u00e1 foram faturadas, clicando no bot\u00e3o \nPesquisar\n. \n\n\n  \n\n\nPara realizar um faturamento de venda, deve-se clicar no bot\u00e3o \nInsere\n.\n\nAo clicar \ninsere\n o sistema por padr\u00e3o pergunta se deseja incluir romaneio, (se a empresa utiliza o romaneio, saiba mais em: \u201c\nRomaneio de Faturamento\n\").  \n\n\n   \n\n\nSe clicar em \nSim\n para pode-se localizar o romaneio que ser\u00e1 faturado.  Clicando no bot\u00e3o pesquisar, ser\u00e3o listados todos os romaneios que foram feito. Selecionar qual o romaneio e clique em carregar para faturar.  \n\n\n  \n\n\nCaso seja selecionado a op\u00e7\u00e3o \nN\u00c3O\n na inclus\u00e3o por romaneio, o sistema apresentar\u00e1 uma tela para localizar o pedido para faturar.  \n\n\nSeguindo a imagem abaixo, podesse localizar o pedido a faturar com o bot\u00e3o Pesquisar, ou informando qual \npedido\n que ir\u00e1 faturar ou \ncliente\n. Ap\u00f3s encontrar, selecionar com um clique o pedido e clicar em \ncarregar\n.\n\n\nAp\u00f3s carregar o pedido, alguns campos iram serem preenchidos automaticamente. Como segue a baixo:\n\n\n\n\nPara verificar qual tributa\u00e7\u00e3o est\u00e1 para o Item que est\u00e1 na nota, selecione o item caso tiver mais que um, e clique em \nTributa\u00e7\u00e3o\n.\n\nSe as informa\u00e7\u00f5es estiverem corretas, s\u00f3 clica no bot\u00e3o \nGerar Nota Fiscal\n.\n\nCaso seja necess\u00e1rio que apresente alguma informa\u00e7\u00e3o na Nota, tem o bot\u00e3o \nObserva\u00e7\u00f5es* para que seja mostrado na Inf. Adicionais da nota.  \n\n\nPara enviar a nota para a receita, verifique o passo a passo \"\nNota Fiscal Eletronica\n\"",
+            "title": "Abertura de Faturamento"
+        },
+        {
+            "location": "/modulos/faturamento/movimentos/fatabert/#abertura-de-faturamento",
+            "text": "",
+            "title": "Abertura de Faturamento"
+        },
+        {
+            "location": "/modulos/faturamento/movimentos/fatabert/#faturando-um-pedido-de-venda",
+            "text": "Para realizar o faturamento de um pedido e necess\u00e1rio ir em:     Faturamento \u2192 Movimentos \u2192 Abertura de Faturamento.         Apresentar\u00e1 a tela de consulta listando todas as aberturas que foram iniciadas e as que j\u00e1 foram faturadas, clicando no bot\u00e3o  Pesquisar .       Para realizar um faturamento de venda, deve-se clicar no bot\u00e3o  Insere . \nAo clicar  insere  o sistema por padr\u00e3o pergunta se deseja incluir romaneio, (se a empresa utiliza o romaneio, saiba mais em: \u201c Romaneio de Faturamento \").         Se clicar em  Sim  para pode-se localizar o romaneio que ser\u00e1 faturado.  Clicando no bot\u00e3o pesquisar, ser\u00e3o listados todos os romaneios que foram feito. Selecionar qual o romaneio e clique em carregar para faturar.        Caso seja selecionado a op\u00e7\u00e3o  N\u00c3O  na inclus\u00e3o por romaneio, o sistema apresentar\u00e1 uma tela para localizar o pedido para faturar.    Seguindo a imagem abaixo, podesse localizar o pedido a faturar com o bot\u00e3o Pesquisar, ou informando qual  pedido  que ir\u00e1 faturar ou  cliente . Ap\u00f3s encontrar, selecionar com um clique o pedido e clicar em  carregar . \nAp\u00f3s carregar o pedido, alguns campos iram serem preenchidos automaticamente. Como segue a baixo:   Para verificar qual tributa\u00e7\u00e3o est\u00e1 para o Item que est\u00e1 na nota, selecione o item caso tiver mais que um, e clique em  Tributa\u00e7\u00e3o . \nSe as informa\u00e7\u00f5es estiverem corretas, s\u00f3 clica no bot\u00e3o  Gerar Nota Fiscal . Caso seja necess\u00e1rio que apresente alguma informa\u00e7\u00e3o na Nota, tem o bot\u00e3o  Observa\u00e7\u00f5es* para que seja mostrado na Inf. Adicionais da nota.    Para enviar a nota para a receita, verifique o passo a passo \" Nota Fiscal Eletronica \"",
+            "title": "Faturando um Pedido de Venda"
+        },
+        {
+            "location": "/modulos/faturamento/movimentos/nfe/",
+            "text": "Nota Fiscal Eletronica\n\u00ab\n\n\nEnviando nota para receita\n\u00ab\n\n\nAp\u00f3s gerar nota \u00e9 necess\u00e1rio encaminhar para receita.\n\nClique em NFE, como segue a imagem abaixo:  \n\n\n  \n\n\nLembrando que voc\u00ea pode acessar essa mesma tela pelo caminho:  \n\n\n\n\n\"Faturamento > Movimentos > Nota Fiscal Eletronica\"  \n\n\n\n\nNessa tela, ser\u00e1 listado todas as notas que foram geradas na Aba \nASSINAR\n. Para assinar somente uma nota, devesse selecionar qual a nota que precisa ser emitida. Por\u00e9m se n\u00e3o for selecionada, quando clicar em Assinar o sistema perguntar\u00e1 se deseja Assinar todas as Notas.\n\n\n  \n\n\nAp\u00f3s assinar o sistema apresentar\u00e1 essa mensagem:\n\n\n  \n\n\nClicando em \nOK\n, passar\u00e1 de a aba \nASSINAR\n para \nENVIAR\n. Onde enviaremos para receita.\n\n  \n\n\nPara enviar somente uma nota, devesse selecionar qual a nota que precisa ser emitida. Por\u00e9m se n\u00e3o for selecionada, quando clicar em Enviar o sistema perguntar\u00e1 se deseja Enviar todas as Notas.  \n\n\nOs bot\u00f5es que est\u00e3o destacados t\u00eam as seguintes fun\u00e7\u00f5es:  \n\n\n\n\nEnviar NFE:\n Ao clicar no bot\u00e3o a nota ser\u00e1 enviado para receita.\n\n\nAuditor Fiscal:\n Verifica se a nota est\u00e1 correta e se o XML da nota est\u00e1 v\u00e1lido.\n\n\nPrever Danfe:\n Visualiza a nota impressa, sem valor fiscal.  \n\n\n\n\nAp\u00f3s Enviar a NFE, apresentar mensagem, de enviado com sucesso.  V\u00e1 para pr\u00f3xima aba ao clicar em \nOk\n.\n\n  \n\n\nSelecione a nota e clique em \nConsultar NFE\n, que irar verificar se foi aceita pela receita e autorizar se estiver ok.  \n\n\nLogo, os bot\u00f5es que est\u00e3o destacados pode-se utilizado da maneira que preferir, exceto o bot\u00e3o \nCancelar NFE\n.  \n\n\n\n\nVisualiza Danfe:\n Apresenta como a nota ficar\u00e1 impressa.\n\n\nImprimir Danfe:\n Imprime nota fiscal.\n\n\nEnviar Danfe por E-mail:\n Envia a nota junto com XML.\n\n\nGerar PDF:\n gera documento PDF.\n\n\nGerar XML:\n gera XML, desde que o sistema n\u00e3o encontre o xml na pasta.\n\n\nCancelar NFE:\n Cancelar Nota devido algum problema, utilizar de prefer\u00eancia quando a mercadoria n\u00e3o saiu do estabelecimento.",
+            "title": "Nota Fiscal Eletronica"
+        },
+        {
+            "location": "/modulos/faturamento/movimentos/nfe/#nota-fiscal-eletronica",
+            "text": "",
+            "title": "Nota Fiscal Eletronica"
+        },
+        {
+            "location": "/modulos/faturamento/movimentos/nfe/#enviando-nota-para-receita",
+            "text": "Ap\u00f3s gerar nota \u00e9 necess\u00e1rio encaminhar para receita. \nClique em NFE, como segue a imagem abaixo:        Lembrando que voc\u00ea pode acessar essa mesma tela pelo caminho:     \"Faturamento > Movimentos > Nota Fiscal Eletronica\"     Nessa tela, ser\u00e1 listado todas as notas que foram geradas na Aba  ASSINAR . Para assinar somente uma nota, devesse selecionar qual a nota que precisa ser emitida. Por\u00e9m se n\u00e3o for selecionada, quando clicar em Assinar o sistema perguntar\u00e1 se deseja Assinar todas as Notas.      Ap\u00f3s assinar o sistema apresentar\u00e1 essa mensagem:      Clicando em  OK , passar\u00e1 de a aba  ASSINAR  para  ENVIAR . Onde enviaremos para receita.     Para enviar somente uma nota, devesse selecionar qual a nota que precisa ser emitida. Por\u00e9m se n\u00e3o for selecionada, quando clicar em Enviar o sistema perguntar\u00e1 se deseja Enviar todas as Notas.    Os bot\u00f5es que est\u00e3o destacados t\u00eam as seguintes fun\u00e7\u00f5es:     Enviar NFE:  Ao clicar no bot\u00e3o a nota ser\u00e1 enviado para receita.  Auditor Fiscal:  Verifica se a nota est\u00e1 correta e se o XML da nota est\u00e1 v\u00e1lido.  Prever Danfe:  Visualiza a nota impressa, sem valor fiscal.     Ap\u00f3s Enviar a NFE, apresentar mensagem, de enviado com sucesso.  V\u00e1 para pr\u00f3xima aba ao clicar em  Ok .     Selecione a nota e clique em  Consultar NFE , que irar verificar se foi aceita pela receita e autorizar se estiver ok.    Logo, os bot\u00f5es que est\u00e3o destacados pode-se utilizado da maneira que preferir, exceto o bot\u00e3o  Cancelar NFE .     Visualiza Danfe:  Apresenta como a nota ficar\u00e1 impressa.  Imprimir Danfe:  Imprime nota fiscal.  Enviar Danfe por E-mail:  Envia a nota junto com XML.  Gerar PDF:  gera documento PDF.  Gerar XML:  gera XML, desde que o sistema n\u00e3o encontre o xml na pasta.  Cancelar NFE:  Cancelar Nota devido algum problema, utilizar de prefer\u00eancia quando a mercadoria n\u00e3o saiu do estabelecimento.",
+            "title": "Enviando nota para receita"
+        }
+    ]
+}
