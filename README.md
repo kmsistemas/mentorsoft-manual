@@ -21,3 +21,16 @@ pip install --upgrade pip
 pip install -r requirements.txt
 mkdocs serve
 ```
+
+
+## Links Úteis
+
+Projeto criado com MkDocs
+ - http://www.mkdocs.org/
+
+Tema: Material
+ - http://squidfunk.github.io/mkdocs-material/
+
+Linguagem: Markdown
+ - https://blog.ghost.org/markdown/
+ - https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
