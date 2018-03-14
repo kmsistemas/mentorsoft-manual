@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/</loc>
+     <loc>https://manual-mentorsoft.disqus.com/</loc>
      <lastmod>2018-03-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -11,7 +11,7 @@
 
     
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/instalacao/</loc>
+     <loc>https://manual-mentorsoft.disqus.com/instalacao/</loc>
      <lastmod>2018-03-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -20,95 +20,49 @@
     
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/modulos/comercial/</loc>
+     <loc>https://manual-mentorsoft.disqus.com/modulos/comercial/</loc>
      <lastmod>2018-03-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/modulos/estoque/</loc>
+     <loc>https://manual-mentorsoft.disqus.com/modulos/estoque/</loc>
      <lastmod>2018-03-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/modulos/industrial/</loc>
+     <loc>https://manual-mentorsoft.disqus.com/modulos/industrial/</loc>
      <lastmod>2018-03-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/modulos/faturamento/</loc>
+     <loc>https://manual-mentorsoft.disqus.com/modulos/faturamento/</loc>
      <lastmod>2018-03-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/modulos/grh/</loc>
+     <loc>https://manual-mentorsoft.disqus.com/modulos/grh/</loc>
      <lastmod>2018-03-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/modulos/pagar/</loc>
+     <loc>https://manual-mentorsoft.disqus.com/modulos/pagar/</loc>
      <lastmod>2018-03-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/modulos/receber/</loc>
+     <loc>https://manual-mentorsoft.disqus.com/modulos/receber/</loc>
      <lastmod>2018-03-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/modulos/tesouraria/</loc>
-     <lastmod>2018-03-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/cadclien/</loc>
-     <lastmod>2018-03-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/cadrepre/</loc>
-     <lastmod>2018-03-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/cadforn/</loc>
-     <lastmod>2018-03-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/cadtpped/</loc>
-     <lastmod>2018-03-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/cadcondpg/</loc>
-     <lastmod>2018-03-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/cadcest/</loc>
-     <lastmod>2018-03-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br/cadtribu/</loc>
+     <loc>https://manual-mentorsoft.disqus.com/modulos/tesouraria/</loc>
      <lastmod>2018-03-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -118,31 +72,77 @@
     
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br</loc>
+     <loc>https://manual-mentorsoft.disqus.com/cadclien/</loc>
+     <lastmod>2018-03-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://manual-mentorsoft.disqus.com/cadrepre/</loc>
+     <lastmod>2018-03-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://manual-mentorsoft.disqus.com/cadforn/</loc>
+     <lastmod>2018-03-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://manual-mentorsoft.disqus.com/cadtpped/</loc>
+     <lastmod>2018-03-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://manual-mentorsoft.disqus.com/cadcondpg/</loc>
+     <lastmod>2018-03-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://manual-mentorsoft.disqus.com/cadcest/</loc>
+     <lastmod>2018-03-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://manual-mentorsoft.disqus.com/cadtribu/</loc>
+     <lastmod>2018-03-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://manual-mentorsoft.disqus.com</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br</loc>
+     <loc>https://manual-mentorsoft.disqus.com</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br</loc>
+     <loc>https://manual-mentorsoft.disqus.com</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br</loc>
+     <loc>https://manual-mentorsoft.disqus.com</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://manual-mentorsoft.kmsistemas.com.br</loc>
+     <loc>https://manual-mentorsoft.disqus.com</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
