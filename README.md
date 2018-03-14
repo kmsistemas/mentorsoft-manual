@@ -1,0 +1,23 @@
+# Manual MentorSoft
+
+Manual de uso do sistema MentorSoft.
+
+
+## Como desenvolver?
+
+01. Clone o repositório;
+02. Crie uma "virtualenv" com Python 3.6;
+03. Ative a "virtualenv";
+04. Atualize o "pip";
+05. Instale as dependências;
+06. Rode o projeto;
+
+```console
+git clone https://github.com/KmSistemas/mentorsoft-manual.git
+cd mentorsoft-manual
+python -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+mkdocs serve
+```

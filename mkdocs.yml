@@ -1,0 +1,117 @@
+# Project information
+site_name: 'MentorSoft Manual'
+site_description: 'KM SISTEMAS DE GESTÃO'
+site_author: 'KM Sistemas'
+site_url: 'http://manual-mentorsoft.kmsistemas.com.br'
+
+# Repository
+#repo_name: 'KmSistemas/mentorsoft-manual'
+#repo_url: 'https://github.com/KmSistemas/mentorsoft-manual'
+
+# Copyright
+copyright: 'Copyright &copy; 2016 - 2018 KM Sistemas'
+
+# Configuration
+theme:
+  name: 'material'
+
+  # https://squidfunk.github.io/mkdocs-material/customization/
+  custom_dir: 'custom_theme'
+  logo: 'img/logo.png'
+  favicon: 'assets/images/favicon.ico'
+  language: 'pt'
+  palette:
+    primary: 'green'
+    accent: 'light green'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  feature:
+    tabs: true
+
+# Customization
+extra:
+  social:
+    - type: 'facebook'
+      link: 'https://www.facebook.com/kmsistemas.br'
+    - type: 'google-plus'
+      link: 'https://plus.google.com/u/0/+KmSistemasBrApucarana'
+#  disqus: 'your-shortname'
+
+#google_analytics:
+#  - 'UA-XXXXXXXX-X'
+#  - 'auto'
+
+# Extensions
+markdown_extensions:
+  # https://squidfunk.github.io/mkdocs-material/extensions/admonition/
+  - admonition
+
+  # https://squidfunk.github.io/mkdocs-material/extensions/codehilite/
+  - codehilite
+
+  # https://squidfunk.github.io/mkdocs-material/extensions/footnotes/
+  - footnotes
+
+  # https://squidfunk.github.io/mkdocs-material/extensions/metadata/
+  - meta
+
+  # https://squidfunk.github.io/mkdocs-material/extensions/permalinks/
+  - toc:
+      #permalink: true
+      permalink: '«'
+
+  # https://squidfunk.github.io/mkdocs-material/extensions/pymdown/
+  #- pymdownx.arithmatex
+  #- pymdownx.betterem:
+  #    smart_enable: all
+  #- pymdownx.caret
+  #- pymdownx.critic
+  #- pymdownx.details
+  #- pymdownx.emoji:
+  #    emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  #- pymdownx.inlinehilite
+  #- pymdownx.magiclink
+  #- pymdownx.mark
+  #- pymdownx.smartsymbols
+  #- pymdownx.superfences
+  #- pymdownx.tasklist:
+  #    custom_checkbox: true
+  #- pymdownx.tilde
+
+# Pages
+pages:
+  - Início: index.md
+  - Instalação: instalacao.md
+  - Módulos:
+    - 'Comercial': 'modulos/comercial/index.md'
+    - 'Estoque': 'modulos/estoque/index.md'
+    - 'Industrial': 'modulos/industrial/index.md'
+    - 'Faturamento': 'modulos/faturamento/index.md'
+    - 'GRH': 'modulos/grh/index.md'
+    - 'Pagar': 'modulos/pagar/index.md'
+    - 'Receber': 'modulos/receber/index.md'
+    - 'Tesouraria': 'modulos/tesouraria/index.md'
+  - Cadastros:
+    - 'Cliente': 'cadclien.md'
+    - 'Representante': 'cadrepre.md'
+    - 'Fornecedor': 'cadforn.md'
+    - 'Tipo de Pedido': 'cadtpped.md'
+    - 'Condição Pagamento': 'cadcondpg.md'
+    - 'Cadastro CEST': 'cadcest.md'
+    - 'Cadastro Tributação': 'cadtribu.md'
+  - Movimentos:
+    - 'Comercial':
+      - 'Comunicação com Cliente': 'modulos/comercial/movimentos/comuclien.md'
+    - 'Estoque':
+      - 'Solicitação de Compra': 'modulos/estoque/movimentos/solcompra.md'
+      - 'Romaneio de Faturamento': 'modulos/estoque/movimentos/romaneiofat.md'
+    - 'Pagar':
+      - 'Operação de Pagamento': 'modulos/pagar/movimentos/oppag.md'
+      - 'Manutenção Parcelas a Pagar': 'modulos/pagar/movimentos/parcpagar.md'
+      - 'Adiantamento de Fornecedores': 'modulos/pagar/movimentos/adianforne.md'
+    - 'Receber':
+      - 'Operação de Recebimento': 'modulos/receber/movimentos/oprec.md'
+    - 'Faturamento':
+      - 'Abertura de Faturamento': 'modulos/faturamento/movimentos/fatabert.md'
+      - 'Nota Fiscal Eletronica': 'modulos/faturamento/movimentos/nfe.md'
