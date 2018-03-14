@@ -2,7 +2,8 @@
 site_name: 'MentorSoft Manual'
 site_description: 'KM SISTEMAS DE GESTÃO'
 site_author: 'KM Sistemas'
-site_url: 'http://manual-mentorsoft.kmsistemas.com.br'
+#site_url: 'http://manual-mentorsoft.kmsistemas.com.br'
+site_url: 'https://manual-mentorsoft.disqus.com'
 
 # Repository
 #repo_name: 'KmSistemas/mentorsoft-manual'
@@ -36,7 +37,7 @@ extra:
       link: 'https://www.facebook.com/kmsistemas.br'
     - type: 'google-plus'
       link: 'https://plus.google.com/u/0/+KmSistemasBrApucarana'
-#  disqus: 'your-shortname'
+  disqus: 'manual-mentorsoft'
 
 #google_analytics:
 #  - 'UA-XXXXXXXX-X'

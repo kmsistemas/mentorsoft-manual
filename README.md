@@ -11,6 +11,7 @@ Manual de uso do sistema MentorSoft.
 04. Atualize o "pip";
 05. Instale as dependências;
 06. Rode o projeto;
+07. Faça deploy do projeto;
 
 ```console
 git clone https://github.com/KmSistemas/mentorsoft-manual.git
@@ -20,6 +21,7 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 mkdocs serve
+mkdocs gh-deploy
 ```
 
 
