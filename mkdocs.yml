@@ -62,6 +62,9 @@ markdown_extensions:
       #permalink: true
       permalink: '«'
 
+  - markdown_include.include:
+        base_path: docs
+
   # https://squidfunk.github.io/mkdocs-material/extensions/pymdown/
   #- pymdownx.arithmatex
   #- pymdownx.betterem:
@@ -86,7 +89,7 @@ pages:
   - Comercial:
     - 'Inicio': 'modulos/comercial/index.md'
     - Cadastros:
-      - 'Cliente': 'comum/cadastro-cliente.md'
+      - 'Cliente': 'modulos/comercial/cadastro/cadastro-cliente.md'
       - 'Representante': 'comum/cadastro-representante.md'
       - 'Fornecedor': 'comum/cadastro-fornecedor.md'
       - 'Tipo de Pedido': 'comum/cadastro-tipo-pedido.md'
