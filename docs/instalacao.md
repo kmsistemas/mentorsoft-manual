@@ -1,6 +1,6 @@
 # Instalação do sistema  
 
-## Instalar Sistema do Principio
+## Como instalar o Sistema MentorSoft.
 Nesse passo a passo, estaremos ensinando a como fazer a instalação do sistema em uma máquina qualquer.  
 Para continuar, precisaremos de acesso ao servidor.  
 
@@ -12,7 +12,7 @@ Após a conclusão do mapeamento, ao acessar o mapeamento (K:\) deve encontrar a
 >> - EXE  
 >> - NFE  
 
-![1](img/sisinstall/1.png)  
+![1](img/instalacao-sistemas/1.png)  
 
 No seu C:\ crie uma pasta chamada **MentorSoft** dentro dessa pasta deve ficar da seguinte forma:  
 > Backup – Pasta padrão de backup do sistema  

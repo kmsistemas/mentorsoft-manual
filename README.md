@@ -3,7 +3,7 @@
 Manual de uso do sistema MentorSoft.
 
 
-## Como desenvolver?
+## Setup inicial?
 
 01. Clone o repositório;
 02. Crie uma "virtualenv" com Python 3.6;
@@ -17,13 +17,34 @@ Manual de uso do sistema MentorSoft.
 git clone https://github.com/KmSistemas/mentorsoft-manual.git
 cd mentorsoft-manual
 python -m venv .venv
+
+# OSX
 source .venv/bin/activate
+
+#windows
+.venv\Scripts\activate.bat
+
 pip install --upgrade pip
 pip install -r requirements.txt
 mkdocs serve
 mkdocs gh-deploy
 ```
 
+
+## Como desenvolver?
+
+```console
+# OSX
+source .venv/bin/activate
+
+#windows
+.venv\Scripts\activate.bat
+
+mkdocs serve
+#Servidor na Rede
+mkdocs serve -a 0.0.0.0:8000
+mkdocs gh-deploy
+```
 
 ## Links Úteis
 

@@ -1,6 +1,6 @@
 # Project information
 site_name: 'MentorSoft Manual'
-site_description: 'KM SISTEMAS DE GESTÃO'
+site_description: 'K&M SISTEMAS DE GESTÃO'
 site_author: 'KM Sistemas'
 #site_url: 'http://manual-mentorsoft.kmsistemas.com.br'
 site_url: 'https://manual-mentorsoft.disqus.com'
@@ -10,7 +10,7 @@ site_url: 'https://manual-mentorsoft.disqus.com'
 #repo_url: 'https://github.com/KmSistemas/mentorsoft-manual'
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2018 KM Sistemas'
+copyright: 'Copyright &copy; 2016 - 2018 K&M Sistemas'
 
 # Configuration
 theme:
@@ -83,36 +83,67 @@ markdown_extensions:
 # Pages
 pages:
   - Início: index.md
-  - Instalação: instalacao.md
-  - Módulos:
-    - 'Comercial': 'modulos/comercial/index.md'
-    - 'Estoque': 'modulos/estoque/index.md'
+  - Comercial:
+    - 'Inicio': 'modulos/comercial/index.md'
+    - Cadastros:
+      - 'Cliente': 'comum/cadastro-cliente.md'
+      - 'Representante': 'comum/cadastro-representante.md'
+      - 'Fornecedor': 'comum/cadastro-fornecedor.md'
+      - 'Tipo de Pedido': 'comum/cadastro-tipo-pedido.md'
+      - 'Condição Pagamento': 'comum/cadastro-condicao-pagamento.md'
+      - 'Produtos': 'comum/cadastro-produto.md'
+      - 'Tipo Despesa/Receita': 'modulos/comercial/cadastro/cadastro-tipo-despesa-receita.md'
+      - 'Embalagens': 'comum/cadastro-embalagens.md'
+    - Movimentos:
+      - 'Comunicação com Cliente': 'modulos/comercial/movimentos/comunicacao-com-clientes.md'
+      - 'Pedidos': 'modulos/comercial/movimentos/inserir-pedidos.md'
+  - Estoque:
+    - 'Inicio': 'modulos/estoque/index.md'
+    - Cadastros:
+      - 'Produtos': 'comum/cadastro-produto.md'
+      - 'Fornecedor': 'comum/cadastro-fornecedor.md'
+      - 'Embalagens': 'comum/cadastro-embalagens.md'
+      - 'Inventário': 'modulos/estoque/movimentos/inventario.md'
+    - Movimentos:
+      - 'Entrada por Nota Fiscal': 'comum/entrada-por-nota-fiscal.md'
+      - 'Solicitação de Compra': 'modulos/estoque/movimentos/solicitacao-compra.md'
+      - 'Romaneio de Faturamento': 'modulos/estoque/movimentos/romaneio-faturamento.md'
+      - 'Código de Barras': 'modulos/estoque/movimentos/codigo-barras.md'
+  - Faturamento:
+    - 'Inicio': 'modulos/faturamento/index.md'
+    - Cadastro:
+      - 'Cliente': 'comum/cadastro-cliente.md'
+      - 'Fornecedor': 'comum/cadastro-fornecedor.md'
+      - 'Cadastro CEST': 'comum/cadastro-cest.md'
+      - 'Cadastro Tributação': 'comum/cadastro-tributacao.md'
+    - Movimentos:
+      - 'Abertura de Faturamento': 'modulos/faturamento/movimentos/abertura-faturamento.md'
+      - 'Entrada por Nota Fiscal': 'comum/entrada-por-nota-fiscal.md'
+      - 'Nota Fiscal Eletronica': 'modulos/faturamento/movimentos/nota-fiscal-eletronica.md'
+      - 'Pedidos': 'modulos/comercial/movimentos/inserir-pedidos.md'
+  - Industrial:
     - 'Industrial': 'modulos/industrial/index.md'
-    - 'Faturamento': 'modulos/faturamento/index.md'
+  - GRH:
     - 'GRH': 'modulos/grh/index.md'
-    - 'Pagar': 'modulos/pagar/index.md'
-    - 'Receber': 'modulos/receber/index.md'
+  - Pagar:
+    - 'Inicio': 'modulos/pagar/index.md'
+    - Cadastros:
+      - 'Fornecedor': 'comum/cadastro-fornecedor.md'
+    - Movimentos:
+      - 'Operação de Pagamento': 'modulos/pagar/movimentos/operacao-pagamento.md'
+      - 'Manutenção Parcelas a Pagar': 'modulos/pagar/movimentos/manutencao-parcelas-pagar.md'
+      - 'Adiantamento de Fornecedores': 'modulos/pagar/movimentos/adiantamento-fornecedor.md'
+  - Receber:
+    - 'Inicio': 'modulos/receber/index.md'
+    - Cadastros:
+      - 'Cliente': 'comum/cadastro-cliente.md'
+    - Movimentos:
+      - 'Operação de Recebimento': 'modulos/receber/movimentos/operacao-recebimento.md'
+  - Tesouraria:
     - 'Tesouraria': 'modulos/tesouraria/index.md'
-  - Cadastros:
-    - 'Cliente': 'cadclien.md'
-    - 'Representante': 'cadrepre.md'
-    - 'Fornecedor': 'cadforn.md'
-    - 'Tipo de Pedido': 'cadtpped.md'
-    - 'Condição Pagamento': 'cadcondpg.md'
-    - 'Cadastro CEST': 'cadcest.md'
-    - 'Cadastro Tributação': 'cadtribu.md'
-  - Movimentos:
-    - 'Comercial':
-      - 'Comunicação com Cliente': 'modulos/comercial/movimentos/comuclien.md'
-    - 'Estoque':
-      - 'Solicitação de Compra': 'modulos/estoque/movimentos/solcompra.md'
-      - 'Romaneio de Faturamento': 'modulos/estoque/movimentos/romaneiofat.md'
-    - 'Pagar':
-      - 'Operação de Pagamento': 'modulos/pagar/movimentos/oppag.md'
-      - 'Manutenção Parcelas a Pagar': 'modulos/pagar/movimentos/parcpagar.md'
-      - 'Adiantamento de Fornecedores': 'modulos/pagar/movimentos/adianforne.md'
-    - 'Receber':
-      - 'Operação de Recebimento': 'modulos/receber/movimentos/oprec.md'
-    - 'Faturamento':
-      - 'Abertura de Faturamento': 'modulos/faturamento/movimentos/fatabert.md'
-      - 'Nota Fiscal Eletronica': 'modulos/faturamento/movimentos/nfe.md'
+
+  - Suporte:
+    - 'Instalacao': 'instalacao.md'
+    - NFBR:
+      - 'Tela de Login': 'nfbr/cadastro/nfbr-tela-login.md'
+      - 'Cadastro de Produto': 'nfbr/cadastro/nfbr-cadastro-produtos.md'

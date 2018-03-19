@@ -12,11 +12,11 @@
 ---
 
 **Este manual está em desenvolvimento para auxiliar os nossos usuários com duvidas ao sistema.   
-Ainda nao possui não possui todo o conteúdo. Caso não encontre a informação que procura, entre em contato com o [suporte](http://www.kmsistemas.com.br/atendimento-2/) solicitando uma futura inclusão do mesmo!**
+Ainda não possui todo o conteúdo. Caso não encontre a informação que procura, entre em contato com o [suporte](http://www.kmsistemas.com.br/atendimento-2/) solicitando uma futura inclusão do mesmo!**
 
 ---
 ## Aprenda a Instalar  
-> [![Instalação](/img/modulos/inst.png)](instalacao.md)
+> [![Instalação](/img/modulos/instalacao.png)](instalacao.md) Instalação
 
 ## Módulos Disponiveis
 
