@@ -1,10 +1,10 @@
 # Modulo Pagar
 
 > Cadastros
->> [Fornecedor](/comum/cadastro-fornecedor.md) - Aprenda a como cadastrar um fornecedor.  
->> [Endereço do Fornecedor](/comum/cadastro-fornecedor/#cadastrando-endereco-do-fornecedor) - Aprenda a como cadastrar um Endereço do Fornecedor.   
->> [Contato do Fornecedor](/comum/cadastro-fornecedor/#cadastrando-contatos-do-cliente) - Aprenda a como cadastrar um Contato do Fornecedor.  
->> [Condição Pagamento](/comum/cadastro-condicao-pagamento.md) - Aprenda a como cadastrar uma Condição de Pagamento.  
+>> [Fornecedor](/modulos/pagar/cadastro/cadastro-fornecedor.md) - Aprenda a como cadastrar um fornecedor.  
+>> [Endereço do Fornecedor](/modulos/pagar/cadastro/cadastro-fornecedor/#cadastrando-endereco-do-fornecedor) - Aprenda a como cadastrar um Endereço do Fornecedor.   
+>> [Contato do Fornecedor](/modulos/pagar/cadastro/cadastro-fornecedor/#cadastrando-contatos-do-cliente) - Aprenda a como cadastrar um Contato do Fornecedor.  
+>> [Condição Pagamento](/modulos/pagar/cadastro/cadastro-condicao-pagamento.md) - Aprenda a como cadastrar uma Condição de Pagamento.  
 
 ---
 

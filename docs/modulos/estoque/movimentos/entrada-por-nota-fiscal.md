@@ -1,0 +1,1 @@
+{!comum/entrada-por-nota-fiscal.md!}

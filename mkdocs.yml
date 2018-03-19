@@ -90,48 +90,52 @@ pages:
     - 'Inicio': 'modulos/comercial/index.md'
     - Cadastros:
       - 'Cliente': 'modulos/comercial/cadastro/cadastro-cliente.md'
-      - 'Representante': 'comum/cadastro-representante.md'
-      - 'Fornecedor': 'comum/cadastro-fornecedor.md'
-      - 'Tipo de Pedido': 'comum/cadastro-tipo-pedido.md'
-      - 'Condição Pagamento': 'comum/cadastro-condicao-pagamento.md'
-      - 'Produtos': 'comum/cadastro-produto.md'
+      - 'Representante': 'modulos/comercial/cadastro/cadastro-representante.md'
+      - 'Fornecedor': 'modulos/comercial/cadastro/cadastro-fornecedor.md'
+      - 'Tipo de Pedido': 'modulos/comercial/cadastro/cadastro-tipo-pedido.md'
+      - 'Condição Pagamento': 'modulos/comercial/cadastro/cadastro-condicao-pagamento.md'
+      - 'Produtos': 'modulos/comercial/cadastro/cadastro-produto.md'
       - 'Tipo Despesa/Receita': 'modulos/comercial/cadastro/cadastro-tipo-despesa-receita.md'
-      - 'Embalagens': 'comum/cadastro-embalagens.md'
+      - 'Embalagens': 'modulos/comercial/cadastro/cadastro-embalagens.md'
     - Movimentos:
       - 'Comunicação com Cliente': 'modulos/comercial/movimentos/comunicacao-com-clientes.md'
       - 'Pedidos': 'modulos/comercial/movimentos/inserir-pedidos.md'
   - Estoque:
     - 'Inicio': 'modulos/estoque/index.md'
     - Cadastros:
-      - 'Produtos': 'comum/cadastro-produto.md'
-      - 'Fornecedor': 'comum/cadastro-fornecedor.md'
-      - 'Embalagens': 'comum/cadastro-embalagens.md'
-      - 'Inventário': 'modulos/estoque/movimentos/inventario.md'
+      - 'Produtos': 'modulos/estoque/cadastro/cadastro-produto.md'
+      - 'Fornecedor': 'modulos/estoque/cadastro/cadastro-fornecedor.md'
+      - 'Embalagens': 'modulos/estoque/cadastro/cadastro-embalagens.md'
     - Movimentos:
-      - 'Entrada por Nota Fiscal': 'comum/entrada-por-nota-fiscal.md'
+      - 'Entrada por Nota Fiscal': 'modulos/estoque/movimentos/entrada-por-nota-fiscal.md'
       - 'Solicitação de Compra': 'modulos/estoque/movimentos/solicitacao-compra.md'
       - 'Romaneio de Faturamento': 'modulos/estoque/movimentos/romaneio-faturamento.md'
       - 'Código de Barras': 'modulos/estoque/movimentos/codigo-barras.md'
+      - 'Inventário': 'modulos/estoque/movimentos/inventario.md'
   - Faturamento:
     - 'Inicio': 'modulos/faturamento/index.md'
     - Cadastro:
-      - 'Cliente': 'comum/cadastro-cliente.md'
-      - 'Fornecedor': 'comum/cadastro-fornecedor.md'
-      - 'Cadastro CEST': 'comum/cadastro-cest.md'
-      - 'Cadastro Tributação': 'comum/cadastro-tributacao.md'
+      - 'Cliente': 'modulos/faturamento/cadastro/cadastro-cliente.md'
+      - 'Fornecedor': 'modulos/faturamento/cadastro/cadastro-fornecedor.md'
+      - 'Cadastro CEST': 'modulos/faturamento/cadastro/cadastro-cest.md'
+      - 'Cadastro Tributação': 'modulos/faturamento/cadastro/cadastro-tributacao.md'
+      - 'Cadastro Tipo de Pedido': 'modulos/faturamento/cadastro/cadastro-tipo-pedido.md'
     - Movimentos:
       - 'Abertura de Faturamento': 'modulos/faturamento/movimentos/abertura-faturamento.md'
-      - 'Entrada por Nota Fiscal': 'comum/entrada-por-nota-fiscal.md'
+      - 'Entrada por Nota Fiscal': 'modulos/faturamento/movimentos/entrada-por-nota-fiscal.md'
       - 'Nota Fiscal Eletronica': 'modulos/faturamento/movimentos/nota-fiscal-eletronica.md'
-      - 'Pedidos': 'modulos/comercial/movimentos/inserir-pedidos.md'
+      - 'Pedidos': 'modulos/faturamento/movimentos/inserir-pedidos.md'
   - Industrial:
     - 'Industrial': 'modulos/industrial/index.md'
   - GRH:
     - 'GRH': 'modulos/grh/index.md'
+    - Cadastros:
+      - 'Fornecedor': 'modulos/grh/cadastro/cadastro-fornecedor.md'
   - Pagar:
     - 'Inicio': 'modulos/pagar/index.md'
     - Cadastros:
-      - 'Fornecedor': 'comum/cadastro-fornecedor.md'
+      - 'Fornecedor': 'modulos/pagar/cadastro/cadastro-fornecedor.md'
+      - 'Condição Pagamento': 'modulos/pagar/cadastro/cadastro-condicao-pagamento.md'
     - Movimentos:
       - 'Operação de Pagamento': 'modulos/pagar/movimentos/operacao-pagamento.md'
       - 'Manutenção Parcelas a Pagar': 'modulos/pagar/movimentos/manutencao-parcelas-pagar.md'
@@ -139,7 +143,8 @@ pages:
   - Receber:
     - 'Inicio': 'modulos/receber/index.md'
     - Cadastros:
-      - 'Cliente': 'comum/cadastro-cliente.md'
+      - 'Cliente': 'modulos/receber/cadastro/cadastro-cliente.md'
+      - 'Condição Pagamento': 'modulos/receber/cadastro/cadastro-condicao-pagamento.md'
     - Movimentos:
       - 'Operação de Recebimento': 'modulos/receber/movimentos/operacao-recebimento.md'
   - Tesouraria:

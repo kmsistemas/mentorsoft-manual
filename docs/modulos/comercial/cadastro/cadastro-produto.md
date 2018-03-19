@@ -1,0 +1,1 @@
+{!comum/cadastro-produto.md!}
