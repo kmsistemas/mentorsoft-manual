@@ -11,8 +11,11 @@
 
 ---
 
-**Este manual está em desenvolvimento para auxiliar os nossos usuários com duvidas ao sistema.   
-Ainda não possui todo o conteúdo. Caso não encontre a informação que procura, entre em contato com o [suporte](http://www.kmsistemas.com.br/atendimento-2/) solicitando uma futura inclusão do mesmo!**
+** Este manual foi criado para auxiliar os usuários com dúvidas no funcionamento do sistema.
+Para isso estamos aprimorando ainda mais este manual, para melhor comodidade do usuário. Caso você não encontre a informação que procura, entre em contato conosco, através do nosso [suporte](http://www.kmsistemas.com.br/atendimento-2/) e solicite a inclusão de demais informações.
+**
+
+>>K&M Sistemas - "Vamos crescer juntos"
 
 ---
 ## Aprenda a Instalar  
