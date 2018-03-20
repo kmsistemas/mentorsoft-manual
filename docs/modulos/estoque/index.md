@@ -1,4 +1,4 @@
-# Modulo Estoque
+# Módulo Estoque
 
 > Cadastros
 >> [Fornecedor](/modulos/estoque/cadastro/cadastro-fornecedor.md) - Aprenda a como cadastrar um fornecedor.  

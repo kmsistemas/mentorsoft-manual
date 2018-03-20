@@ -1,4 +1,4 @@
-# Modulo Industrial
+# Módulo Industrial
 
 > Cadastros
 

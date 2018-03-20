@@ -1,4 +1,4 @@
-# Modulo Faturamento
+# Módulo Faturamento
 
 > Cadastros
 >> [Cliente](/modulos/faturamento/cadastro/cadastro-cliente.md) - Aprenda a como cadastrar um Cliente.  

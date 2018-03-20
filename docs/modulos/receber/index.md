@@ -1,4 +1,4 @@
-# Modulo Receber
+# Módulo Receber
 
 > Cadastros
 >> [Cliente](/modulos/receber/cadastro/cadastro-cliente.md) - Aprenda a como cadastrar um Cliente.  

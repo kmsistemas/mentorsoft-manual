@@ -1,4 +1,4 @@
-# Modulo Pagar
+# Módulo Pagar
 
 > Cadastros
 >> [Fornecedor](/modulos/pagar/cadastro/cadastro-fornecedor.md) - Aprenda a como cadastrar um fornecedor.  

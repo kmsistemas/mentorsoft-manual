@@ -1,4 +1,4 @@
-# Modulo GRH
+# Módulo GRH
 
 > Cadastros
 >> [Fornecedor](/modulos/grh/cadastro/cadastro-fornecedor/#cadastrando-fornecedor) - Aprenda a como cadastrar um fornecedor.  
