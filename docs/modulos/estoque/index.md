@@ -14,5 +14,6 @@
 >> [Solicitação de Compra](/modulos/estoque/movimentos/solicitacao-compra.md) - Solicite uma nova compra.  
 >> [Romaneio de Faturamento](/modulos/estoque/movimentos/romaneio-faturamento.md) - Embale seus produtos.                                                                   
 >> [Código de Barras](/modulos/estoque/movimentos/codigo-barras.md) - Emissão de Código de Barras.      
->> [Inventário](/modulos/estoque/movimentos/inventario/#gerando-inventario) - Como gerar um Inventário. 
+>> [Inventário](/modulos/estoque/movimentos/inventario/#gerando-inventario) - Como gerar um Inventário.  
+>> [Movimentação de Estoque](/modulos/estoque/movimentos/movimentacao-estoque/) - Como fazer uma movimentação de estoque manual. 
   

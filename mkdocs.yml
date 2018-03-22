@@ -112,6 +112,7 @@ pages:
       - 'Romaneio de Faturamento': 'modulos/estoque/movimentos/romaneio-faturamento.md'
       - 'Código de Barras': 'modulos/estoque/movimentos/codigo-barras.md'
       - 'Inventário': 'modulos/estoque/movimentos/inventario.md'
+      - 'Movimentação de Estoque': 'modulos/estoque/movimentos/movimentacao-estoque.md'
   - Faturamento:
     - 'Inicio': 'modulos/faturamento/index.md'
     - Cadastro:
