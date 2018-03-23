@@ -113,6 +113,8 @@ pages:
       - 'Código de Barras': 'modulos/estoque/movimentos/codigo-barras.md'
       - 'Inventário': 'modulos/estoque/movimentos/inventario.md'
       - 'Movimentação de Estoque': 'modulos/estoque/movimentos/movimentacao-estoque.md'
+      - 'Transferência de Estoque': 'modulos/estoque/movimentos/transferencia-estoque.md'
+      - 'Pedido de Compra': 'modulos/estoque/movimentos/pedido-de-compra.md'
   - Faturamento:
     - 'Inicio': 'modulos/faturamento/index.md'
     - Cadastro:
@@ -150,7 +152,9 @@ pages:
       - 'Operação de Recebimento': 'modulos/receber/movimentos/operacao-recebimento.md'
   - Tesouraria:
     - 'Tesouraria': 'modulos/tesouraria/index.md'
-
+    - Movimentos:
+      - 'Movimento Financeiro': 'modulos/tesouraria/movimentos/movimento-financeiro.md'
+      - 'Tranferência entre Contas Financeiras': 'modulos/tesouraria/movimentos/transferencia-entre-contas-financeiras.md'
   - Suporte:
     - 'Instalacao': 'instalacao.md'
     - NFBR:
