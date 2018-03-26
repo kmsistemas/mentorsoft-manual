@@ -15,9 +15,12 @@ Apertem em **Insere**, o sistema irá abrir uma tela para selecionar o tipo de o
 >> Selecione a conta que deseja creditar o valor.
 
 > - Tipo
->> Baixa/Transformação: Esquema de Liquidações e liquidações transformando para outros tipos de documentos
 
->> Transferência de Carteira: Transfere um documento para outra carteira (Ex: Boletos/Descontos).
+    >> Baixa/Transformação: 
+    Esquema de Liquidações e liquidações transformando para outros tipos de documentos.        
+
+    >> Transferência de Carteira:
+    Transfere um documento para outra carteira (Ex: Boletos/Descontos).
 
 > - Documento Origem
 >> Qual o tipo de documento que o título que irá ser liquidado está.
