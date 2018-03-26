@@ -16,6 +16,7 @@ Apertem em **Insere**, o sistema irá abrir uma tela para selecionar o tipo de o
 
 > - Tipo
 >> Baixa/Transformação: Esquema de Liquidações e liquidações transformando para outros tipos de documentos
+
 >> Transferência de Carteira: Transfere um documento para outra carteira (Ex: Boletos/Descontos).
 
 > - Documento Origem
