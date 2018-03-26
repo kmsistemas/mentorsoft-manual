@@ -1,7 +1,7 @@
 # Operação de Recebimento
 
 Para inserir uma nova **Operação de Recebimento**, vamos em:    
->  “Módulo Receber » Movimentos » Operação de Pagamento”    
+>  “RECEBER » MOVIMENTOS » OPERACACAO DE RECEBIMENTO”    
 
 Nesse passo a passo iremos mostrar algumas formas de liquidação de documentos a Receber.   
 
@@ -71,3 +71,34 @@ Após selecionar e informar o valor, é só dar TAB até a linha de baixo e apó
 Pronto! Adiantamento selecionado, agora é só processar!  
 
 ---
+
+## Agrupamento de titulos do Receber
+
+Quando precisar agrupar titulos do receber, tera que fazer uma operação de recebimentos no caminho:
+>  “RECEBER » MOVIMENTOS » OPERAÇÃO DE RECEBIMENTO”   
+
+![18](/img/agrupamento-titulos-receber/1.png) 
+
+Clique no botão Insere:
+
+![19](/img/agrupamento-titulos-receber/2.png) 
+
+no Localiza Esquemas de Operações, escolha sua Conta Financeira e depois seu documento origem igual na imagem:
+
+![20](/img/agrupamento-titulos-receber/3.png) 
+
+Veja se tem o tipo de operação agrupamento de titulos (caso não tenha essa opção, entrar em contato com o [suporte](http://www.kmsistemas.com.br/atendimento-2/))
+
+Agora tera que selecionar os titulos que deseja agrupar e clicar no botão carregar, lembrando que tem que ser do mesmo cliente!
+
+![21](/img/agrupamento-titulos-receber/4.png) 
+
+Agora devera ir na aba Dados da Transformação!
+
+![22](/img/agrupamento-titulos-receber/5.png) 
+
+Coloque as informações para gerar o novo titulo como segue na imagem abaixo:
+
+![23](/img/agrupamento-titulos-receber/6.png)
+
+Feito isso, clique no botão de gravar e depois pode processar a operação!
