@@ -34,6 +34,10 @@ mkdocs gh-deploy
 ## Como desenvolver?
 
 ```console
+# Navega até o repositório
+# Puxa todas as alterações do servidor de outros usuários
+git pull
+
 # OSX
 source .venv/bin/activate
 
@@ -49,14 +53,17 @@ mkdocs serve -a 0.0.0.0:8000
 1. Verifica o que foi modificado.  
 2. Adicionar todos os arquivos para serem enviados.  
 3. Commita com uma mensagem de alteração.  
-4. Envia o código para o repositório.  
-5. Faz o deploy no site.  
+4. Puxa todas as alterações do servidor de outros usuários.
+5. Envia o código para o repositório.  
+6. Faz o deploy no site.  
 
 ```console
 git status
 git add .
 git commit -m "Mensagem de Alteração"
-mkdocs gh-deploy  #(serve para enviar os arquivos online)
+git pull
+git push
+mkdocs gh-deploy
 ```
 
 ## Links Úteis
