@@ -43,7 +43,20 @@ source .venv/bin/activate
 mkdocs serve
 #Servidor na Rede
 mkdocs serve -a 0.0.0.0:8000
-mkdocs gh-deploy
+```
+
+## Para atualizar o site  
+1. Verifica o que foi modificado.  
+2. Adicionar todos os arquivos para serem enviados.  
+3. Commita com uma mensagem de alteração.  
+4. Envia o código para o repositório.  
+5. Faz o deploy no site.  
+
+```console
+git status
+git add .
+git commit -m "Mensagem de Alteração"
+mkdocs gh-deploy  #(serve para enviar os arquivos online)
 ```
 
 ## Links Úteis
