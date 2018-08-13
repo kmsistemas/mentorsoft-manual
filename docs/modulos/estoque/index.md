@@ -18,4 +18,9 @@
 >> [Movimentação de Estoque](/modulos/estoque/movimentos/movimentacao-estoque/) - Como fazer uma movimentação de estoque manual.  
 >> [Transferência de Estoque](/modulos/estoque/movimentos/transferencia-estoque/) - Como fazer uma transferência de estoque .     
 >> [Pedido de Compra](/modulos/estoque/movimentos/pedido-de-compra/#gerando-pedido-de-compra) - Como gerar um Pedido de Compra.
+
+---
+
+> Relatorios
+>> [Posição de Estoque](/modulos/estoque/relatorios/posicao-estoque.md) - Relatórios de Estoque.
   

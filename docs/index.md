@@ -21,7 +21,7 @@ Para isso estamos aprimorando ainda mais este manual, para melhor comodidade do 
 ## Aprenda a Instalar  
 > [![Instalação](/img/modulos/instalacao.png)](instalacao.md) Instalação
 
-## Módulos Disponiveis
+## Módulos Disponíveis
 
 >  [![Comercial](/img/modulos/comsist.png)](modulos/comercial)
 >> Simplificam o processo de vendas da sua empresa: Registro de Comunicação com o Cliente, Emissão de Orçamentos, Customização de Produtos, Formação de Custos.  

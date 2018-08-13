@@ -115,6 +115,8 @@ pages:
       - 'Movimentação de Estoque': 'modulos/estoque/movimentos/movimentacao-estoque.md'
       - 'Transferência de Estoque': 'modulos/estoque/movimentos/transferencia-estoque.md'
       - 'Pedido de Compra': 'modulos/estoque/movimentos/pedido-de-compra.md'
+    - Relatorios:
+      - 'Posição de Estoque': 'modulos/estoque/relatorios/posicao-estoque.md'
   - Faturamento:
     - 'Inicio': 'modulos/faturamento/index.md'
     - Cadastro:
