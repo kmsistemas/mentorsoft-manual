@@ -18,8 +18,8 @@ Para isso estamos aprimorando ainda mais este manual, para melhor comodidade do 
 >>K&M Sistemas - "Vamos crescer juntos"
 
 ---
-## Aprenda a Instalar  
-> [![Instalação](/img/modulos/instalacao.png)](instalacao.md) Instalação
+## Como instalar o Sistema 
+> [![Instalação](/img/modulos/instala.png)](instalacao.md)
 
 ## Módulos Disponíveis
 
@@ -46,6 +46,9 @@ Para isso estamos aprimorando ainda mais este manual, para melhor comodidade do 
 
 > [![Tesouraria](/img/modulos/tessist.png)](modulos/tesouraria)
 >> Gestão financeira, Conciliação bancária, Controle de cheques, Fluxo de Caixa, Demonstrativo Gerencial de Resultados.
+
+> [![CTE](/img/modulos/transp.png)](modulos/cte)
+>> Controle de Transporte Eletrônico!
 
 
 * [KM Sistemas de Gestão](http://www.kmsistemas.com.br/)

@@ -157,5 +157,13 @@ pages:
     - Movimentos:
       - 'Movimento Financeiro': 'modulos/tesouraria/movimentos/movimento-financeiro.md'
       - 'Tranferência entre Contas Financeiras': 'modulos/tesouraria/movimentos/transferencia-entre-contas-financeiras.md'
+  - Transporte: 
+    - 'CTE': 'modulos/cte/index.md'
+    - Cadastro:
+        - 'Cadastro de Tipos de Veículo': 'modulos/cte/cadastro/tipos-de-veiculos.md'
+        - 'Cadastro de Marcas de Veículo': 'modulos/cte/cadastro/marcas-de-veiculos.md'
+        - 'Cadastro de Modelos de Veículo': 'modulos/cte/cadastro/modelos-de-veiculos.md'
+    - Movimentos:
+        - 'Controle de CT e': 'modulos/cte/movimentos/controle-cte.md'
   - Suporte:
     - 'Instalacao': 'instalacao.md'
