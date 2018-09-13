@@ -154,6 +154,9 @@ pages:
       - 'Operação de Recebimento': 'modulos/receber/movimentos/operacao-recebimento.md'
   - Tesouraria:
     - 'Tesouraria': 'modulos/tesouraria/index.md'
+    - Cadastro:
+        - 'Bancos': 'modulos/tesouraria/cadastro/bancos.md'
+        - 'Agência': 'modulos/tesouraria/cadastro/agencia.md'
     - Movimentos:
       - 'Movimento Financeiro': 'modulos/tesouraria/movimentos/movimento-financeiro.md'
       - 'Tranferência entre Contas Financeiras': 'modulos/tesouraria/movimentos/transferencia-entre-contas-financeiras.md'
