@@ -177,7 +177,7 @@
         },
         {
             "location": "/modulos/comercial/movimentos/comunicacao-com-clientes/",
-            "text": "Comunica\u00e7\u00e3o com Cliente\n\u00ab\n\n\nInserindo Comunica\u00e7\u00e3o\n\u00ab\n\n\nPara inserir uma comunica\u00e7\u00e3o com o cliente, voc\u00ea deve ir no \u201cCOMERCIAL > MOVIMENTOS > COMUNICA\u00c7\u00c3O COM O CLIENTE\u201d\n\n\n\n\n\n\nIr\u00e1 abrir a seguinte tela:\n\n\n\n\nDevera procurar o cliente, e depois seleciona o mesmo e carregar, como mostra na tela:\n\n\n\n\nVai clicar no bot\u00e3o \n  \n\n\n\n\nVai escolher um Tipo de Comunica\u00e7\u00e3o\n\n\n\n\nAp\u00f3s adicionar o Assunto e os Dados da Comunica\u00e7\u00e3o, vai escolher a data do retorno se tiver, se n\u00e3o tiver vai colocar a data que encerrou a comunica\u00e7\u00e3o.\n\n\n\n\nInserido a Comunica\u00e7\u00e3o com o Cliente.",
+            "text": "Comunica\u00e7\u00e3o com Cliente\n\u00ab\n\n\nInserindo Comunica\u00e7\u00e3o\n\u00ab\n\n\nPara inserir uma comunica\u00e7\u00e3o com o cliente, voc\u00ea deve ir no \u201cCOMERCIAL > MOVIMENTOS > COMUNICA\u00c7\u00c3O COM O CLIENTE\u201d\n\n\n\n\n\n\nIr\u00e1 abrir a seguinte tela:\n\n\n\n\nDevera procurar o cliente, e depois seleciona o mesmo e carregar, como mostra na tela:\n\n\n\n\nVai clicar no bot\u00e3o \n  \n\n\n\n\nVai escolher um Tipo de Comunica\u00e7\u00e3o\n\n\n\n\nAp\u00f3s adicionar o Assunto e os Dados da Comunica\u00e7\u00e3o, vai escolher a data prevista retorno, Hora, e Respons\u00e1vel Retorno, caso seja somente uma comunica\u00e7\u00e3o, voc\u00ea pode colocar seu usu\u00e1rio como respons\u00e1vel retorno e preencher a data de retorno!.\n\n\n\n\nFeito a Comunica\u00e7\u00e3o com o Cliente.",
             "title": "Comunica\u00e7\u00e3o com Cliente"
         },
         {
@@ -187,7 +187,7 @@
         },
         {
             "location": "/modulos/comercial/movimentos/comunicacao-com-clientes/#inserindo-comunicacao",
-            "text": "Para inserir uma comunica\u00e7\u00e3o com o cliente, voc\u00ea deve ir no \u201cCOMERCIAL > MOVIMENTOS > COMUNICA\u00c7\u00c3O COM O CLIENTE\u201d    Ir\u00e1 abrir a seguinte tela:   Devera procurar o cliente, e depois seleciona o mesmo e carregar, como mostra na tela:   Vai clicar no bot\u00e3o       Vai escolher um Tipo de Comunica\u00e7\u00e3o   Ap\u00f3s adicionar o Assunto e os Dados da Comunica\u00e7\u00e3o, vai escolher a data do retorno se tiver, se n\u00e3o tiver vai colocar a data que encerrou a comunica\u00e7\u00e3o.   Inserido a Comunica\u00e7\u00e3o com o Cliente.",
+            "text": "Para inserir uma comunica\u00e7\u00e3o com o cliente, voc\u00ea deve ir no \u201cCOMERCIAL > MOVIMENTOS > COMUNICA\u00c7\u00c3O COM O CLIENTE\u201d    Ir\u00e1 abrir a seguinte tela:   Devera procurar o cliente, e depois seleciona o mesmo e carregar, como mostra na tela:   Vai clicar no bot\u00e3o       Vai escolher um Tipo de Comunica\u00e7\u00e3o   Ap\u00f3s adicionar o Assunto e os Dados da Comunica\u00e7\u00e3o, vai escolher a data prevista retorno, Hora, e Respons\u00e1vel Retorno, caso seja somente uma comunica\u00e7\u00e3o, voc\u00ea pode colocar seu usu\u00e1rio como respons\u00e1vel retorno e preencher a data de retorno!.   Feito a Comunica\u00e7\u00e3o com o Cliente.",
             "title": "Inserindo Comunica\u00e7\u00e3o"
         },
         {
