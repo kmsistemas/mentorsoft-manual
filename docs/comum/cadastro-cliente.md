@@ -34,9 +34,12 @@ Vai abrir a seguinte Tela:
 Clique no botão *Insere*, abrirá a seguinte tela para a pesquisa de *CEP*:  
 ![7](/img/cadastro-cliente/8.png)  
 
-Digite o endereço ou cep, e aperte *LOCALIZAR*.  
-Localizar o endereço correto, selecione ele e aperte *Carregar*, como na imagem abaixo:  
-![8](/img/cadastro-cliente/9.png)  
+Digite o cep, e aperte *LOCALIZAR*.  
+Localizado o endereço correto, selecione ele e aperte *Carregar*, como na imagem abaixo:  
+![8](/img/cadastro-cliente/9.png) 
+
+Para localizar por Logradouro, tem que selecionar o *Estado* e *Cidade*, como esta na imagem: 
+![12](/img/cadastro-cliente/12.png) 
 
 Após isso virá a confirmação.  
 ![9](/img/cadastro-cliente/10.png) 
