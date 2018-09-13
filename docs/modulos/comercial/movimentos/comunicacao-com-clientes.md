@@ -17,7 +17,7 @@ Vai clicar no botão ![Insere](/img/botoeskm/insere.png)
 Vai escolher um Tipo de Comunicação  
 ![7](/img/comunicacao-com-clientes/7.png)
 
-Após adicionar o Assunto e os Dados da Comunicação, vai escolher a data do retorno se tiver, se não tiver vai colocar a data que encerrou a comunicação.  
+Após adicionar o Assunto e os Dados da Comunicação, vai escolher a data prevista retorno, Hora, e Responsável Retorno, caso seja somente uma comunicação, você pode colocar seu usuário como responsável retorno e preencher a data de retorno!.  
 ![8](/img/comunicacao-com-clientes/8.png)
 
-Inserido a Comunicação com o Cliente.
+Feito a Comunicação com o Cliente.
