@@ -2,7 +2,8 @@
 
 > Cadastros
 >>[Bancos](/modulos/tesouraria/cadastro/bancos.md) - Aprenda a cadastrar um banco.  
->>[Agência](/modulos/tesouraria/cadastro/agencia.md) - Aprenda a cadastrar uma agência.    
+>>[Agência](/modulos/tesouraria/cadastro/agencia.md) - Aprenda a cadastrar uma agência. 		
+>>[Contas Financeiras](/modulos/tesouraria/cadastro/contas.md) - Aprenda a cadastrar uma conta financeira.    
 ---
 
 > Movimentos    
