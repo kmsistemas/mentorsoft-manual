@@ -1,14 +1,14 @@
 # Operação de Recebimento
 
 Para inserir uma nova **Operação de Recebimento**, vamos em:    
->  “RECEBER » MOVIMENTOS » OPERACACAO DE RECEBIMENTO”    
+>  “RECEBER » MOVIMENTOS » OPERAÇÃO DE RECEBIMENTO”    
 
 Nesse passo a passo iremos mostrar algumas formas de liquidação de documentos a Receber.   
 
 ---
 
 ## Liquidação DPL Carteira
-Apertem em **Insere**, o sistema irá abrir uma tela para selecionar o tipo de operação que deseja efetuar.  
+Clique em **Insere**, o sistema irá abrir uma tela para selecionar o tipo de operação que deseja efetuar.  
 ![1](/img/operacao-recebimento/1.png)  
 
 > - Conta Financeira
