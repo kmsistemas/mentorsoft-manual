@@ -50,7 +50,7 @@ Selecione para qual Status seria este endereço, como na imagem abaixo
 ---
 ## Incluir Representante no Cliente  
 Para incluir um representante ao cadastro do cliente, acesse:  
-[Incluindo Representante no Cliente](cadastro-representante/#incluir-representante-no-cliente)  
+[Incluindo Representante no Cliente](/modulos/comercial/cadastro/cadastro-representante/#incluir-representante-no-cliente)  
 
 ---
 
