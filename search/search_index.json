@@ -112,7 +112,7 @@
         },
         {
             "location": "/modulos/comercial/cadastro/cadastro-tipo-pedido/",
-            "text": "Tipo de Pedido\n\u00ab\n\n\nComo Cadastrar Tipo de Pedido\n\u00ab\n\n\nPara inserir um novo \nFornecedor\n, voc\u00ea deve ir por um destes caminhos  \n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d\n\n\u201cFATURAMENTO \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d  \n\n\n\n\n\n\n  \n\n\nIr\u00e1 abrir a seguinte tela:\n\n  \n\n\nClique no bot\u00e3o \nInsere\n, o sistema vai te direcionar para a aba de Cadastro:\n\n\n  \n\n\nPreencha devidamente os campos de acordo com os dados do Tipo de Pedido. Assim que finalizar o cadastro, aperte no bot\u00e3o \nGravar\n, caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.  \n\n\n\n\nEmpresas Poss\u00edveis\n\u00ab\n\n\n\nSelecione as Empresas Poss\u00edveis que ir\u00e3o utilizar esse Tipo de Pedido, para escolher mais de uma empresa aperte \nTAB\n, assim que finalizar o cadastro, aperte no bot\u00e3o \nGrava\n.",
+            "text": "Tipo de Pedido\n\u00ab\n\n\nComo Cadastrar Tipo de Pedido\n\u00ab\n\n\nPara inserir um novo \nFornecedor\n, voc\u00ea deve ir por um destes caminhos  \n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d\n\n\u201cFATURAMENTO \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d  \n\n\n\n\n\n\n  \n\n\nIr\u00e1 abrir a seguinte tela:\n\n  \n\n\nClique no \n, o sistema vai te direcionar para a aba de Cadastro:\n\n\n  \n\n\nPreencha devidamente os campos de acordo com os dados do Tipo de Pedido. Assim que finalizar o cadastro, aperte no bot\u00e3o \n, caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.  \n\n\n\n\nEmpresas Poss\u00edveis\n\u00ab\n\n\n\nSelecione as Empresas Poss\u00edveis que ir\u00e3o utilizar esse Tipo de Pedido, e caso essas empresas tenham almoxarifados diferentes, selecione tambem! Para escolher mais de uma empresa aperte \nTAB\n, assim que finalizar o cadastro, aperte no \n.",
             "title": "Tipo de Pedido"
         },
         {
@@ -122,12 +122,12 @@
         },
         {
             "location": "/modulos/comercial/cadastro/cadastro-tipo-pedido/#como-cadastrar-tipo-de-pedido",
-            "text": "Para inserir um novo  Fornecedor , voc\u00ea deve ir por um destes caminhos     \u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d \n\u201cFATURAMENTO \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d          Ir\u00e1 abrir a seguinte tela:     Clique no bot\u00e3o  Insere , o sistema vai te direcionar para a aba de Cadastro:      Preencha devidamente os campos de acordo com os dados do Tipo de Pedido. Assim que finalizar o cadastro, aperte no bot\u00e3o  Gravar , caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.",
+            "text": "Para inserir um novo  Fornecedor , voc\u00ea deve ir por um destes caminhos     \u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d \n\u201cFATURAMENTO \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d          Ir\u00e1 abrir a seguinte tela:     Clique no  , o sistema vai te direcionar para a aba de Cadastro:      Preencha devidamente os campos de acordo com os dados do Tipo de Pedido. Assim que finalizar o cadastro, aperte no bot\u00e3o  , caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.",
             "title": "Como Cadastrar Tipo de Pedido"
         },
         {
             "location": "/modulos/comercial/cadastro/cadastro-tipo-pedido/#empresas-possiveis",
-            "text": "Selecione as Empresas Poss\u00edveis que ir\u00e3o utilizar esse Tipo de Pedido, para escolher mais de uma empresa aperte  TAB , assim que finalizar o cadastro, aperte no bot\u00e3o  Grava .",
+            "text": "Selecione as Empresas Poss\u00edveis que ir\u00e3o utilizar esse Tipo de Pedido, e caso essas empresas tenham almoxarifados diferentes, selecione tambem! Para escolher mais de uma empresa aperte  TAB , assim que finalizar o cadastro, aperte no  .",
             "title": "Empresas Poss\u00edveis"
         },
         {
@@ -157,22 +157,32 @@
         },
         {
             "location": "/modulos/comercial/cadastro/cadastro-tipo-despesa-receita/",
-            "text": "Cadastro Tipo Despesa/Receita\n\u00ab\n\n\nPara realizar o Cadastro de Despesa/Receita \u00e9 necess\u00e1rio ir em \u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPO DE DESPESAS/RECEITAS\u201d\n\n\n\n\nUma p\u00e1gina igual a esta ser\u00e1 apresentada, agora clique em \n\n\n\n\nPreencha o campo \u201cDescri\u00e7\u00e3o do Tipo\u201d e selecione o tipo D\u00c9BITO ou CR\u00c9DITO.\n\n\n\n\nAp\u00f3s preencher os campos clique no bot\u00e3o GRAVAR.\nSua receita/despesa agora j\u00e1 pode ser lan\u00e7ada no seu representante com sucesso.",
+            "text": "Cadastro Tipo Despesa/Receita\n\u00ab\n\n\nPara realizar o Cadastro de Despesa/Receita \u00e9 necess\u00e1rio ir em \u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPO DE DESPESAS/RECEITAS\u201d\n\n\n\n\nUma p\u00e1gina igual a esta ser\u00e1 apresentada, agora clique no \n\n\n\n\nPreencha o campo \u201cDescri\u00e7\u00e3o do Tipo\u201d e selecione o tipo D\u00c9BITO ou CR\u00c9DITO.\n\n\n\n\nAp\u00f3s preencher os campos clique no bot\u00e3o GRAVAR.\nSua receita/despesa agora j\u00e1 pode ser lan\u00e7ada no seu representante com sucesso.",
             "title": "Tipo Despesa/Receita"
         },
         {
             "location": "/modulos/comercial/cadastro/cadastro-tipo-despesa-receita/#cadastro-tipo-despesareceita",
-            "text": "Para realizar o Cadastro de Despesa/Receita \u00e9 necess\u00e1rio ir em \u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPO DE DESPESAS/RECEITAS\u201d   Uma p\u00e1gina igual a esta ser\u00e1 apresentada, agora clique em    Preencha o campo \u201cDescri\u00e7\u00e3o do Tipo\u201d e selecione o tipo D\u00c9BITO ou CR\u00c9DITO.   Ap\u00f3s preencher os campos clique no bot\u00e3o GRAVAR.\nSua receita/despesa agora j\u00e1 pode ser lan\u00e7ada no seu representante com sucesso.",
+            "text": "Para realizar o Cadastro de Despesa/Receita \u00e9 necess\u00e1rio ir em \u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPO DE DESPESAS/RECEITAS\u201d   Uma p\u00e1gina igual a esta ser\u00e1 apresentada, agora clique no    Preencha o campo \u201cDescri\u00e7\u00e3o do Tipo\u201d e selecione o tipo D\u00c9BITO ou CR\u00c9DITO.   Ap\u00f3s preencher os campos clique no bot\u00e3o GRAVAR.\nSua receita/despesa agora j\u00e1 pode ser lan\u00e7ada no seu representante com sucesso.",
             "title": "Cadastro Tipo Despesa/Receita"
         },
         {
+            "location": "/modulos/comercial/cadastro/cadastro-tipo-cliente/",
+            "text": "Cadastro Tipo de Cliente\n\u00ab\n\n\nPara realizar o Cadastro de Tipo de Cliente \u00e9 necess\u00e1rio ir em \u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE CLIENTE\u201d\n\n\n\n\nUma tela igual a esta ser\u00e1 apresentada, agora clique no \n\n\n\n\nPreencha o campo \u201cDescri\u00e7\u00e3o do Tipo\u201d e selecione se \u00e9 \nVenda\n \"SIM ou N\u00c3O\", depois selecione quais campos s\u00e3o obrigatorios no cadastro!\n\n\nAp\u00f3s preencher os campos clique no",
+            "title": "Tipos de Cliente"
+        },
+        {
+            "location": "/modulos/comercial/cadastro/cadastro-tipo-cliente/#cadastro-tipo-de-cliente",
+            "text": "Para realizar o Cadastro de Tipo de Cliente \u00e9 necess\u00e1rio ir em \u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE CLIENTE\u201d   Uma tela igual a esta ser\u00e1 apresentada, agora clique no    Preencha o campo \u201cDescri\u00e7\u00e3o do Tipo\u201d e selecione se \u00e9  Venda  \"SIM ou N\u00c3O\", depois selecione quais campos s\u00e3o obrigatorios no cadastro!  Ap\u00f3s preencher os campos clique no",
+            "title": "Cadastro Tipo de Cliente"
+        },
+        {
             "location": "/modulos/comercial/cadastro/cadastro-embalagens/",
-            "text": "Cadastro de Embalagens\n\u00ab\n\n\nPara realizar o Cadastro de Embalagens \u00e9 necess\u00e1rio ir em: \n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTROS \u00bb EMBALAGENS\u201d\n\n\u201cESTOQUE \u00bb CADASTROS \u00bb EMBALAGENS\u201d\n\n\n\n\n\n\nUma p\u00e1gina igual a esta ser\u00e1 apresentada, agora clique em \n\n\n\n\nPreencha as informa\u00e7\u00f5es com o nome da embalagem e suas respectivas dimens\u00f5es e caso queira, poder\u00e1 vincular um produto especifico para aquela embalagem.\nAp\u00f3s preencher todos os campos e clicar no bot\u00e3o GRAVAR, sua embalagem agora aparecer\u00e1 no Romaneio de Faturamento.",
+            "text": "Cadastro de Embalagens\n\u00ab\n\n\nPara realizar o Cadastro de Embalagens \u00e9 necess\u00e1rio ir em: \n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTROS \u00bb EMBALAGENS\u201d\n\n\u201cESTOQUE \u00bb CADASTROS \u00bb EMBALAGENS\u201d\n\n\n\n\n\n\nUma tela igual a esta ser\u00e1 apresentada, agora clique no \n\n\n\n\nPreencha as informa\u00e7\u00f5es com o nome da embalagem e suas respectivas dimens\u00f5es e caso queira, poder\u00e1 vincular um produto especifico para aquela embalagem.\nAp\u00f3s preencher todos os campos e clicar no bot\u00e3o GRAVAR, sua embalagem agora aparecer\u00e1 no Romaneio de Faturamento.",
             "title": "Embalagens"
         },
         {
             "location": "/modulos/comercial/cadastro/cadastro-embalagens/#cadastro-de-embalagens",
-            "text": "Para realizar o Cadastro de Embalagens \u00e9 necess\u00e1rio ir em:    \u201cCOMERCIAL \u00bb CADASTROS \u00bb EMBALAGENS\u201d \n\u201cESTOQUE \u00bb CADASTROS \u00bb EMBALAGENS\u201d    Uma p\u00e1gina igual a esta ser\u00e1 apresentada, agora clique em    Preencha as informa\u00e7\u00f5es com o nome da embalagem e suas respectivas dimens\u00f5es e caso queira, poder\u00e1 vincular um produto especifico para aquela embalagem.\nAp\u00f3s preencher todos os campos e clicar no bot\u00e3o GRAVAR, sua embalagem agora aparecer\u00e1 no Romaneio de Faturamento.",
+            "text": "Para realizar o Cadastro de Embalagens \u00e9 necess\u00e1rio ir em:    \u201cCOMERCIAL \u00bb CADASTROS \u00bb EMBALAGENS\u201d \n\u201cESTOQUE \u00bb CADASTROS \u00bb EMBALAGENS\u201d    Uma tela igual a esta ser\u00e1 apresentada, agora clique no    Preencha as informa\u00e7\u00f5es com o nome da embalagem e suas respectivas dimens\u00f5es e caso queira, poder\u00e1 vincular um produto especifico para aquela embalagem.\nAp\u00f3s preencher todos os campos e clicar no bot\u00e3o GRAVAR, sua embalagem agora aparecer\u00e1 no Romaneio de Faturamento.",
             "title": "Cadastro de Embalagens"
         },
         {
@@ -252,12 +262,12 @@
         },
         {
             "location": "/modulos/estoque/cadastro/cadastro-embalagens/",
-            "text": "Cadastro de Embalagens\n\u00ab\n\n\nPara realizar o Cadastro de Embalagens \u00e9 necess\u00e1rio ir em: \n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTROS \u00bb EMBALAGENS\u201d\n\n\u201cESTOQUE \u00bb CADASTROS \u00bb EMBALAGENS\u201d\n\n\n\n\n\n\nUma p\u00e1gina igual a esta ser\u00e1 apresentada, agora clique em \n\n\n\n\nPreencha as informa\u00e7\u00f5es com o nome da embalagem e suas respectivas dimens\u00f5es e caso queira, poder\u00e1 vincular um produto especifico para aquela embalagem.\nAp\u00f3s preencher todos os campos e clicar no bot\u00e3o GRAVAR, sua embalagem agora aparecer\u00e1 no Romaneio de Faturamento.",
+            "text": "Cadastro de Embalagens\n\u00ab\n\n\nPara realizar o Cadastro de Embalagens \u00e9 necess\u00e1rio ir em: \n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTROS \u00bb EMBALAGENS\u201d\n\n\u201cESTOQUE \u00bb CADASTROS \u00bb EMBALAGENS\u201d\n\n\n\n\n\n\nUma tela igual a esta ser\u00e1 apresentada, agora clique no \n\n\n\n\nPreencha as informa\u00e7\u00f5es com o nome da embalagem e suas respectivas dimens\u00f5es e caso queira, poder\u00e1 vincular um produto especifico para aquela embalagem.\nAp\u00f3s preencher todos os campos e clicar no bot\u00e3o GRAVAR, sua embalagem agora aparecer\u00e1 no Romaneio de Faturamento.",
             "title": "Embalagens"
         },
         {
             "location": "/modulos/estoque/cadastro/cadastro-embalagens/#cadastro-de-embalagens",
-            "text": "Para realizar o Cadastro de Embalagens \u00e9 necess\u00e1rio ir em:    \u201cCOMERCIAL \u00bb CADASTROS \u00bb EMBALAGENS\u201d \n\u201cESTOQUE \u00bb CADASTROS \u00bb EMBALAGENS\u201d    Uma p\u00e1gina igual a esta ser\u00e1 apresentada, agora clique em    Preencha as informa\u00e7\u00f5es com o nome da embalagem e suas respectivas dimens\u00f5es e caso queira, poder\u00e1 vincular um produto especifico para aquela embalagem.\nAp\u00f3s preencher todos os campos e clicar no bot\u00e3o GRAVAR, sua embalagem agora aparecer\u00e1 no Romaneio de Faturamento.",
+            "text": "Para realizar o Cadastro de Embalagens \u00e9 necess\u00e1rio ir em:    \u201cCOMERCIAL \u00bb CADASTROS \u00bb EMBALAGENS\u201d \n\u201cESTOQUE \u00bb CADASTROS \u00bb EMBALAGENS\u201d    Uma tela igual a esta ser\u00e1 apresentada, agora clique no    Preencha as informa\u00e7\u00f5es com o nome da embalagem e suas respectivas dimens\u00f5es e caso queira, poder\u00e1 vincular um produto especifico para aquela embalagem.\nAp\u00f3s preencher todos os campos e clicar no bot\u00e3o GRAVAR, sua embalagem agora aparecer\u00e1 no Romaneio de Faturamento.",
             "title": "Cadastro de Embalagens"
         },
         {
@@ -447,7 +457,7 @@
         },
         {
             "location": "/modulos/faturamento/cadastro/cadastro-tipo-pedido/",
-            "text": "Tipo de Pedido\n\u00ab\n\n\nComo Cadastrar Tipo de Pedido\n\u00ab\n\n\nPara inserir um novo \nFornecedor\n, voc\u00ea deve ir por um destes caminhos  \n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d\n\n\u201cFATURAMENTO \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d  \n\n\n\n\n\n\n  \n\n\nIr\u00e1 abrir a seguinte tela:\n\n  \n\n\nClique no bot\u00e3o \nInsere\n, o sistema vai te direcionar para a aba de Cadastro:\n\n\n  \n\n\nPreencha devidamente os campos de acordo com os dados do Tipo de Pedido. Assim que finalizar o cadastro, aperte no bot\u00e3o \nGravar\n, caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.  \n\n\n\n\nEmpresas Poss\u00edveis\n\u00ab\n\n\n\nSelecione as Empresas Poss\u00edveis que ir\u00e3o utilizar esse Tipo de Pedido, para escolher mais de uma empresa aperte \nTAB\n, assim que finalizar o cadastro, aperte no bot\u00e3o \nGrava\n.",
+            "text": "Tipo de Pedido\n\u00ab\n\n\nComo Cadastrar Tipo de Pedido\n\u00ab\n\n\nPara inserir um novo \nFornecedor\n, voc\u00ea deve ir por um destes caminhos  \n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d\n\n\u201cFATURAMENTO \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d  \n\n\n\n\n\n\n  \n\n\nIr\u00e1 abrir a seguinte tela:\n\n  \n\n\nClique no \n, o sistema vai te direcionar para a aba de Cadastro:\n\n\n  \n\n\nPreencha devidamente os campos de acordo com os dados do Tipo de Pedido. Assim que finalizar o cadastro, aperte no bot\u00e3o \n, caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.  \n\n\n\n\nEmpresas Poss\u00edveis\n\u00ab\n\n\n\nSelecione as Empresas Poss\u00edveis que ir\u00e3o utilizar esse Tipo de Pedido, e caso essas empresas tenham almoxarifados diferentes, selecione tambem! Para escolher mais de uma empresa aperte \nTAB\n, assim que finalizar o cadastro, aperte no \n.",
             "title": "Cadastro Tipo de Pedido"
         },
         {
@@ -457,12 +467,12 @@
         },
         {
             "location": "/modulos/faturamento/cadastro/cadastro-tipo-pedido/#como-cadastrar-tipo-de-pedido",
-            "text": "Para inserir um novo  Fornecedor , voc\u00ea deve ir por um destes caminhos     \u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d \n\u201cFATURAMENTO \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d          Ir\u00e1 abrir a seguinte tela:     Clique no bot\u00e3o  Insere , o sistema vai te direcionar para a aba de Cadastro:      Preencha devidamente os campos de acordo com os dados do Tipo de Pedido. Assim que finalizar o cadastro, aperte no bot\u00e3o  Gravar , caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.",
+            "text": "Para inserir um novo  Fornecedor , voc\u00ea deve ir por um destes caminhos     \u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d \n\u201cFATURAMENTO \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d          Ir\u00e1 abrir a seguinte tela:     Clique no  , o sistema vai te direcionar para a aba de Cadastro:      Preencha devidamente os campos de acordo com os dados do Tipo de Pedido. Assim que finalizar o cadastro, aperte no bot\u00e3o  , caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.",
             "title": "Como Cadastrar Tipo de Pedido"
         },
         {
             "location": "/modulos/faturamento/cadastro/cadastro-tipo-pedido/#empresas-possiveis",
-            "text": "Selecione as Empresas Poss\u00edveis que ir\u00e3o utilizar esse Tipo de Pedido, para escolher mais de uma empresa aperte  TAB , assim que finalizar o cadastro, aperte no bot\u00e3o  Grava .",
+            "text": "Selecione as Empresas Poss\u00edveis que ir\u00e3o utilizar esse Tipo de Pedido, e caso essas empresas tenham almoxarifados diferentes, selecione tambem! Para escolher mais de uma empresa aperte  TAB , assim que finalizar o cadastro, aperte no  .",
             "title": "Empresas Poss\u00edveis"
         },
         {
