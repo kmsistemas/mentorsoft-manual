@@ -2,7 +2,7 @@
 
 > Cadastros
 >> [Cliente](/modulos/faturamento/cadastro/cadastro-cliente.md) - Aprenda a como cadastrar um Cliente.  
->> [Endereço do Cliente](/modulos/faturamento/cadastro/cadastro-cliente/#cadastrando-de-endereco-do-cliente) - Aprenda a como cadastrar um Endereço de cliente.  
+>> [Endereço do Cliente](/modulos/faturamento/cadastro/cadastro-cliente/#cadastrando-endereco-do-cliente) - Aprenda a como cadastrar um Endereço de cliente.  
 >> [Fornecedor](/modulos/faturamento/cadastro/cadastro-fornecedor.md) - Aprenda a como cadastrar um Fornecedor.  
 >> [Endereço do Fornecedor](/modulos/faturamento/cadastro/cadastro-fornecedor/#cadastrando-endereco-do-fornecedor) - Aprenda a como cadastrar um Endereço do Fornecedor.   
 >> [Contato do Fornecedor](/modulos/faturamento/cadastro/cadastro-fornecedor/#cadastrando-contatos-do-cliente) - Aprenda a como cadastrar um Contato do Fornecedor.  

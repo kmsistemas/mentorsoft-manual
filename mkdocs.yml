@@ -1,6 +1,6 @@
 # Project information
 site_name: 'MentorSoft Manual'
-site_description: 'K&M SISTEMAS DE GESTÃO'
+site_description: 'K & M SISTEMAS DE GESTÃO'
 site_author: 'KM Sistemas'
 #site_url: 'http://manual-mentorsoft.kmsistemas.com.br'
 site_url: 'https://manual-mentorsoft.disqus.com'
@@ -10,7 +10,7 @@ site_url: 'https://manual-mentorsoft.disqus.com'
 #repo_url: 'https://github.com/KmSistemas/mentorsoft-manual'
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2018 K&M Sistemas'
+copyright: 'Copyright &copy; 2016 - 2020 K & M Sistemas'
 
 # Configuration
 theme:
@@ -34,9 +34,9 @@ theme:
 extra:
   social:
     - type: 'facebook'
-      link: 'https://www.facebook.com/kmsistemas.br'
-    - type: 'google-plus'
-      link: 'https://plus.google.com/u/0/+KmSistemasBrApucarana'
+      link: 'https://www.facebook.com/kmsistemas'
+    #- type: 'google-plus'
+     # link: 'https://plus.google.com/u/0/+KmSistemasBrApucarana'
   disqus: 'manual-mentorsoft'
 
 #google_analytics:
@@ -90,7 +90,7 @@ pages:
     - 'Inicio': 'modulos/comercial/index.md'
     - Cadastros:
       - 'Cliente': 'modulos/comercial/cadastro/cadastro-cliente.md'
-      - 'Representante': 'modulos/comercial/cadastro/cadastro-representante.md'
+      - 'Representante': 'comum/cadastro-representante.md'
       - 'Fornecedor': 'modulos/comercial/cadastro/cadastro-fornecedor.md'
       - 'Tipo de Pedido': 'modulos/comercial/cadastro/cadastro-tipo-pedido.md'
       - 'Condição Pagamento': 'modulos/comercial/cadastro/cadastro-condicao-pagamento.md'

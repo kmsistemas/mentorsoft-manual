@@ -33,7 +33,7 @@ Ao abrir a tela aperte em ![Insere](/img/botoeskm/insere.png), em seguida deve v
 
 Entre no cadastro do cliente desejado.  
 
-*Para cadastrar um novo cliente verifique o: [Cadastro de Cliente](/comum/cadastro-cliente.md)*  
+*Para cadastrar um novo cliente verifique o: [Cadastro de Cliente](cadastro-cliente.md)*  
 
 Na tela de cliente, vá na aba **"Representantes/ Aut. XML"**.
 

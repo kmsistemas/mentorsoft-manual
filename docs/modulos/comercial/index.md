@@ -8,7 +8,7 @@
 >> [Fornecedor](/modulos/comercial/cadastro/cadastro-fornecedor/#cadastrando-fornecedor) - Aprenda a como cadastrar um Fornecedor.  
 >> [Endereço do Fornecedor](/modulos/comercial/cadastro/cadastro-fornecedor/#cadastrando-endereco-do-fornecedor) - Aprenda a como cadastrar um Endereço do Fornecedor.  
 >> [Contato do Fornecedor](/modulos/comercial/cadastro/cadastro-fornecedor/#cadastrando-contatos-do-forcedor) - Aprenda a como cadastrar um Endereço do Fornecedor.
->> [Representante](/modulos/comercial/cadastro/cadastro-representante/#cadastro-representante) - Aprenda a cadastrar um representante.  
+>> [Representante](/comum/cadastro-representante/#cadastro-representante) - Aprenda a cadastrar um representante.  
 >> [Tipo de Pedido](/modulos/comercial/cadastro/cadastro-tipo-pedido/#cadastrando-tipo-pedido) - Aprenda a como cadastrar um Tipo de pedido.  
 >> [Condição Pagamento](/modulos/comercial/cadastro/cadastro-condicao-pagamento/#cadastrando-condicao-pagamento) - Aprenda a como cadastrar uma Condição de Pagamento.  
 >> [Cadastro de Produtos](/modulos/comercial/cadastro/cadastro-produto/#comercial) - Aprenda a cadastrar um Produto.        
