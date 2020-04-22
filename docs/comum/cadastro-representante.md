@@ -6,11 +6,11 @@ Para cadastrar um representante, vá em:
 ![1](/img/cadastro-representante/1.png)  
 ![2](/img/cadastro-representante/2.png)  
 
-Ao abrir a tela aperte em ![Insere](/img/botoeskm/insere.png), em seguida deve ver  a seguinte tela:  
-![4](/img/cadastro-representante/4.png)  
+Aperte em ![12](/img/botoeskm/insere.jpg), em seguida deve ver  a seguinte tela:  
+![4](/img/cadastro-representante/repre.jpg)  
 
 > - Nível
->> Este campo é utiliza para informar qual o nível de visualização de seu Representante. Por ordem o **Supervisor** visualiza informações de um **Gestor** e **Representante**.  
+>> Este campo é utilizado para informar qual o nível de visualização de seu Representante. Por ordem o **Supervisor** visualiza informações de um **Gestor** e **Representante**.  
 > - Fornecedor
 >> Selecione para qual fornecedor deseja que seja gerada a comissão. Caso seja gerada para o próprio representante, deve-se cadastrar um fornecedor com o nome do mesmo!
 > - P.C.%
@@ -33,10 +33,10 @@ Ao abrir a tela aperte em ![Insere](/img/botoeskm/insere.png), em seguida deve v
 
 Entre no cadastro do cliente desejado.  
 
-*Para cadastrar um novo cliente verifique o: [Cadastro de Cliente](cadastro-cliente.md)*  
+*Para cadastrar um novo cliente verifique o: [Cadastro de Cliente](/modulos/comercial/cadastro/cadastro-cliente.md)*  
 
 Na tela de cliente, vá na aba **"Representantes/ Aut. XML"**.
 
 Informe o representante, se será o representante principal ou não e qual será a porcentagem de comissão.  
 
-![6](/img/cadastro-representante/6.png)  
+![6](/img/cadastro-representante/reprecliente.jpg)  

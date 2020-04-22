@@ -96,6 +96,7 @@ pages:
       - 'Condição Pagamento': 'modulos/comercial/cadastro/cadastro-condicao-pagamento.md'
       - 'Produtos': 'modulos/comercial/cadastro/cadastro-produto.md'
       - 'Tipo Despesa/Receita': 'modulos/comercial/cadastro/cadastro-tipo-despesa-receita.md'
+      - 'Tipos de Cliente': 'modulos/comercial/cadastro/cadastro-tipo-cliente.md'
       - 'Embalagens': 'modulos/comercial/cadastro/cadastro-embalagens.md'
     - Movimentos:
       - 'Comunicação com Cliente': 'modulos/comercial/movimentos/comunicacao-com-clientes.md'
@@ -136,6 +137,12 @@ pages:
     - 'GRH': 'modulos/grh/index.md'
     - Cadastros:
       - 'Fornecedor': 'modulos/grh/cadastro/cadastro-fornecedor.md'
+      - 'Tipo de Ausência': 'modulos/grh/cadastro/cadastro-ausencia.md'
+      - 'Tipos de Proventos': 'modulos/grh/cadastro/cadastro-proventos.md'
+      - 'Função/Cargos': 'modulos/grh/cadastro/cadastro-funcao.md'
+    - Movimentos:
+      - 'Ficha de Funcionarios': 'modulos/grh/movimentos/ficha-funcionario.md'
+
   - Pagar:
     - 'Inicio': 'modulos/pagar/index.md'
     - Cadastros:

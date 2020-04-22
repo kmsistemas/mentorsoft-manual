@@ -5,13 +5,13 @@ Para inserir um novo produto, você deve ir em um destes caminhos:
 > “ESTOQUE » CADASTROS » PRODUTOS”   
    
 ![1](/img/cadastro-produtos/1.png) 
-Uma página igual a esta será apresentada, agora clique em ![2](/img/cadastro-produtos/2.png)
+Uma tela igual a esta será apresentada, agora clique em ![12](/img/botoeskm/insere.jpg)
 
-![3](/img/cadastro-produtos/3.png)
+![3](/img/cadastro-produtos/insere1.jpg)
 
-A imagem mostra os campos mínimos que devem ser completados para que o sistema possa salvar o seu Produto.
+A tela mostra os campos mínimos que devem ser completados para que o sistema possa salvar o seu Produto.
 
-![4](/img/cadastro-produtos/4.png)
+![4](/img/cadastro-produtos/insere2.jpg)
 
 
 Selecione qual o Tipo fiscal do seu produto, ele pode ser: EMBALAGENS, IMPORTADO, INDUSTRIALIZADO, REVENDA/MATÉRIA PRIMA OU VENDA.
@@ -26,8 +26,8 @@ Preencha o campo NCM com o devido código (oito dígitos), ele pode ser adquirid
 
 ![7](/img/cadastro-produtos/7.png)
 
-Complete os dados com suas respectivas informações de acordo com seu estoque, inventário etc.. E aperte o botão ![8](/img/cadastro-produtos/8.png)para finalizar.
+Complete os dados com suas respectivas informações de acordo com seu estoque, inventário etc.. E aperte ![15](/img/botoeskm/grava.jpg)para finalizar.
 
-![9](/img/cadastro-produtos/9.png)
+![9](/img/cadastro-produtos/insere4.jpg)
 
-Caso você trabalhe com vários almoxarifados ou deseja trocar o almoxarifado do seu produto, vá até a aba Tributação / Almoxarifado / Conversão U.M. ![10](/img/cadastro-produtos/10.png).
+Caso você trabalhe com vários almoxarifados ou deseja trocar o almoxarifado do seu produto, vá até a aba Tributação / Almoxarifado / Conversão U.M. ![10](/img/cadastro-produtos/almox-unidconvers1.jpg).

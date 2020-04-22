@@ -6,9 +6,9 @@ Para realizar o Cadastro de Embalagens é necessário ir em:
 
 ![1](/img/cadastro-embalagens/1.png)
 
-Uma página igual a esta será apresentada, agora clique em ![2](/img/cadastro-embalagens/2.png)
+Uma tela igual a esta será apresentada, agora clique no ![12](/img/botoeskm/insere.jpg)
 
-![3](/img/cadastro-embalagens/3.png)
+![3](/img/cadastro-embalagens/insere1.jpg)
 
 
 Preencha as informações com o nome da embalagem e suas respectivas dimensões e caso queira, poderá vincular um produto especifico para aquela embalagem.
