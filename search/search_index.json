@@ -552,18 +552,48 @@
         },
         {
             "location": "/modulos/industrial/",
-            "text": "M\u00f3dulo Industrial\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\n\n\n\n\nMovimentos",
-            "title": "Industrial"
+            "text": "M\u00f3dulo Industrial\n\u00ab\n\n\n\n\nMovimentos\n\n\n\n\nPCP\n - Aprenda como programar um produto no industrial.",
+            "title": "Inicio"
         },
         {
             "location": "/modulos/industrial/#modulo-industrial",
-            "text": "Cadastros     Movimentos",
+            "text": "Movimentos   PCP  - Aprenda como programar um produto no industrial.",
             "title": "M\u00f3dulo Industrial"
+        },
+        {
+            "location": "/modulos/industrial/movimentos/pcp/",
+            "text": "P.C.P\n\u00ab\n\n\nPara fazer uma nova programa\u00e7\u00e3o, va em:\n\n\n\n\n\"Industrial \u00bb Movimetnos \u00bb P.C.P\"  \n\n\n\n\n\n\nVai abrir essa Tela:\n\n\n\n\nAp\u00f3s clicar em pesquisar, ser\u00e1 exibida essa tela:\n\n\n\n\nAp\u00f3s clicar em programar, ser\u00e1 exibida essa tela:\n\n\n\n\nFeita a programa\u00e7\u00e3o, vamos clicar na Aba P.C.P, como esta na imagem abaixo:\n\n\n\n\nAp\u00f3s clicar na Aba P.C.P, ser\u00e1 exibida essa tela:\n\n\n\n\nAp\u00f3s localizar o item, podemos fazer as passagens dos setores!\n\n\n\n\nDuplo clique no setor, ser\u00e1 exibida essa tela:\n\n\n\n\nNa imagem abaixo, podemos conhecer algumas fun\u00e7\u00f5es:\n\n\n\n\n\n\nAjustando as Datas Previstas\n\u00ab\n\n\n\n\n\n\n\n\nRegistro de Quantidades\n\u00ab\n\n\n\n\nPassagem parcial\n\n\n\n\n\n\n\n\n\n\nRegistro de Ocorr\u00eancias\n\u00ab\n\n\n\n\n\n\n\n\nOrdem de Servi\u00e7o de Terceiros\n\u00ab\n\n\n\n\nGerando a O.S de Terceiros\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRetorno da O.S de Terceiros",
+            "title": "PCP"
+        },
+        {
+            "location": "/modulos/industrial/movimentos/pcp/#pcp",
+            "text": "Para fazer uma nova programa\u00e7\u00e3o, va em:   \"Industrial \u00bb Movimetnos \u00bb P.C.P\"      Vai abrir essa Tela:   Ap\u00f3s clicar em pesquisar, ser\u00e1 exibida essa tela:   Ap\u00f3s clicar em programar, ser\u00e1 exibida essa tela:   Feita a programa\u00e7\u00e3o, vamos clicar na Aba P.C.P, como esta na imagem abaixo:   Ap\u00f3s clicar na Aba P.C.P, ser\u00e1 exibida essa tela:   Ap\u00f3s localizar o item, podemos fazer as passagens dos setores!   Duplo clique no setor, ser\u00e1 exibida essa tela:   Na imagem abaixo, podemos conhecer algumas fun\u00e7\u00f5es:",
+            "title": "P.C.P"
+        },
+        {
+            "location": "/modulos/industrial/movimentos/pcp/#ajustando-as-datas-previstas",
+            "text": "",
+            "title": "Ajustando as Datas Previstas"
+        },
+        {
+            "location": "/modulos/industrial/movimentos/pcp/#registro-de-quantidades",
+            "text": "Passagem parcial",
+            "title": "Registro de Quantidades"
+        },
+        {
+            "location": "/modulos/industrial/movimentos/pcp/#registro-de-ocorrencias",
+            "text": "",
+            "title": "Registro de Ocorr\u00eancias"
+        },
+        {
+            "location": "/modulos/industrial/movimentos/pcp/#ordem-de-servico-de-terceiros",
+            "text": "Gerando a O.S de Terceiros        Retorno da O.S de Terceiros",
+            "title": "Ordem de Servi\u00e7o de Terceiros"
         },
         {
             "location": "/modulos/grh/",
             "text": "M\u00f3dulo GRH\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nFornecedor\n - Aprenda a como cadastrar um fornecedor.\n\n\nEndere\u00e7o do Fornecedor\n - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.\n\n\nContato do Fornecedor\n - Aprenda a como cadastrar um Contato do Fornecedor.     \n\n\nTipo de Aus\u00eancia\n - Aprenda a como cadastrar um Tipo de Aus\u00eancia.     \n\n\nTipos de Proventos\n - Aprenda a como cadastrar um Tipo de Provento.   \n\n\nFun\u00e7\u00e3o/Cargo\n - Aprenda a como cadastrar uma Fun\u00e7\u00e3o/Cargo.\n\n\n\n\n\n\n\n\n\n\nMovimentos    \n\n\n\n\nFicha de Funcionarios\n - Aprenda a lan\u00e7a uma folha de pagamento.",
-            "title": "GRH"
+            "title": "Inicio"
         },
         {
             "location": "/modulos/grh/#modulo-grh",
