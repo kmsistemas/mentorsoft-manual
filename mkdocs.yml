@@ -132,9 +132,11 @@ pages:
       - 'Nota Fiscal Eletronica': 'modulos/faturamento/movimentos/nota-fiscal-eletronica.md'
       - 'Pedidos': 'modulos/faturamento/movimentos/inserir-pedidos.md'
   - Industrial:
-    - 'Industrial': 'modulos/industrial/index.md'
+    - 'Inicio': 'modulos/industrial/index.md'
+    - Movimentos:
+      - 'PCP': 'modulos/industrial/movimentos/pcp.md'
   - GRH:
-    - 'GRH': 'modulos/grh/index.md'
+    - 'Inicio': 'modulos/grh/index.md'
     - Cadastros:
       - 'Fornecedor': 'modulos/grh/cadastro/cadastro-fornecedor.md'
       - 'Tipo de Ausência': 'modulos/grh/cadastro/cadastro-ausencia.md'
