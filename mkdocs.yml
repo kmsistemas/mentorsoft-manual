@@ -133,6 +133,9 @@ pages:
       - 'Pedidos': 'modulos/faturamento/movimentos/inserir-pedidos.md'
   - Industrial:
     - 'Inicio': 'modulos/industrial/index.md'
+    - Cadastro:
+      - 'Grupo Industrial': 'modulos/industrial/cadastro/grupo-industrial.md'
+      - 'Setor Industrial': 'modulos/industrial/cadastro/setor-industrial.md'
     - Movimentos:
       - 'PCP': 'modulos/industrial/movimentos/pcp.md'
   - GRH:

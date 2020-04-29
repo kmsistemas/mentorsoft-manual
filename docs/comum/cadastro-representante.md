@@ -39,4 +39,4 @@ Na tela de cliente, vá na aba **"Representantes/ Aut. XML"**.
 
 Informe o representante, se será o representante principal ou não e qual será a porcentagem de comissão.  
 
-![6](/img/cadastro-representante/reprecliente.jpg)  
+![6](/img/cadastro-representante/reprecliente.jpg)
