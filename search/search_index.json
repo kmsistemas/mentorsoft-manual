@@ -577,7 +577,7 @@
         },
         {
             "location": "/modulos/industrial/cadastro/setor-industrial/",
-            "text": "Setor Industrial\n\u00ab\n\n\nCadastrando Setor Industrial\n\u00ab\n\n\nPara se inserir um setor industrial, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cINDUSTRIAL \u00bb CADASTROS \u00bb SETOR INDUSTRIAL\u201d  \n\n\n\n\n \n\n\nNesta tela voc\u00ea pode pesquisar os setores cadastros ou inserir um novo: \n\n\n \n\n\nPara inserir um novo setor, clique no \n:",
+            "text": "Setor Industrial\n\u00ab\n\n\nCadastrando Setor Industrial\n\u00ab\n\n\nPara se inserir um setor industrial, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cINDUSTRIAL \u00bb CADASTROS \u00bb SETOR INDUSTRIAL\u201d  \n\n\n\n\n \n\n\nNesta tela voc\u00ea pode pesquisar os setores cadastros ou inserir um novo: \n\n\nPara inserir um novo setor, clique no \n:",
             "title": "Setor Industrial"
         },
         {
@@ -587,7 +587,7 @@
         },
         {
             "location": "/modulos/industrial/cadastro/setor-industrial/#cadastrando-setor-industrial",
-            "text": "Para se inserir um setor industrial, voc\u00ea deve ir neste caminho:    \u201cINDUSTRIAL \u00bb CADASTROS \u00bb SETOR INDUSTRIAL\u201d        Nesta tela voc\u00ea pode pesquisar os setores cadastros ou inserir um novo:      Para inserir um novo setor, clique no  :",
+            "text": "Para se inserir um setor industrial, voc\u00ea deve ir neste caminho:    \u201cINDUSTRIAL \u00bb CADASTROS \u00bb SETOR INDUSTRIAL\u201d        Nesta tela voc\u00ea pode pesquisar os setores cadastros ou inserir um novo:   Para inserir um novo setor, clique no  :",
             "title": "Cadastrando Setor Industrial"
         },
         {
