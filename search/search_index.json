@@ -552,13 +552,43 @@
         },
         {
             "location": "/modulos/industrial/",
-            "text": "M\u00f3dulo Industrial\n\u00ab\n\n\n\n\nMovimentos\n\n\n\n\nPCP\n - Aprenda como programar um produto no industrial.",
+            "text": "M\u00f3dulo Industrial\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nGrupo Industrial\n - Aprenda como cadastrar um Grupo Industrial.  \n\n\nSetor Industrial\n - Aprenda como cadastrar um Setor Industrial.\n\n\n\n\nMovimentos\n\n\n\n\nPCP\n - Aprenda como programar um produto no industrial.",
             "title": "Inicio"
         },
         {
             "location": "/modulos/industrial/#modulo-industrial",
-            "text": "Movimentos   PCP  - Aprenda como programar um produto no industrial.",
+            "text": "Cadastros   Grupo Industrial  - Aprenda como cadastrar um Grupo Industrial.    Setor Industrial  - Aprenda como cadastrar um Setor Industrial.   Movimentos   PCP  - Aprenda como programar um produto no industrial.",
             "title": "M\u00f3dulo Industrial"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/grupo-industrial/",
+            "text": "Grupo Industrial\n\u00ab\n\n\nCadastrando Grupo Industrial\n\u00ab\n\n\nPara se inserir um grupo industrial, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cINDUSTRIAL \u00bb CADASTROS \u00bb GRUPO INDUSTRIAL\u201d  \n\n\n\n\n \n\n\nNesta tela voc\u00ea pode pesquisar os grupos cadastros ou inserir um novo: \n\n\n \n\n\nPara entrar em um grupo industrial ja cadastrado, pode apertar duas vezes em cima do grupo desejado! Vai abrir essa tela:\n\n \n\n\nPrimeiro devemos informar o nome do Grupo Industrial, feito isso coloque o status como ativo.\n\n\nNa categoria de produto devemos informar quais grupos de produtos acabados devem aparecer na programa\u00e7\u00e3o do Grupo Industrial!\n\n\n\n\nObs:\n Caso tenha uma linha de produ\u00e7\u00e3o que produz apenas um tipo de produto, voc\u00ea pode criar um \nGrupo Industrial\n por linha de produ\u00e7\u00e3o, ex: \nGrupo de \nBermudas / Aventais / Bon\u00e9s",
+            "title": "Grupo Industrial"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/grupo-industrial/#grupo-industrial",
+            "text": "",
+            "title": "Grupo Industrial"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/grupo-industrial/#cadastrando-grupo-industrial",
+            "text": "Para se inserir um grupo industrial, voc\u00ea deve ir neste caminho:    \u201cINDUSTRIAL \u00bb CADASTROS \u00bb GRUPO INDUSTRIAL\u201d        Nesta tela voc\u00ea pode pesquisar os grupos cadastros ou inserir um novo:      Para entrar em um grupo industrial ja cadastrado, pode apertar duas vezes em cima do grupo desejado! Vai abrir essa tela:    Primeiro devemos informar o nome do Grupo Industrial, feito isso coloque o status como ativo.  Na categoria de produto devemos informar quais grupos de produtos acabados devem aparecer na programa\u00e7\u00e3o do Grupo Industrial!   Obs:  Caso tenha uma linha de produ\u00e7\u00e3o que produz apenas um tipo de produto, voc\u00ea pode criar um  Grupo Industrial  por linha de produ\u00e7\u00e3o, ex: \nGrupo de  Bermudas / Aventais / Bon\u00e9s",
+            "title": "Cadastrando Grupo Industrial"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/setor-industrial/",
+            "text": "Setor Industrial\n\u00ab\n\n\nCadastrando Setor Industrial\n\u00ab\n\n\nPara se inserir um setor industrial, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cINDUSTRIAL \u00bb CADASTROS \u00bb SETOR INDUSTRIAL\u201d  \n\n\n\n\n \n\n\nNesta tela voc\u00ea pode pesquisar os setores cadastros ou inserir um novo: \n\n\n \n\n\nPara inserir um novo setor, clique no \n:",
+            "title": "Setor Industrial"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/setor-industrial/#setor-industrial",
+            "text": "",
+            "title": "Setor Industrial"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/setor-industrial/#cadastrando-setor-industrial",
+            "text": "Para se inserir um setor industrial, voc\u00ea deve ir neste caminho:    \u201cINDUSTRIAL \u00bb CADASTROS \u00bb SETOR INDUSTRIAL\u201d        Nesta tela voc\u00ea pode pesquisar os setores cadastros ou inserir um novo:      Para inserir um novo setor, clique no  :",
+            "title": "Cadastrando Setor Industrial"
         },
         {
             "location": "/modulos/industrial/movimentos/pcp/",
