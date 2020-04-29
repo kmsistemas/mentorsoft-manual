@@ -9,7 +9,6 @@ Para se inserir um setor industrial, você deve ir neste caminho:
 
 Nesta tela você pode pesquisar os setores cadastros ou inserir um novo: 
 
-![2](/img/industrial/cadastro/02.png) 
-
 Para inserir um novo setor, clique no ![4](/img/botoeskm/insere.jpg):
-![3](/img/industrial/cadastro/03.png) 
+
+![2](/img/industrial/cadastro/05.png) 
