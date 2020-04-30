@@ -227,12 +227,12 @@
         },
         {
             "location": "/modulos/estoque/",
-            "text": "M\u00f3dulo Estoque\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nFornecedor\n - Aprenda a como cadastrar um fornecedor.\n\n\nEndere\u00e7o do Fornecedor\n - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.  \n\n\nContato do Fornecedor\n - Aprenda a como cadastrar um Contato do Fornecedor.\n\n\nCadastro de Produtos\n - Aprenda a Cadastrar um Produto!   \n\n\nCadastro de Embalagens\n - Aprenda como cadastrar embalagens.\n\n\n\n\n\n\n\n\n\n\nMovimentos   \n\n\n\n\nEntrada por Nota Fiscal\n - Aprenda como fazer uma entrada por nota fiscal!    \n\n\nSolicita\u00e7\u00e3o de Compra\n - Solicite uma nova compra.\n\n\nRomaneio de Faturamento\n - Embale seus produtos.                                                                 \n\n\nC\u00f3digo de Barras\n - Emiss\u00e3o de C\u00f3digo de Barras.    \n\n\nInvent\u00e1rio\n - Como gerar um Invent\u00e1rio.\n\n\nMovimenta\u00e7\u00e3o de Estoque\n - Como fazer uma movimenta\u00e7\u00e3o de estoque manual.\n\n\nTransfer\u00eancia de Estoque\n - Como fazer uma transfer\u00eancia de estoque .   \n\n\nPedido de Compra\n - Como gerar um Pedido de Compra.\n\n\n\n\n\n\n\n\n\n\nRelatorios\n\n\n\n\nPosi\u00e7\u00e3o de Estoque\n - Relat\u00f3rios de Estoque.",
+            "text": "M\u00f3dulo Estoque\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nFornecedor\n - Aprenda a como cadastrar um fornecedor.\n\n\nEndere\u00e7o do Fornecedor\n - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.  \n\n\nContato do Fornecedor\n - Aprenda a como cadastrar um Contato do Fornecedor.\n\n\nCadastro de Produtos\n - Aprenda a Cadastrar um Produto!   \n\n\nCadastro de Embalagens\n - Aprenda como cadastrar embalagens.  \n\n\nContas Despesas/Receitas\n - Aprenda a cadastrar uma conta despesa/receita.\n\n\n\n\n\n\n\n\n\n\nMovimentos   \n\n\n\n\nEntrada por Nota Fiscal\n - Aprenda como fazer uma entrada por nota fiscal!    \n\n\nSolicita\u00e7\u00e3o de Compra\n - Solicite uma nova compra.\n\n\nRomaneio de Faturamento\n - Embale seus produtos.                                                                 \n\n\nC\u00f3digo de Barras\n - Emiss\u00e3o de C\u00f3digo de Barras.    \n\n\nInvent\u00e1rio\n - Como gerar um Invent\u00e1rio.\n\n\nMovimenta\u00e7\u00e3o de Estoque\n - Como fazer uma movimenta\u00e7\u00e3o de estoque manual.\n\n\nTransfer\u00eancia de Estoque\n - Como fazer uma transfer\u00eancia de estoque .   \n\n\nPedido de Compra\n - Como gerar um Pedido de Compra.\n\n\n\n\n\n\n\n\n\n\nRelatorios\n\n\n\n\nPosi\u00e7\u00e3o de Estoque\n - Relat\u00f3rios de Estoque.",
             "title": "Inicio"
         },
         {
             "location": "/modulos/estoque/#modulo-estoque",
-            "text": "Cadastros   Fornecedor  - Aprenda a como cadastrar um fornecedor.  Endere\u00e7o do Fornecedor  - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.    Contato do Fornecedor  - Aprenda a como cadastrar um Contato do Fornecedor.  Cadastro de Produtos  - Aprenda a Cadastrar um Produto!     Cadastro de Embalagens  - Aprenda como cadastrar embalagens.      Movimentos      Entrada por Nota Fiscal  - Aprenda como fazer uma entrada por nota fiscal!      Solicita\u00e7\u00e3o de Compra  - Solicite uma nova compra.  Romaneio de Faturamento  - Embale seus produtos.                                                                   C\u00f3digo de Barras  - Emiss\u00e3o de C\u00f3digo de Barras.      Invent\u00e1rio  - Como gerar um Invent\u00e1rio.  Movimenta\u00e7\u00e3o de Estoque  - Como fazer uma movimenta\u00e7\u00e3o de estoque manual.  Transfer\u00eancia de Estoque  - Como fazer uma transfer\u00eancia de estoque .     Pedido de Compra  - Como gerar um Pedido de Compra.      Relatorios   Posi\u00e7\u00e3o de Estoque  - Relat\u00f3rios de Estoque.",
+            "text": "Cadastros   Fornecedor  - Aprenda a como cadastrar um fornecedor.  Endere\u00e7o do Fornecedor  - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.    Contato do Fornecedor  - Aprenda a como cadastrar um Contato do Fornecedor.  Cadastro de Produtos  - Aprenda a Cadastrar um Produto!     Cadastro de Embalagens  - Aprenda como cadastrar embalagens.    Contas Despesas/Receitas  - Aprenda a cadastrar uma conta despesa/receita.      Movimentos      Entrada por Nota Fiscal  - Aprenda como fazer uma entrada por nota fiscal!      Solicita\u00e7\u00e3o de Compra  - Solicite uma nova compra.  Romaneio de Faturamento  - Embale seus produtos.                                                                   C\u00f3digo de Barras  - Emiss\u00e3o de C\u00f3digo de Barras.      Invent\u00e1rio  - Como gerar um Invent\u00e1rio.  Movimenta\u00e7\u00e3o de Estoque  - Como fazer uma movimenta\u00e7\u00e3o de estoque manual.  Transfer\u00eancia de Estoque  - Como fazer uma transfer\u00eancia de estoque .     Pedido de Compra  - Como gerar um Pedido de Compra.      Relatorios   Posi\u00e7\u00e3o de Estoque  - Relat\u00f3rios de Estoque.",
             "title": "M\u00f3dulo Estoque"
         },
         {
@@ -279,6 +279,16 @@
             "location": "/modulos/estoque/cadastro/cadastro-embalagens/#cadastro-de-embalagens",
             "text": "Para realizar o Cadastro de Embalagens \u00e9 necess\u00e1rio ir em:    \u201cCOMERCIAL \u00bb CADASTROS \u00bb EMBALAGENS\u201d \n\u201cESTOQUE \u00bb CADASTROS \u00bb EMBALAGENS\u201d    Uma tela igual a esta ser\u00e1 apresentada, agora clique no    Preencha as informa\u00e7\u00f5es com o nome da embalagem e suas respectivas dimens\u00f5es e caso queira, poder\u00e1 vincular um produto especifico para aquela embalagem.\nAp\u00f3s preencher todos os campos e clicar no bot\u00e3o GRAVAR, sua embalagem agora aparecer\u00e1 no Romaneio de Faturamento.",
             "title": "Cadastro de Embalagens"
+        },
+        {
+            "location": "/modulos/estoque/cadastro/contas-despesas/",
+            "text": "Cadastro de Contas Despesas / Receitas\n\u00ab\n\n\nPara cadastrar ou consultar uma conta despesa \u00e9 necess\u00e1rio ir em: \n\n\n\n\n\u201cTESOURARIA \u00bb CADASTROS \u00bb CONTAS DESPESAS/RECEITAS \u201d      \n\n\n\u201cESTOQUE \u00bb CADASTROS \u00bb CONTAS DESPESAS/RECEITAS \u201d \n\n\n\n\n\n\nUma tela igual a esta ser\u00e1 apresentada:\n\n\n\n\nPara cadastrar um nova conta despesa, clique no \n, vai abrir essa tela:\n\n\n\n\nAgora, digite a descri\u00e7\u00e3o da conta despesa ou receita, situa\u00e7\u00e3o (Ativo), selecione se \u00e9 despesa ou receita, vai participar da Apura\u00e7\u00e3o de resultado por competencia (Sim ou N\u00e3o) e aperte no  \n, depois vai na aba Unidades de Negocio!\n\n\n\n\nSeleciona qual empresa e unidade de negocio que vai liberar essa conta despesa! Caso queira replicar para todas empresas, pode clicar no \n\n\nConta cadastrada com sucesso!!!",
+            "title": "Contas Despesas/Receitas"
+        },
+        {
+            "location": "/modulos/estoque/cadastro/contas-despesas/#cadastro-de-contas-despesas-receitas",
+            "text": "Para cadastrar ou consultar uma conta despesa \u00e9 necess\u00e1rio ir em:    \u201cTESOURARIA \u00bb CADASTROS \u00bb CONTAS DESPESAS/RECEITAS \u201d        \u201cESTOQUE \u00bb CADASTROS \u00bb CONTAS DESPESAS/RECEITAS \u201d     Uma tela igual a esta ser\u00e1 apresentada:   Para cadastrar um nova conta despesa, clique no  , vai abrir essa tela:   Agora, digite a descri\u00e7\u00e3o da conta despesa ou receita, situa\u00e7\u00e3o (Ativo), selecione se \u00e9 despesa ou receita, vai participar da Apura\u00e7\u00e3o de resultado por competencia (Sim ou N\u00e3o) e aperte no   , depois vai na aba Unidades de Negocio!   Seleciona qual empresa e unidade de negocio que vai liberar essa conta despesa! Caso queira replicar para todas empresas, pode clicar no   Conta cadastrada com sucesso!!!",
+            "title": "Cadastro de Contas Despesas / Receitas"
         },
         {
             "location": "/modulos/estoque/movimentos/entrada-por-nota-fiscal/",
@@ -887,12 +897,12 @@
         },
         {
             "location": "/modulos/tesouraria/",
-            "text": "M\u00f3dulo Tesouraria\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nBancos\n - Aprenda a cadastrar um banco.\n\n\nAg\u00eancia\n - Aprenda a cadastrar uma ag\u00eancia.       \n\n\nContas Financeiras\n - Aprenda a cadastrar uma conta financeira.    \n\n\n\n\n\n\n\n\n\n\nMovimentos    \n\n\n\n\nMovimento Financeiro\n - Aprenda a fazer uma movimenta\u00e7\u00e3o financeira manual. \n\n\nTranfer\u00eancia entre Contas Financeiras\n - Aprenda a fazer uma movimenta\u00e7\u00e3o financeira manual.",
+            "text": "M\u00f3dulo Tesouraria\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nBancos\n - Aprenda a cadastrar um banco.\n\n\nAg\u00eancia\n - Aprenda a cadastrar uma ag\u00eancia.       \n\n\nContas Financeiras\n - Aprenda a cadastrar uma conta financeira.   \n\n\nContas Despesas/Receitas\n - Aprenda a cadastrar uma conta despesa/receita.\n\nTipo de Fornecimento\n - Aprenda a cadastrar um tipo de fornecimento.\n\n\n\n\n\n\n\n\n\n\nMovimentos\n\n\n\n\nMovimento Financeiro\n - Aprenda a fazer uma movimenta\u00e7\u00e3o financeira manual. \n\n\nTranfer\u00eancia entre Contas Financeiras\n - Aprenda a fazer uma movimenta\u00e7\u00e3o financeira manual.",
             "title": "Inicio"
         },
         {
             "location": "/modulos/tesouraria/#modulo-tesouraria",
-            "text": "Cadastros   Bancos  - Aprenda a cadastrar um banco.  Ag\u00eancia  - Aprenda a cadastrar uma ag\u00eancia.         Contas Financeiras  - Aprenda a cadastrar uma conta financeira.          Movimentos       Movimento Financeiro  - Aprenda a fazer uma movimenta\u00e7\u00e3o financeira manual.   Tranfer\u00eancia entre Contas Financeiras  - Aprenda a fazer uma movimenta\u00e7\u00e3o financeira manual.",
+            "text": "Cadastros   Bancos  - Aprenda a cadastrar um banco.  Ag\u00eancia  - Aprenda a cadastrar uma ag\u00eancia.         Contas Financeiras  - Aprenda a cadastrar uma conta financeira.     Contas Despesas/Receitas  - Aprenda a cadastrar uma conta despesa/receita. Tipo de Fornecimento  - Aprenda a cadastrar um tipo de fornecimento.      Movimentos   Movimento Financeiro  - Aprenda a fazer uma movimenta\u00e7\u00e3o financeira manual.   Tranfer\u00eancia entre Contas Financeiras  - Aprenda a fazer uma movimenta\u00e7\u00e3o financeira manual.",
             "title": "M\u00f3dulo Tesouraria"
         },
         {
@@ -934,6 +944,31 @@
             "location": "/modulos/tesouraria/cadastro/contas/#talao-de-cheques",
             "text": "Para visualizar um tal\u00e3o de cheques, ter que ir na conta financeira que deseja e clicar no     Vai abrir esta tela, com todos os tal\u00f5es cadastrado para essa conta financeira:  Para cadastrar um tal\u00e3o de cheque, v\u00e1 no   Vai abrir esta tela, onde vai ter que colocar o numero do tal\u00e3o, cheque inicial e cheque final!  Agora, aperte no    e esta cadastrado seu Tal\u00e3o de Cheque!",
             "title": "Tal\u00e3o de Cheques"
+        },
+        {
+            "location": "/modulos/tesouraria/cadastro/contas-despesas/",
+            "text": "Cadastro de Contas Despesas / Receitas\n\u00ab\n\n\nPara cadastrar ou consultar uma conta despesa \u00e9 necess\u00e1rio ir em: \n\n\n\n\n\u201cTESOURARIA \u00bb CADASTROS \u00bb CONTAS DESPESAS/RECEITAS \u201d      \n\n\n\u201cESTOQUE \u00bb CADASTROS \u00bb CONTAS DESPESAS/RECEITAS \u201d \n\n\n\n\n\n\nUma tela igual a esta ser\u00e1 apresentada:\n\n\n\n\nPara cadastrar um nova conta despesa, clique no \n, vai abrir essa tela:\n\n\n\n\nAgora, digite a descri\u00e7\u00e3o da conta despesa ou receita, situa\u00e7\u00e3o (Ativo), selecione se \u00e9 despesa ou receita, vai participar da Apura\u00e7\u00e3o de resultado por competencia (Sim ou N\u00e3o) e aperte no  \n, depois vai na aba Unidades de Negocio!\n\n\n\n\nSeleciona qual empresa e unidade de negocio que vai liberar essa conta despesa! Caso queira replicar para todas empresas, pode clicar no \n\n\nConta cadastrada com sucesso!!!",
+            "title": "Contas Despesas/Receitas"
+        },
+        {
+            "location": "/modulos/tesouraria/cadastro/contas-despesas/#cadastro-de-contas-despesas-receitas",
+            "text": "Para cadastrar ou consultar uma conta despesa \u00e9 necess\u00e1rio ir em:    \u201cTESOURARIA \u00bb CADASTROS \u00bb CONTAS DESPESAS/RECEITAS \u201d        \u201cESTOQUE \u00bb CADASTROS \u00bb CONTAS DESPESAS/RECEITAS \u201d     Uma tela igual a esta ser\u00e1 apresentada:   Para cadastrar um nova conta despesa, clique no  , vai abrir essa tela:   Agora, digite a descri\u00e7\u00e3o da conta despesa ou receita, situa\u00e7\u00e3o (Ativo), selecione se \u00e9 despesa ou receita, vai participar da Apura\u00e7\u00e3o de resultado por competencia (Sim ou N\u00e3o) e aperte no   , depois vai na aba Unidades de Negocio!   Seleciona qual empresa e unidade de negocio que vai liberar essa conta despesa! Caso queira replicar para todas empresas, pode clicar no   Conta cadastrada com sucesso!!!",
+            "title": "Cadastro de Contas Despesas / Receitas"
+        },
+        {
+            "location": "/modulos/tesouraria/cadastro/tipo-fornecimento/",
+            "text": "Cadastro de Tipo de Fornecimento\n\u00ab\n\n\nPara cadastrar ou consultar uma tipo de fornecimento \u00e9 necess\u00e1rio ir em: \n\n\n\n\n\u201cTESOURARIA \u00bb CADASTROS \u00bb Tipo Fornecimento por Despesas\u201d      \n\n\n\n\n\n\nUma tela igual a esta ser\u00e1 apresentada:\n\n\n\n\nPara cadastrar um tipo de fornecimento, selecione o grupo e subgrupo e clique no \n, vai abrir essa tela:\n\n\n\n\nAgora, digite a descri\u00e7\u00e3o da tipo de fornecimento, situa\u00e7\u00e3o (Ativo),e aperte no  \n, depois vai na aba Contas Despesas/Receitas!\n\n\nAdicionando Conta Despesas / Receitas\n\u00ab\n\n\n\n\nVai clicar no \n e selecionar sua conta pelo codigo, ou descri\u00e7\u00e3o, depois clique no \n! Caso n\u00e3o tenha a conta cadastrado, clique no link \nCadastro de Conta Despesa / Receita\n\n\nCadastrado seu tipo de fornecimento, e amarrado as contas despesas ou receitas, agora ja pode selecionar nos seus titulos a pagar ou receber dependendo da conta selecionada!",
+            "title": "Tipo de Fornecimento"
+        },
+        {
+            "location": "/modulos/tesouraria/cadastro/tipo-fornecimento/#cadastro-de-tipo-de-fornecimento",
+            "text": "Para cadastrar ou consultar uma tipo de fornecimento \u00e9 necess\u00e1rio ir em:    \u201cTESOURARIA \u00bb CADASTROS \u00bb Tipo Fornecimento por Despesas\u201d          Uma tela igual a esta ser\u00e1 apresentada:   Para cadastrar um tipo de fornecimento, selecione o grupo e subgrupo e clique no  , vai abrir essa tela:   Agora, digite a descri\u00e7\u00e3o da tipo de fornecimento, situa\u00e7\u00e3o (Ativo),e aperte no   , depois vai na aba Contas Despesas/Receitas!",
+            "title": "Cadastro de Tipo de Fornecimento"
+        },
+        {
+            "location": "/modulos/tesouraria/cadastro/tipo-fornecimento/#adicionando-conta-despesas-receitas",
+            "text": "Vai clicar no   e selecionar sua conta pelo codigo, ou descri\u00e7\u00e3o, depois clique no  ! Caso n\u00e3o tenha a conta cadastrado, clique no link  Cadastro de Conta Despesa / Receita  Cadastrado seu tipo de fornecimento, e amarrado as contas despesas ou receitas, agora ja pode selecionar nos seus titulos a pagar ou receber dependendo da conta selecionada!",
+            "title": "Adicionando Conta Despesas / Receitas"
         },
         {
             "location": "/modulos/tesouraria/movimentos/movimento-financeiro/",
