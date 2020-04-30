@@ -5,8 +5,8 @@
 >> [Endereço do Fornecedor](/modulos/estoque/cadastro/cadastro-fornecedor/#cadastrando-endereco-do-fornecedor) - Aprenda a como cadastrar um Endereço do Fornecedor.    
 >> [Contato do Fornecedor](/modulos/estoque/cadastro/cadastro-fornecedor/#cadastrando-contatos-do-cliente) - Aprenda a como cadastrar um Contato do Fornecedor.  
 >> [Cadastro de Produtos](/modulos/estoque/cadastro/cadastro-produto/#estoque) - Aprenda a Cadastrar um Produto!     
->> [Cadastro de Embalagens](/modulos/estoque/cadastro/cadastro-embalagens/#estoque) - Aprenda como cadastrar embalagens.
-
+>> [Cadastro de Embalagens](/modulos/estoque/cadastro/cadastro-embalagens/#estoque) - Aprenda como cadastrar embalagens.    
+>> [Contas Despesas/Receitas](/modulos/estoque/cadastro/contas-despesas.md) - Aprenda a cadastrar uma conta despesa/receita.
 ---
 
 > Movimentos   

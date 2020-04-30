@@ -107,6 +107,7 @@ pages:
       - 'Produtos': 'modulos/estoque/cadastro/cadastro-produto.md'
       - 'Fornecedor': 'modulos/estoque/cadastro/cadastro-fornecedor.md'
       - 'Embalagens': 'modulos/estoque/cadastro/cadastro-embalagens.md'
+      - 'Contas Despesas/Receitas': 'modulos/estoque/cadastro/contas-despesas.md'
     - Movimentos:
       - 'Entrada por Nota Fiscal': 'modulos/estoque/movimentos/entrada-por-nota-fiscal.md'
       - 'Solicitação de Compra': 'modulos/estoque/movimentos/solicitacao-compra.md'
@@ -170,6 +171,8 @@ pages:
         - 'Bancos': 'modulos/tesouraria/cadastro/bancos.md'
         - 'Agência': 'modulos/tesouraria/cadastro/agencia.md'
         - 'Contas Financeiras': 'modulos/tesouraria/cadastro/contas.md'
+        - 'Contas Despesas/Receitas': 'modulos/tesouraria/cadastro/contas-despesas.md'
+        - 'Tipo de Fornecimento': 'modulos/tesouraria/cadastro/tipo-fornecimento.md'
     - Movimentos:
       - 'Movimento Financeiro': 'modulos/tesouraria/movimentos/movimento-financeiro.md'
       - 'Tranferência entre Contas Financeiras': 'modulos/tesouraria/movimentos/transferencia-entre-contas-financeiras.md'
