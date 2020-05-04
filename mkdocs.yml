@@ -111,12 +111,12 @@ pages:
     - Movimentos:
       - 'Entrada por Nota Fiscal': 'modulos/estoque/movimentos/entrada-por-nota-fiscal.md'
       - 'Solicitação de Compra': 'modulos/estoque/movimentos/solicitacao-compra.md'
+      - 'Pedido de Compra': 'modulos/estoque/movimentos/pedido-de-compra.md'
       - 'Romaneio de Faturamento': 'modulos/estoque/movimentos/romaneio-faturamento.md'
       - 'Código de Barras': 'modulos/estoque/movimentos/codigo-barras.md'
       - 'Inventário': 'modulos/estoque/movimentos/inventario.md'
       - 'Movimentação de Estoque': 'modulos/estoque/movimentos/movimentacao-estoque.md'
       - 'Transferência de Estoque': 'modulos/estoque/movimentos/transferencia-estoque.md'
-      - 'Pedido de Compra': 'modulos/estoque/movimentos/pedido-de-compra.md'
     - Relatorios:
       - 'Posição de Estoque': 'modulos/estoque/relatorios/posicao-estoque.md'
   - Faturamento:
@@ -175,7 +175,7 @@ pages:
         - 'Tipo de Fornecimento': 'modulos/tesouraria/cadastro/tipo-fornecimento.md'
     - Movimentos:
       - 'Movimento Financeiro': 'modulos/tesouraria/movimentos/movimento-financeiro.md'
-      - 'Tranferência entre Contas Financeiras': 'modulos/tesouraria/movimentos/transferencia-entre-contas-financeiras.md'
+      - 'Transferência entre Contas Financeiras': 'modulos/tesouraria/movimentos/transferencia-entre-contas-financeiras.md'
   - Transporte: 
     - 'CTE': 'modulos/cte/index.md'
     - Cadastro:

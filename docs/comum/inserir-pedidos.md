@@ -13,7 +13,7 @@ Caso queira iniciar um novo pedido clique em ![12](/img/botoeskm/insere.jpg)
 
 ![2](/img/pedidos/movimentos2.jpg)
 
-Preencha com o Tipo de pedido a ser utilizado:
+Preencha com o Tipo de pedido a ser utilizado, se precisar cadastrar um novo [Tipo de Pedido](/modulos/comercial/cadastro/cadastro-tipo-pedido.md):
 
 ![3](/img/pedidos/movimentos3.jpg)
 
