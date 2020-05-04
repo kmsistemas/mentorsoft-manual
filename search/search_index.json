@@ -467,13 +467,13 @@
         },
         {
             "location": "/modulos/faturamento/cadastro/cadastro-tributacao/",
-            "text": "Cadastro tributa\u00e7\u00e3o\n\u00ab\n\n\nPara cadastrar uma nova tributa\u00e7\u00e3o, va em:\n\n\n\n\n\"Faturamento \u00bb Cadastro \u00bb Configura\u00e7\u00f5es \u00bb Tributa\u00e7\u00e3o\"  \n\n\n\n\n \n\n\nVai abrir uma tela igual a essa:\n\n\n \n\n\nAgora clique no bot\u00e3o \n\n\n \n\n\nSelecione o \nTipo de Pedido\n, \nTipo Fiscal\n, \nNCM\n, \nUF\n e a Tributa\u00e7\u00e3o que a sua contabilidade forneceu!\n\n\nReplicando a Tributa\u00e7\u00e3o\n\u00ab\n\n\nPara replicar a tributa\u00e7\u00e3o, deve primeiro fazer o filtro do tipo de pedido que deseja, selecione a tributa\u00e7\u00e3o a ser replicada! Depois clique no \n \n\n\nVai abrir essa tela:\n\n\n\n\nAgora \u00e9 s\u00f3 segurar o CTRL e ir clicando nos NCMs que deseja replicar! Caso queira selecionar todos, segure o \nSHIFT\n + \nSeta para Baixo\n :",
+            "text": "Cadastro de Tributa\u00e7\u00e3o\n\u00ab\n\n\nPara cadastrar uma nova tributa\u00e7\u00e3o, va em:\n\n\n\n\n\"Faturamento \u00bb Cadastro \u00bb Configura\u00e7\u00f5es \u00bb Tributa\u00e7\u00e3o\"  \n\n\n\n\n \n\n\nVai abrir uma tela igual a essa:\n\n\n \n\n\nAgora clique no bot\u00e3o \n\n\n \n\n\nSelecione o \nTipo de Pedido\n, \nTipo Fiscal\n, \nNCM\n, \nUF\n e a Tributa\u00e7\u00e3o que a sua contabilidade forneceu!\n\n\nReplicando a Tributa\u00e7\u00e3o\n\u00ab\n\n\nPara replicar a tributa\u00e7\u00e3o, deve primeiro fazer o filtro do tipo de pedido que deseja, selecione a tributa\u00e7\u00e3o a ser replicada! Depois clique no \n \n\n\nVai abrir essa tela:\n\n\n\n\nAgora \u00e9 s\u00f3 segurar o CTRL e ir clicando nos NCMs que deseja replicar! Caso queira selecionar todos, segure o \nSHIFT\n + \nSeta para Baixo\n :",
             "title": "Tributa\u00e7\u00e3o"
         },
         {
-            "location": "/modulos/faturamento/cadastro/cadastro-tributacao/#cadastro-tributacao",
+            "location": "/modulos/faturamento/cadastro/cadastro-tributacao/#cadastro-de-tributacao",
             "text": "Para cadastrar uma nova tributa\u00e7\u00e3o, va em:   \"Faturamento \u00bb Cadastro \u00bb Configura\u00e7\u00f5es \u00bb Tributa\u00e7\u00e3o\"        Vai abrir uma tela igual a essa:     Agora clique no bot\u00e3o      Selecione o  Tipo de Pedido ,  Tipo Fiscal ,  NCM ,  UF  e a Tributa\u00e7\u00e3o que a sua contabilidade forneceu!",
-            "title": "Cadastro tributa\u00e7\u00e3o"
+            "title": "Cadastro de Tributa\u00e7\u00e3o"
         },
         {
             "location": "/modulos/faturamento/cadastro/cadastro-tributacao/#replicando-a-tributacao",
