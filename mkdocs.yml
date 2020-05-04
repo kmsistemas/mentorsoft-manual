@@ -125,8 +125,8 @@ pages:
       - 'Cliente': 'modulos/faturamento/cadastro/cadastro-cliente.md'
       - 'Fornecedor': 'modulos/faturamento/cadastro/cadastro-fornecedor.md'
       - 'Cadastro CEST': 'modulos/faturamento/cadastro/cadastro-cest.md'
-      - 'Cadastro Tributação': 'modulos/faturamento/cadastro/cadastro-tributacao.md'
-      - 'Cadastro Tipo de Pedido': 'modulos/faturamento/cadastro/cadastro-tipo-pedido.md'
+      - 'Tributação': 'modulos/faturamento/cadastro/cadastro-tributacao.md'
+      - 'Tipo de Pedido': 'modulos/faturamento/cadastro/cadastro-tipo-pedido.md'
     - Movimentos:
       - 'Abertura de Faturamento': 'modulos/faturamento/movimentos/abertura-faturamento.md'
       - 'Entrada por Nota Fiscal': 'modulos/faturamento/movimentos/entrada-por-nota-fiscal.md'

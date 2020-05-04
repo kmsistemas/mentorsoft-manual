@@ -5,7 +5,7 @@ Para cadastrar um novo código CEST, va em:
 
 ![1](/img/cadastro-cest/1.png)  
 
-Agora vamos *inserir* o código no sistema:  
+Agora vamos ![15](/img/botoeskm/insere.jpg) o código no sistema:  
 ![2](/img/cadastro-cest/2.png)  
 
 Após feito o cadastro, temos que ir no [cadastro de tributação](/modulos/faturamento/cadastro/cadastro-tributacao.md) escolher qual tributação/produto(NCM) pretendo adicionar o código **CEST**:  
