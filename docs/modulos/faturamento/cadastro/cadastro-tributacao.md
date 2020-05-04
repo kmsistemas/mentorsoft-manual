@@ -1,4 +1,4 @@
-# Cadastro tributação
+# Cadastro de Tributação
 
 Para cadastrar uma nova tributação, va em:
 > "Faturamento » Cadastro » Configurações » Tributação"  
@@ -13,7 +13,7 @@ Agora clique no botão ![15](/img/botoeskm/insere.jpg)
 
 ![3](/img/faturamento/3.png) 
 
-Selecione o **Tipo de Pedido**, **Tipo Fiscal**, **NCM**, **UF** e a Tributação que a sua contabilidade forneceu!
+Selecione o **[Tipo de Pedido](/modulos/faturamento/cadastro/cadastro-tipo-pedido.md)**, **Tipo Fiscal**, **NCM**, **UF** e a Tributação que a sua contabilidade forneceu!
 
 ## Replicando a Tributação
 
