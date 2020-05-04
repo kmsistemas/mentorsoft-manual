@@ -457,28 +457,28 @@
         },
         {
             "location": "/modulos/faturamento/cadastro/cadastro-cest/",
-            "text": "Cadastro de CEST\n\u00ab\n\n\nPara cadastrar um novo c\u00f3digo CEST, va em:\n\n\n\n\n\"Faturamento \u00bb Cadastro \u00bb Configura\u00e7\u00f5es \u00bb Cadastro CEST\"  \n\n\n\n\n  \n\n\nAgora vamos \ninserir\n o c\u00f3digo no sistema:\n\n\n  \n\n\nAp\u00f3s feito o cadastro, temos que ir no \ncadastro de tributa\u00e7\u00e3o\n escolher qual tributa\u00e7\u00e3o/produto(NCM) pretendo adicionar o c\u00f3digo \nCEST\n:\n\n\n  \n\n\nLocalizar no \ncadastro de tributa\u00e7\u00e3o\n, qual \nNCM\n voc\u00ea pretende e/ou precisa colocar o c\u00f3digo \nCEST\n correspondente, assim encontrado, selecionar o c\u00f3digo \nCEST\n:\n\n\n  \n\n\nAp\u00f3s selecionado o c\u00f3digo correto, dar \nTAB\n at\u00e9 ir para a pr\u00f3xima linha ou clicar em \nGRAVAR\n.  \n\n\nFeito este procedimento j\u00e1 vai estar adicionado o c\u00f3digo \nCEST\n para o produto(NCM) e assim j\u00e1 vai estar configurado para cumprir a determina\u00e7\u00e3o.",
+            "text": "Cadastro de CEST\n\u00ab\n\n\nPara cadastrar um novo c\u00f3digo CEST, va em:\n\n\n\n\n\"Faturamento \u00bb Cadastro \u00bb Configura\u00e7\u00f5es \u00bb Cadastro CEST\"  \n\n\n\n\n  \n\n\nAgora vamos \n o c\u00f3digo no sistema:\n\n\n  \n\n\nAp\u00f3s feito o cadastro, temos que ir no \ncadastro de tributa\u00e7\u00e3o\n escolher qual tributa\u00e7\u00e3o/produto(NCM) pretendo adicionar o c\u00f3digo \nCEST\n:\n\n\n  \n\n\nLocalizar no \ncadastro de tributa\u00e7\u00e3o\n, qual \nNCM\n voc\u00ea pretende e/ou precisa colocar o c\u00f3digo \nCEST\n correspondente, assim encontrado, selecionar o c\u00f3digo \nCEST\n:\n\n\n  \n\n\nAp\u00f3s selecionado o c\u00f3digo correto, dar \nTAB\n at\u00e9 ir para a pr\u00f3xima linha ou clicar em \nGRAVAR\n.  \n\n\nFeito este procedimento j\u00e1 vai estar adicionado o c\u00f3digo \nCEST\n para o produto(NCM) e assim j\u00e1 vai estar configurado para cumprir a determina\u00e7\u00e3o.",
             "title": "Cadastro CEST"
         },
         {
             "location": "/modulos/faturamento/cadastro/cadastro-cest/#cadastro-de-cest",
-            "text": "Para cadastrar um novo c\u00f3digo CEST, va em:   \"Faturamento \u00bb Cadastro \u00bb Configura\u00e7\u00f5es \u00bb Cadastro CEST\"         Agora vamos  inserir  o c\u00f3digo no sistema:      Ap\u00f3s feito o cadastro, temos que ir no  cadastro de tributa\u00e7\u00e3o  escolher qual tributa\u00e7\u00e3o/produto(NCM) pretendo adicionar o c\u00f3digo  CEST :      Localizar no  cadastro de tributa\u00e7\u00e3o , qual  NCM  voc\u00ea pretende e/ou precisa colocar o c\u00f3digo  CEST  correspondente, assim encontrado, selecionar o c\u00f3digo  CEST :      Ap\u00f3s selecionado o c\u00f3digo correto, dar  TAB  at\u00e9 ir para a pr\u00f3xima linha ou clicar em  GRAVAR .    Feito este procedimento j\u00e1 vai estar adicionado o c\u00f3digo  CEST  para o produto(NCM) e assim j\u00e1 vai estar configurado para cumprir a determina\u00e7\u00e3o.",
+            "text": "Para cadastrar um novo c\u00f3digo CEST, va em:   \"Faturamento \u00bb Cadastro \u00bb Configura\u00e7\u00f5es \u00bb Cadastro CEST\"         Agora vamos   o c\u00f3digo no sistema:      Ap\u00f3s feito o cadastro, temos que ir no  cadastro de tributa\u00e7\u00e3o  escolher qual tributa\u00e7\u00e3o/produto(NCM) pretendo adicionar o c\u00f3digo  CEST :      Localizar no  cadastro de tributa\u00e7\u00e3o , qual  NCM  voc\u00ea pretende e/ou precisa colocar o c\u00f3digo  CEST  correspondente, assim encontrado, selecionar o c\u00f3digo  CEST :      Ap\u00f3s selecionado o c\u00f3digo correto, dar  TAB  at\u00e9 ir para a pr\u00f3xima linha ou clicar em  GRAVAR .    Feito este procedimento j\u00e1 vai estar adicionado o c\u00f3digo  CEST  para o produto(NCM) e assim j\u00e1 vai estar configurado para cumprir a determina\u00e7\u00e3o.",
             "title": "Cadastro de CEST"
         },
         {
             "location": "/modulos/faturamento/cadastro/cadastro-tributacao/",
-            "text": "Cadastro tributa\u00e7\u00e3o\n\u00ab\n\n\nDisponibilizaremos assim que poss\u00edvel! Fique atento!",
-            "title": "Cadastro Tributa\u00e7\u00e3o"
+            "text": "Cadastro tributa\u00e7\u00e3o\n\u00ab\n\n\nPara cadastrar uma nova tributa\u00e7\u00e3o, va em:\n\n\n\n\n\"Faturamento \u00bb Cadastro \u00bb Configura\u00e7\u00f5es \u00bb Tributa\u00e7\u00e3o\"  \n\n\n\n\n \n\n\nVai abrir uma tela igual a essa:\n\n\n \n\n\nAgora clique no bot\u00e3o \n\n\n \n\n\nSelecione o \nTipo de Pedido\n, \nTipo Fiscal\n, \nNCM\n, \nUF\n e a Tributa\u00e7\u00e3o que a sua contabilidade forneceu!",
+            "title": "Tributa\u00e7\u00e3o"
         },
         {
             "location": "/modulos/faturamento/cadastro/cadastro-tributacao/#cadastro-tributacao",
-            "text": "Disponibilizaremos assim que poss\u00edvel! Fique atento!",
+            "text": "Para cadastrar uma nova tributa\u00e7\u00e3o, va em:   \"Faturamento \u00bb Cadastro \u00bb Configura\u00e7\u00f5es \u00bb Tributa\u00e7\u00e3o\"        Vai abrir uma tela igual a essa:     Agora clique no bot\u00e3o      Selecione o  Tipo de Pedido ,  Tipo Fiscal ,  NCM ,  UF  e a Tributa\u00e7\u00e3o que a sua contabilidade forneceu!",
             "title": "Cadastro tributa\u00e7\u00e3o"
         },
         {
             "location": "/modulos/faturamento/cadastro/cadastro-tipo-pedido/",
             "text": "Tipo de Pedido\n\u00ab\n\n\nComo Cadastrar Tipo de Pedido\n\u00ab\n\n\nPara inserir um novo \nFornecedor\n, voc\u00ea deve ir por um destes caminhos  \n\n\n\n\n\u201cCOMERCIAL \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d\n\n\u201cFATURAMENTO \u00bb CADASTROS \u00bb TIPOS DE PEDIDOS\u201d  \n\n\n\n\n\n\n  \n\n\nIr\u00e1 abrir a seguinte tela:\n\n  \n\n\nClique no \n, o sistema vai te direcionar para a aba de Cadastro:\n\n\n  \n\n\nPreencha devidamente os campos de acordo com os dados do Tipo de Pedido. Assim que finalizar o cadastro, aperte no bot\u00e3o \n, caso n\u00e3o tenha preenchido algum campo obrigatorio, o sistema vai te avisar de qual campo falta preencher.  \n\n\n\n\nEmpresas Poss\u00edveis\n\u00ab\n\n\n\nSelecione as Empresas Poss\u00edveis que ir\u00e3o utilizar esse Tipo de Pedido, e caso essas empresas tenham almoxarifados diferentes, selecione tambem! Para escolher mais de uma empresa aperte \nTAB\n, assim que finalizar o cadastro, aperte no \n.",
-            "title": "Cadastro Tipo de Pedido"
+            "title": "Tipo de Pedido"
         },
         {
             "location": "/modulos/faturamento/cadastro/cadastro-tipo-pedido/#tipo-de-pedido",
