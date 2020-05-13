@@ -108,6 +108,7 @@ pages:
       - 'Fornecedor': 'modulos/estoque/cadastro/cadastro-fornecedor.md'
       - 'Embalagens': 'modulos/estoque/cadastro/cadastro-embalagens.md'
       - 'Contas Despesas/Receitas': 'modulos/estoque/cadastro/contas-despesas.md'
+      - 'Unidades Produtivas': 'modulos/estoque/cadastro/unidades-produtiva.md'
     - Movimentos:
       - 'Entrada por Nota Fiscal': 'modulos/estoque/movimentos/entrada-por-nota-fiscal.md'
       - 'Solicitação de Compra': 'modulos/estoque/movimentos/solicitacao-compra.md'
@@ -121,7 +122,7 @@ pages:
       - 'Posição de Estoque': 'modulos/estoque/relatorios/posicao-estoque.md'
   - Faturamento:
     - 'Inicio': 'modulos/faturamento/index.md'
-    - Cadastro:
+    - Cadastros:
       - 'Cliente': 'modulos/faturamento/cadastro/cadastro-cliente.md'
       - 'Fornecedor': 'modulos/faturamento/cadastro/cadastro-fornecedor.md'
       - 'Cadastro CEST': 'modulos/faturamento/cadastro/cadastro-cest.md'
@@ -134,9 +135,11 @@ pages:
       - 'Pedidos': 'modulos/faturamento/movimentos/inserir-pedidos.md'
   - Industrial:
     - 'Inicio': 'modulos/industrial/index.md'
-    - Cadastro:
+    - Cadastros:
       - 'Grupo Industrial': 'modulos/industrial/cadastro/grupo-industrial.md'
       - 'Setor Industrial': 'modulos/industrial/cadastro/setor-industrial.md'
+      - 'Setup': 'modulos/industrial/cadastro/setup.md'
+      - 'Unidades Produtivas': 'modulos/industrial/cadastro/unidades-produtiva.md'
     - Movimentos:
       - 'PCP': 'modulos/industrial/movimentos/pcp.md'
   - GRH:
@@ -167,7 +170,7 @@ pages:
       - 'Operação de Recebimento': 'modulos/receber/movimentos/operacao-recebimento.md'
   - Tesouraria:
     - 'Inicio': 'modulos/tesouraria/index.md'
-    - Cadastro:
+    - Cadastros:
         - 'Bancos': 'modulos/tesouraria/cadastro/bancos.md'
         - 'Agência': 'modulos/tesouraria/cadastro/agencia.md'
         - 'Contas Financeiras': 'modulos/tesouraria/cadastro/contas.md'
@@ -178,7 +181,7 @@ pages:
       - 'Transferência entre Contas Financeiras': 'modulos/tesouraria/movimentos/transferencia-entre-contas-financeiras.md'
   - Transporte: 
     - 'CTE': 'modulos/cte/index.md'
-    - Cadastro:
+    - Cadastros:
         - 'Cadastro de Tipos de Veículo': 'modulos/cte/cadastro/tipos-de-veiculos.md'
         - 'Cadastro de Marcas de Veículo': 'modulos/cte/cadastro/marcas-de-veiculos.md'
         - 'Cadastro de Modelos de Veículo': 'modulos/cte/cadastro/modelos-de-veiculos.md'
@@ -186,3 +189,4 @@ pages:
         - 'Controle de CT e': 'modulos/cte/movimentos/controle-cte.md'
   - Suporte:
     - 'Instalacao': 'instalacao.md'
+    - 'Força de Vendas': 'comum/forca-vendas.md'
