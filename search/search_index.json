@@ -227,12 +227,12 @@
         },
         {
             "location": "/modulos/estoque/",
-            "text": "M\u00f3dulo Estoque\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nFornecedor\n - Aprenda a como cadastrar um fornecedor.\n\n\nCadastro de Produtos\n - Aprenda a Cadastrar um Produto!   \n\n\nCadastro de Embalagens\n - Aprenda como cadastrar embalagens.  \n\n\nContas Despesas/Receitas\n - Aprenda a cadastrar uma conta despesa/receita.\n\n\n\n\n\n\n\n\n\n\nMovimentos   \n\n\n\n\nSolicita\u00e7\u00e3o de Compra\n - Solicite uma nova compra.\n\n\nPedido de Compra\n - Como gerar um Pedido de Compra.     \n\n\nEntrada por Nota Fiscal\n - Aprenda como fazer uma entrada por nota fiscal!    \n\n\nRomaneio de Faturamento\n - Embale seus produtos.                                                                 \n\n\nC\u00f3digo de Barras\n - Emiss\u00e3o de C\u00f3digo de Barras.    \n\n\nInvent\u00e1rio\n - Como gerar um Invent\u00e1rio.\n\n\nMovimenta\u00e7\u00e3o de Estoque\n - Como fazer uma movimenta\u00e7\u00e3o de estoque manual.\n\n\nTransfer\u00eancia de Estoque\n - Como fazer uma transfer\u00eancia de estoque .     \n\n\n\n\n\n\n\n\n\n\nRelatorios\n\n\n\n\nPosi\u00e7\u00e3o de Estoque\n - Relat\u00f3rios de Estoque.",
+            "text": "M\u00f3dulo Estoque\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nFornecedor\n - Aprenda a como cadastrar um fornecedor.\n\n\nCadastro de Produtos\n - Aprenda a Cadastrar um Produto!   \n\n\nCadastro de Embalagens\n - Aprenda como cadastrar embalagens.  \n\n\nContas Despesas/Receitas\n - Aprenda a cadastrar uma conta despesa/receita.   \n\n\nUnidades Produtivas\n - Aprenda como cadastrar uma unidade produtiva.\n\n\n\n\n\n\n\n\n\n\nMovimentos   \n\n\n\n\nSolicita\u00e7\u00e3o de Compra\n - Solicite uma nova compra.\n\n\nPedido de Compra\n - Como gerar um Pedido de Compra.     \n\n\nEntrada por Nota Fiscal\n - Aprenda como fazer uma entrada por nota fiscal!    \n\n\nRomaneio de Faturamento\n - Embale seus produtos.                                                                 \n\n\nC\u00f3digo de Barras\n - Emiss\u00e3o de C\u00f3digo de Barras.    \n\n\nInvent\u00e1rio\n - Como gerar um Invent\u00e1rio.\n\n\nMovimenta\u00e7\u00e3o de Estoque\n - Como fazer uma movimenta\u00e7\u00e3o de estoque manual.\n\n\nTransfer\u00eancia de Estoque\n - Como fazer uma transfer\u00eancia de estoque .     \n\n\n\n\n\n\n\n\n\n\nRelatorios\n\n\n\n\nPosi\u00e7\u00e3o de Estoque\n - Relat\u00f3rios de Estoque.",
             "title": "Inicio"
         },
         {
             "location": "/modulos/estoque/#modulo-estoque",
-            "text": "Cadastros   Fornecedor  - Aprenda a como cadastrar um fornecedor.  Cadastro de Produtos  - Aprenda a Cadastrar um Produto!     Cadastro de Embalagens  - Aprenda como cadastrar embalagens.    Contas Despesas/Receitas  - Aprenda a cadastrar uma conta despesa/receita.      Movimentos      Solicita\u00e7\u00e3o de Compra  - Solicite uma nova compra.  Pedido de Compra  - Como gerar um Pedido de Compra.       Entrada por Nota Fiscal  - Aprenda como fazer uma entrada por nota fiscal!      Romaneio de Faturamento  - Embale seus produtos.                                                                   C\u00f3digo de Barras  - Emiss\u00e3o de C\u00f3digo de Barras.      Invent\u00e1rio  - Como gerar um Invent\u00e1rio.  Movimenta\u00e7\u00e3o de Estoque  - Como fazer uma movimenta\u00e7\u00e3o de estoque manual.  Transfer\u00eancia de Estoque  - Como fazer uma transfer\u00eancia de estoque .           Relatorios   Posi\u00e7\u00e3o de Estoque  - Relat\u00f3rios de Estoque.",
+            "text": "Cadastros   Fornecedor  - Aprenda a como cadastrar um fornecedor.  Cadastro de Produtos  - Aprenda a Cadastrar um Produto!     Cadastro de Embalagens  - Aprenda como cadastrar embalagens.    Contas Despesas/Receitas  - Aprenda a cadastrar uma conta despesa/receita.     Unidades Produtivas  - Aprenda como cadastrar uma unidade produtiva.      Movimentos      Solicita\u00e7\u00e3o de Compra  - Solicite uma nova compra.  Pedido de Compra  - Como gerar um Pedido de Compra.       Entrada por Nota Fiscal  - Aprenda como fazer uma entrada por nota fiscal!      Romaneio de Faturamento  - Embale seus produtos.                                                                   C\u00f3digo de Barras  - Emiss\u00e3o de C\u00f3digo de Barras.      Invent\u00e1rio  - Como gerar um Invent\u00e1rio.  Movimenta\u00e7\u00e3o de Estoque  - Como fazer uma movimenta\u00e7\u00e3o de estoque manual.  Transfer\u00eancia de Estoque  - Como fazer uma transfer\u00eancia de estoque .           Relatorios   Posi\u00e7\u00e3o de Estoque  - Relat\u00f3rios de Estoque.",
             "title": "M\u00f3dulo Estoque"
         },
         {
@@ -289,6 +289,21 @@
             "location": "/modulos/estoque/cadastro/contas-despesas/#cadastro-de-contas-despesas-receitas",
             "text": "Para cadastrar ou consultar uma conta despesa \u00e9 necess\u00e1rio ir em:    \u201cTESOURARIA \u00bb CADASTROS \u00bb CONTAS DESPESAS/RECEITAS \u201d        \u201cESTOQUE \u00bb CADASTROS \u00bb CONTAS DESPESAS/RECEITAS \u201d     Uma tela igual a esta ser\u00e1 apresentada:   Para cadastrar um nova conta despesa, clique no  , vai abrir essa tela:   Agora, digite a descri\u00e7\u00e3o da conta despesa ou receita, situa\u00e7\u00e3o (Ativo), selecione se \u00e9 despesa ou receita, vai participar da Apura\u00e7\u00e3o de resultado por competencia (Sim ou N\u00e3o) e aperte no   , depois vai na aba Unidades de Negocio!   Seleciona qual empresa e unidade de negocio que vai liberar essa conta despesa! Caso queira replicar para todas empresas, pode clicar no   Conta cadastrada com sucesso!!!",
             "title": "Cadastro de Contas Despesas / Receitas"
+        },
+        {
+            "location": "/modulos/estoque/cadastro/unidades-produtiva/",
+            "text": "Unidades Produtivas\n\u00ab\n\n\nComo cadastrar uma unidade produtiva!\n\u00ab\n\n\nPara se inserir uma unidade produtiva, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cINDUSTRIAL \u00bb CADASTROS \u00bb UNIDADES PRODUTIVAS\u201d\n\n\u201cESTOQUE \u00bb CADASTROS \u00bb UNIDADES PRODUTIVAS\u201d  \n\n\n\n\n \n\n\nClique no \n , digite o nome fantasia da unidade, e selecione o fornecedor, a baixo deve selecionar os setores que essa unidade trabalha, segue print:",
+            "title": "Unidades Produtivas"
+        },
+        {
+            "location": "/modulos/estoque/cadastro/unidades-produtiva/#unidades-produtivas",
+            "text": "",
+            "title": "Unidades Produtivas"
+        },
+        {
+            "location": "/modulos/estoque/cadastro/unidades-produtiva/#como-cadastrar-uma-unidade-produtiva",
+            "text": "Para se inserir uma unidade produtiva, voc\u00ea deve ir neste caminho:    \u201cINDUSTRIAL \u00bb CADASTROS \u00bb UNIDADES PRODUTIVAS\u201d \n\u201cESTOQUE \u00bb CADASTROS \u00bb UNIDADES PRODUTIVAS\u201d        Clique no   , digite o nome fantasia da unidade, e selecione o fornecedor, a baixo deve selecionar os setores que essa unidade trabalha, segue print:",
+            "title": "Como cadastrar uma unidade produtiva!"
         },
         {
             "location": "/modulos/estoque/movimentos/entrada-por-nota-fiscal/",
@@ -567,12 +582,12 @@
         },
         {
             "location": "/modulos/industrial/",
-            "text": "M\u00f3dulo Industrial\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nGrupo Industrial\n - Aprenda como cadastrar um Grupo Industrial.  \n\n\nSetor Industrial\n - Aprenda como cadastrar um Setor Industrial.\n\n\n\n\nMovimentos\n\n\n\n\nPCP\n - Aprenda como programar um produto no industrial.",
+            "text": "M\u00f3dulo Industrial\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nGrupo Industrial\n - Aprenda como cadastrar um Grupo Industrial.  \n\n\nSetor Industrial\n - Aprenda como cadastrar um Setor Industrial.   \n\n\nSetup\n - Aprenda como configurar sua rota produtiva. \n\n\nUnidades Produtivas\n - Aprenda como cadastrar uma unidade produtiva.   \n\n\n\n\n\n\n\n\n\n\nMovimentos\n\n\n\n\nPCP\n - Aprenda como programar um produto no industrial.",
             "title": "Inicio"
         },
         {
             "location": "/modulos/industrial/#modulo-industrial",
-            "text": "Cadastros   Grupo Industrial  - Aprenda como cadastrar um Grupo Industrial.    Setor Industrial  - Aprenda como cadastrar um Setor Industrial.   Movimentos   PCP  - Aprenda como programar um produto no industrial.",
+            "text": "Cadastros   Grupo Industrial  - Aprenda como cadastrar um Grupo Industrial.    Setor Industrial  - Aprenda como cadastrar um Setor Industrial.     Setup  - Aprenda como configurar sua rota produtiva.   Unidades Produtivas  - Aprenda como cadastrar uma unidade produtiva.         Movimentos   PCP  - Aprenda como programar um produto no industrial.",
             "title": "M\u00f3dulo Industrial"
         },
         {
@@ -604,6 +619,36 @@
             "location": "/modulos/industrial/cadastro/setor-industrial/#cadastrando-setor-industrial",
             "text": "Para se inserir um setor industrial, voc\u00ea deve ir neste caminho:    \u201cINDUSTRIAL \u00bb CADASTROS \u00bb SETOR INDUSTRIAL\u201d        Nesta tela voc\u00ea pode pesquisar os setores cadastrados ou inserir um novo:   Para inserir um novo setor, clique no  :",
             "title": "Cadastrando Setor Industrial"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/setup/",
+            "text": "Setup\n\u00ab\n\n\nConfigurando rota produtiva do PCP\n\u00ab\n\n\nPara se inserir um setor industrial ma rota produtiva, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cINDUSTRIAL \u00bb CADASTROS \u00bb SETUP\u201d  \n\n\n\n\n \n\n\nNesta tela voc\u00ea deve selecionar o grupo industrial, e a abaixo selecionar os setores: \n\n\n \n\n\nOBS: Usuario que vai fazer a programa\u00e7\u00e3o, tem que ter libera\u00e7\u00e3o de todos setores do grupo!",
+            "title": "Setup"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/setup/#setup",
+            "text": "",
+            "title": "Setup"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/setup/#configurando-rota-produtiva-do-pcp",
+            "text": "Para se inserir um setor industrial ma rota produtiva, voc\u00ea deve ir neste caminho:    \u201cINDUSTRIAL \u00bb CADASTROS \u00bb SETUP\u201d        Nesta tela voc\u00ea deve selecionar o grupo industrial, e a abaixo selecionar os setores:      OBS: Usuario que vai fazer a programa\u00e7\u00e3o, tem que ter libera\u00e7\u00e3o de todos setores do grupo!",
+            "title": "Configurando rota produtiva do PCP"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/unidades-produtiva/",
+            "text": "Unidades Produtivas\n\u00ab\n\n\nComo cadastrar uma unidade produtiva!\n\u00ab\n\n\nPara se inserir uma unidade produtiva, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cINDUSTRIAL \u00bb CADASTROS \u00bb UNIDADES PRODUTIVAS\u201d\n\n\u201cESTOQUE \u00bb CADASTROS \u00bb UNIDADES PRODUTIVAS\u201d  \n\n\n\n\n \n\n\nClique no \n , digite o nome fantasia da unidade, e selecione o fornecedor, a baixo deve selecionar os setores que essa unidade trabalha, segue print:",
+            "title": "Unidades Produtivas"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/unidades-produtiva/#unidades-produtivas",
+            "text": "",
+            "title": "Unidades Produtivas"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/unidades-produtiva/#como-cadastrar-uma-unidade-produtiva",
+            "text": "Para se inserir uma unidade produtiva, voc\u00ea deve ir neste caminho:    \u201cINDUSTRIAL \u00bb CADASTROS \u00bb UNIDADES PRODUTIVAS\u201d \n\u201cESTOQUE \u00bb CADASTROS \u00bb UNIDADES PRODUTIVAS\u201d        Clique no   , digite o nome fantasia da unidade, e selecione o fornecedor, a baixo deve selecionar os setores que essa unidade trabalha, segue print:",
+            "title": "Como cadastrar uma unidade produtiva!"
         },
         {
             "location": "/modulos/industrial/movimentos/pcp/",
@@ -1067,7 +1112,7 @@
         },
         {
             "location": "/instalacao/",
-            "text": "Instala\u00e7\u00e3o do sistema\n\u00ab\n\n\nComo instalar o Sistema MentorSoft.\n\u00ab\n\n\nNesse passo a passo, estaremos ensinando a como fazer a instala\u00e7\u00e3o do sistema em uma m\u00e1quina qualquer.\n\nPara continuar, precisaremos de acesso ao servidor.  \n\n\nVoc\u00ea deve:  \n\n\n\n\nMapear Unidade de Rede para a pasta do sistema  utilizando a letra K.\n\nAp\u00f3s a conclus\u00e3o do mapeamento, ao acessar o mapeamento (K:) deve encontrar as pastas  \n\n\n\n\n\n\nBackup  \n\n\nDLL  \n\n\nEXE  \n\n\nNFE  \n\n\n\n\n\n\n\n\n  \n\n\nNo seu C:\\ crie uma pasta chamada \nMentorSoft\n dentro dessa pasta deve ficar da seguinte forma:  \n\n\n\n\nBackup \u2013 Pasta padr\u00e3o de backup do sistema  \n\n\n\n\n\n\nDLLs do Backup  \n\n\nEXEs backup  \n\n\n\n\n\n\nEXE \u2013 Execut\u00e1veis do sistema  \n\n\n\n\n\n\nMentorSoft.exe  \n\n\nsisKM.ini  \n\n\nArquivos ini para emiss\u00e3o da nota  \n\n\n\n\n\n\n\n\nV\u00e1 no servidor (K:) em \nK:\\exe\n copie os arquivos \nMentorSoft.exe\n e \nsisKM.ini\n e cole em \nC:\\MentorSoft\\exe\n;\n\nLogo em seguida v\u00e1 em \nK:\\DLL\n copie todos os arquivos e cole em uma das seguintes pastas:  \n\n\n\n\nPara Windows 32 Bits (x86):  \n\n\n\n\n\n\n\u201cC:\\Windows\\System32\u201d  \n\n\n\n\n\n\nPara Windows 64 bits (x64):  \n\n\n\n\n\n\n\u201cC:\\Windows\\SysWOW64\u201d  \n\n\n\n\n\n\n\n\nSe o usu\u00e1rio que utilizar\u00e1 m\u00e1quina for respons\u00e1vel de backup, voc\u00ea precisa configurar a mesma para que o fa\u00e7a, v\u00e1 em \n K:\\backup\n, copie todos os arquivos que n\u00e3o contenham a extens\u00e3o \n.backup\n e cole em \nC:\\MentorSoft\\Backup\n\n\nOkay, seu sistema est\u00e1 instalado e deve funcionar, v\u00e1 na pasta \nC:\\MentorSoft\\exe\n e crie um atalho do \nMentorSoft.exe\n.  \n\n\n\n\nConfigurando para Emiss\u00e3o de Nota\n\u00ab\n\n\nEm Breve",
+            "text": "Instala\u00e7\u00e3o do sistema\n\u00ab\n\n\nComo instalar o Sistema MentorSoft.\n\u00ab\n\n\nNesse passo a passo, estaremos ensinando a como fazer a instala\u00e7\u00e3o do sistema em uma m\u00e1quina qualquer.\n\nPara continuar, precisaremos de acesso ao servidor.  \n\n\nVoc\u00ea deve:  \n\n\n\n\nMapear Unidade de Rede para a pasta do sistema utilizando a letra K.\n\nAp\u00f3s a conclus\u00e3o do mapeamento, ao acessar o mapeamento (K:) deve encontrar as pastas  \n\n\n\n\n\n\nBackup  \n\n\nDLL  \n\n\nEXE  \n\n\n\n\n\n\n\n\n  \n\n\nNo seu C:\\ crie uma pasta chamada \nMentorSoft\n , dentro dessa pasta deve ficar da seguinte forma:  \n\n\n\n\nBackup \u2013 Pasta padr\u00e3o de backup do sistema\n\nEXE \u2013 Execut\u00e1veis do sistema  \n\n\n\n\n\n\nMentorSoft.exe  \n\n\nsisKM.ini\n\nDLL - Para o sistema funcionar\n\n\n\n\n\n\n\n\nV\u00e1 no servidor (K:) em \nK:\\exe\n copie os arquivos \nMentorSoft.exe\n e \nsisKM.ini\n e cole em \nC:\\MentorSoft\\exe\n;\n\nLogo em seguida v\u00e1 em \nK:\\DLL\n copie todos os arquivos e cole em \nC:\\MentorSoft\\exe\n e \nC:\\MentorSoft\\dll\n:  \n\n\nSe o usu\u00e1rio que utilizar\u00e1 m\u00e1quina for respons\u00e1vel de backup, voc\u00ea precisa configurar a mesma para que o fa\u00e7a, v\u00e1 em \nK:\\Backup\n, copie todos os arquivos que n\u00e3o contenham a extens\u00e3o \n.backup\n e cole em \nC:\\MentorSoft\\Backup\n\n\nOkay, seu sistema est\u00e1 instalado e deve funcionar, v\u00e1 na pasta \nC:\\MentorSoft\\exe\n e crie um atalho do \nMentorSoft.exe\n.",
             "title": "Instalacao"
         },
         {
@@ -1077,13 +1122,23 @@
         },
         {
             "location": "/instalacao/#como-instalar-o-sistema-mentorsoft",
-            "text": "Nesse passo a passo, estaremos ensinando a como fazer a instala\u00e7\u00e3o do sistema em uma m\u00e1quina qualquer. \nPara continuar, precisaremos de acesso ao servidor.    Voc\u00ea deve:     Mapear Unidade de Rede para a pasta do sistema  utilizando a letra K. \nAp\u00f3s a conclus\u00e3o do mapeamento, ao acessar o mapeamento (K:) deve encontrar as pastas      Backup    DLL    EXE    NFE           No seu C:\\ crie uma pasta chamada  MentorSoft  dentro dessa pasta deve ficar da seguinte forma:     Backup \u2013 Pasta padr\u00e3o de backup do sistema      DLLs do Backup    EXEs backup      EXE \u2013 Execut\u00e1veis do sistema      MentorSoft.exe    sisKM.ini    Arquivos ini para emiss\u00e3o da nota       V\u00e1 no servidor (K:) em  K:\\exe  copie os arquivos  MentorSoft.exe  e  sisKM.ini  e cole em  C:\\MentorSoft\\exe ; \nLogo em seguida v\u00e1 em  K:\\DLL  copie todos os arquivos e cole em uma das seguintes pastas:     Para Windows 32 Bits (x86):      \u201cC:\\Windows\\System32\u201d      Para Windows 64 bits (x64):      \u201cC:\\Windows\\SysWOW64\u201d       Se o usu\u00e1rio que utilizar\u00e1 m\u00e1quina for respons\u00e1vel de backup, voc\u00ea precisa configurar a mesma para que o fa\u00e7a, v\u00e1 em   K:\\backup , copie todos os arquivos que n\u00e3o contenham a extens\u00e3o  .backup  e cole em  C:\\MentorSoft\\Backup  Okay, seu sistema est\u00e1 instalado e deve funcionar, v\u00e1 na pasta  C:\\MentorSoft\\exe  e crie um atalho do  MentorSoft.exe .",
+            "text": "Nesse passo a passo, estaremos ensinando a como fazer a instala\u00e7\u00e3o do sistema em uma m\u00e1quina qualquer. \nPara continuar, precisaremos de acesso ao servidor.    Voc\u00ea deve:     Mapear Unidade de Rede para a pasta do sistema utilizando a letra K. \nAp\u00f3s a conclus\u00e3o do mapeamento, ao acessar o mapeamento (K:) deve encontrar as pastas      Backup    DLL    EXE           No seu C:\\ crie uma pasta chamada  MentorSoft  , dentro dessa pasta deve ficar da seguinte forma:     Backup \u2013 Pasta padr\u00e3o de backup do sistema \nEXE \u2013 Execut\u00e1veis do sistema      MentorSoft.exe    sisKM.ini \nDLL - Para o sistema funcionar     V\u00e1 no servidor (K:) em  K:\\exe  copie os arquivos  MentorSoft.exe  e  sisKM.ini  e cole em  C:\\MentorSoft\\exe ; \nLogo em seguida v\u00e1 em  K:\\DLL  copie todos os arquivos e cole em  C:\\MentorSoft\\exe  e  C:\\MentorSoft\\dll :    Se o usu\u00e1rio que utilizar\u00e1 m\u00e1quina for respons\u00e1vel de backup, voc\u00ea precisa configurar a mesma para que o fa\u00e7a, v\u00e1 em  K:\\Backup , copie todos os arquivos que n\u00e3o contenham a extens\u00e3o  .backup  e cole em  C:\\MentorSoft\\Backup  Okay, seu sistema est\u00e1 instalado e deve funcionar, v\u00e1 na pasta  C:\\MentorSoft\\exe  e crie um atalho do  MentorSoft.exe .",
             "title": "Como instalar o Sistema MentorSoft."
         },
         {
-            "location": "/instalacao/#configurando-para-emissao-de-nota",
-            "text": "Em Breve",
-            "title": "Configurando para Emiss\u00e3o de Nota"
+            "location": "/comum/forca-vendas/",
+            "text": "For\u00e7a de Vendas\n\u00ab\n\n\nem Breve....\n\u00ab",
+            "title": "For\u00e7a de Vendas"
+        },
+        {
+            "location": "/comum/forca-vendas/#forca-de-vendas",
+            "text": "",
+            "title": "For\u00e7a de Vendas"
+        },
+        {
+            "location": "/comum/forca-vendas/#em-breve",
+            "text": "",
+            "title": "em Breve...."
         }
     ]
 }
