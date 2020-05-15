@@ -140,6 +140,8 @@ pages:
       - 'Setor Industrial': 'modulos/industrial/cadastro/setor-industrial.md'
       - 'Setup': 'modulos/industrial/cadastro/setup.md'
       - 'Unidades Produtivas': 'modulos/industrial/cadastro/unidades-produtiva.md'
+      - 'Tipo de Ocorrência de Produção': 'modulos/industrial/cadastro/tipo-ocorrencia.md'
+      - 'Tipo de Ordem de Serviço': 'modulos/industrial/cadastro/tipo-ordem.md'
     - Movimentos:
       - 'PCP': 'modulos/industrial/movimentos/pcp.md'
   - GRH:
