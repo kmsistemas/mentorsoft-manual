@@ -582,12 +582,12 @@
         },
         {
             "location": "/modulos/industrial/",
-            "text": "M\u00f3dulo Industrial\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nGrupo Industrial\n - Aprenda como cadastrar um Grupo Industrial.  \n\n\nSetor Industrial\n - Aprenda como cadastrar um Setor Industrial.   \n\n\nSetup\n - Aprenda como configurar sua rota produtiva. \n\n\nUnidades Produtivas\n - Aprenda como cadastrar uma unidade produtiva.   \n\n\n\n\n\n\n\n\n\n\nMovimentos\n\n\n\n\nPCP\n - Aprenda como programar um produto no industrial.",
+            "text": "M\u00f3dulo Industrial\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nGrupo Industrial\n - Aprenda como cadastrar um Grupo Industrial.  \n\n\nSetor Industrial\n - Aprenda como cadastrar um Setor Industrial.   \n\n\nSetup\n - Aprenda como configurar sua rota produtiva. \n\n\nUnidades Produtivas\n - Aprenda como cadastrar uma unidade produtiva. \n\n\nTipo de Ocorr\u00eancia\n - Aprenda como cadastrar um tipo de ocorr\u00eancia. \n\n\nTipo de Ordem de Servi\u00e7o\n - Aprenda como cadastrar um tipo de ordem de servi\u00e7o.   \n\n\n\n\n\n\n\n\n\n\nMovimentos\n\n\n\n\nPCP\n - Aprenda como programar um produto no industrial.",
             "title": "Inicio"
         },
         {
             "location": "/modulos/industrial/#modulo-industrial",
-            "text": "Cadastros   Grupo Industrial  - Aprenda como cadastrar um Grupo Industrial.    Setor Industrial  - Aprenda como cadastrar um Setor Industrial.     Setup  - Aprenda como configurar sua rota produtiva.   Unidades Produtivas  - Aprenda como cadastrar uma unidade produtiva.         Movimentos   PCP  - Aprenda como programar um produto no industrial.",
+            "text": "Cadastros   Grupo Industrial  - Aprenda como cadastrar um Grupo Industrial.    Setor Industrial  - Aprenda como cadastrar um Setor Industrial.     Setup  - Aprenda como configurar sua rota produtiva.   Unidades Produtivas  - Aprenda como cadastrar uma unidade produtiva.   Tipo de Ocorr\u00eancia  - Aprenda como cadastrar um tipo de ocorr\u00eancia.   Tipo de Ordem de Servi\u00e7o  - Aprenda como cadastrar um tipo de ordem de servi\u00e7o.         Movimentos   PCP  - Aprenda como programar um produto no industrial.",
             "title": "M\u00f3dulo Industrial"
         },
         {
@@ -649,6 +649,36 @@
             "location": "/modulos/industrial/cadastro/unidades-produtiva/#como-cadastrar-uma-unidade-produtiva",
             "text": "Para se inserir uma unidade produtiva, voc\u00ea deve ir neste caminho:    \u201cINDUSTRIAL \u00bb CADASTROS \u00bb UNIDADES PRODUTIVAS\u201d \n\u201cESTOQUE \u00bb CADASTROS \u00bb UNIDADES PRODUTIVAS\u201d        Clique no   , digite o nome fantasia da unidade, e selecione o fornecedor, a baixo deve selecionar os setores que essa unidade trabalha, segue print:",
             "title": "Como cadastrar uma unidade produtiva!"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/tipo-ocorrencia/",
+            "text": "Tipo Ocorr\u00eancia de Produ\u00e7\u00e3o\n\u00ab\n\n\nInserindo um novo tipo de ocorr\u00eancia de produ\u00e7\u00e3o!\n\u00ab\n\n\nPara se inserir um tipo de ocorr\u00eancia de produ\u00e7\u00e3o, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cINDUSTRIAL \u00bb CADASTROS \u00bb TIPO DE OCORR\u00caNCIA DE PRODU\u00c7\u00c3O\u201d  \n\n\n\n\n \n\n\nNesta tela voc\u00ea deve clicar no \n , colocar a \nDescri\u00e7\u00e3o\n e o \nTipo\n se acresenta ou diminui, segue a baixo!",
+            "title": "Tipo de Ocorr\u00eancia de Produ\u00e7\u00e3o"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/tipo-ocorrencia/#tipo-ocorrencia-de-producao",
+            "text": "",
+            "title": "Tipo Ocorr\u00eancia de Produ\u00e7\u00e3o"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/tipo-ocorrencia/#inserindo-um-novo-tipo-de-ocorrencia-de-producao",
+            "text": "Para se inserir um tipo de ocorr\u00eancia de produ\u00e7\u00e3o, voc\u00ea deve ir neste caminho:    \u201cINDUSTRIAL \u00bb CADASTROS \u00bb TIPO DE OCORR\u00caNCIA DE PRODU\u00c7\u00c3O\u201d        Nesta tela voc\u00ea deve clicar no   , colocar a  Descri\u00e7\u00e3o  e o  Tipo  se acresenta ou diminui, segue a baixo!",
+            "title": "Inserindo um novo tipo de ocorr\u00eancia de produ\u00e7\u00e3o!"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/tipo-ordem/",
+            "text": "Tipo Ordem de Servi\u00e7o\n\u00ab\n\n\nInserindo um novo tipo de ordem de servi\u00e7o!\n\u00ab\n\n\nPara se inserir um tipo de ordem de servi\u00e7o, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cINDUSTRIAL \u00bb CADASTROS \u00bb TIPO DE ORDEM DE SERVI\u00c7O\u201d  \n\n\n\n\n \n\n\nNesta tela voc\u00ea deve clicar no \n , colocar a \nDescri\u00e7\u00e3o do Tipo\n e o \nExige NF de Envio\n (S/N) \nConsidera no Saldo\n (S/N) \nTipo de Pedido\n para gera\u00e7\u00e3o da nota fiscal!",
+            "title": "Tipo de Ordem de Servi\u00e7o"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/tipo-ordem/#tipo-ordem-de-servico",
+            "text": "",
+            "title": "Tipo Ordem de Servi\u00e7o"
+        },
+        {
+            "location": "/modulos/industrial/cadastro/tipo-ordem/#inserindo-um-novo-tipo-de-ordem-de-servico",
+            "text": "Para se inserir um tipo de ordem de servi\u00e7o, voc\u00ea deve ir neste caminho:    \u201cINDUSTRIAL \u00bb CADASTROS \u00bb TIPO DE ORDEM DE SERVI\u00c7O\u201d        Nesta tela voc\u00ea deve clicar no   , colocar a  Descri\u00e7\u00e3o do Tipo  e o  Exige NF de Envio  (S/N)  Considera no Saldo  (S/N)  Tipo de Pedido  para gera\u00e7\u00e3o da nota fiscal!",
+            "title": "Inserindo um novo tipo de ordem de servi\u00e7o!"
         },
         {
             "location": "/modulos/industrial/movimentos/pcp/",
