@@ -1072,18 +1072,23 @@
         },
         {
             "location": "/modulos/cte/",
-            "text": "M\u00f3dulo CT-e\n\u00ab\n\n\n\n\nO Modulo CT-e, \u00e9 voltado para gerar um Conhecimento de Transporte Eletr\u00f4nico! \n\n\nCadastros\n\n\n\n\nTipos de Ve\u00edculo\n - Aprenda a cadastrar um tipo de veiculo.   \n\n\nMarcas de Ve\u00edculo\n - Aprenda a cadastrar uma marca de veiculo.      \n\n\nModelos de Ve\u00edculo\n - Aprenda a cadastrar um modelo de veiculo. \n\n\n\n\nMovimentos\n\n\n\n\nControle de CT-e\n - Aprenda a lan\u00e7ar um CT-e.",
-            "title": "CTE"
+            "text": "M\u00f3dulo CT-e\n\u00ab\n\n\nCT-e, \u00e9 voltado para gerar um Conhecimento de Transporte Eletr\u00f4nico!\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nTipos de Ve\u00edculo\n - Aprenda a cadastrar um tipo de veiculo.   \n\n\nMarcas de Ve\u00edculo\n - Aprenda a cadastrar uma marca de veiculo.      \n\n\nModelos de Ve\u00edculo\n - Aprenda a cadastrar um modelo de veiculo. \n\n\n\n\nMovimentos\n\n\n\n\nControle de CT-e\n - Aprenda a lan\u00e7ar um CT-e.",
+            "title": "Inicio"
         },
         {
             "location": "/modulos/cte/#modulo-ct-e",
-            "text": "O Modulo CT-e, \u00e9 voltado para gerar um Conhecimento de Transporte Eletr\u00f4nico!   Cadastros   Tipos de Ve\u00edculo  - Aprenda a cadastrar um tipo de veiculo.     Marcas de Ve\u00edculo  - Aprenda a cadastrar uma marca de veiculo.        Modelos de Ve\u00edculo  - Aprenda a cadastrar um modelo de veiculo.    Movimentos   Controle de CT-e  - Aprenda a lan\u00e7ar um CT-e.",
+            "text": "",
             "title": "M\u00f3dulo CT-e"
         },
         {
+            "location": "/modulos/cte/#ct-e-e-voltado-para-gerar-um-conhecimento-de-transporte-eletronico",
+            "text": "Cadastros   Tipos de Ve\u00edculo  - Aprenda a cadastrar um tipo de veiculo.     Marcas de Ve\u00edculo  - Aprenda a cadastrar uma marca de veiculo.        Modelos de Ve\u00edculo  - Aprenda a cadastrar um modelo de veiculo.    Movimentos   Controle de CT-e  - Aprenda a lan\u00e7ar um CT-e.",
+            "title": "CT-e, \u00e9 voltado para gerar um Conhecimento de Transporte Eletr\u00f4nico!"
+        },
+        {
             "location": "/modulos/cte/cadastro/tipos-de-veiculos/",
-            "text": "Tipos de Ve\u00edculo\n\u00ab\n\n\nCadastrando Tipo de Ve\u00edculo\n\u00ab\n\n\nPara se inserir um novo Tipo de Ve\u00edculo, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cTRANSPORTES \u00bb CADASTROS \u00bb CADASTRO DE TIPOS DE VE\u00cdCULOS\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo: \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o \n e depois escrever a descri\u00e7\u00e3o\n\n\n\nDepois de escrever a descri\u00e7\u00e3o, pode ir no bot\u00e3o \n para salvar, ou no bot\u00e3o \n, caso desista de fazer o cadastro!",
-            "title": "Cadastro de Tipos de Ve\u00edculo"
+            "text": "Tipos de Ve\u00edculo\n\u00ab\n\n\nCadastrando Tipo de Ve\u00edculo\n\u00ab\n\n\nPara se inserir um novo Tipo de Ve\u00edculo, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cTRANSPORTES \u00bb CADASTROS \u00bb CADASTRO DE TIPOS DE VE\u00cdCULOS\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo: \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no \n e depois escrever a descri\u00e7\u00e3o\n\n\n\nDepois de escrever a descri\u00e7\u00e3o, pode ir no \n para salvar, ou no \n, caso desista de fazer o cadastro!",
+            "title": "Tipos de Ve\u00edculo"
         },
         {
             "location": "/modulos/cte/cadastro/tipos-de-veiculos/#tipos-de-veiculo",
@@ -1092,13 +1097,13 @@
         },
         {
             "location": "/modulos/cte/cadastro/tipos-de-veiculos/#cadastrando-tipo-de-veiculo",
-            "text": "Para se inserir um novo Tipo de Ve\u00edculo, voc\u00ea deve ir neste caminho:    \u201cTRANSPORTES \u00bb CADASTROS \u00bb CADASTRO DE TIPOS DE VE\u00cdCULOS\u201d      Nesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo:     Na isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o   e depois escrever a descri\u00e7\u00e3o  Depois de escrever a descri\u00e7\u00e3o, pode ir no bot\u00e3o   para salvar, ou no bot\u00e3o  , caso desista de fazer o cadastro!",
+            "text": "Para se inserir um novo Tipo de Ve\u00edculo, voc\u00ea deve ir neste caminho:    \u201cTRANSPORTES \u00bb CADASTROS \u00bb CADASTRO DE TIPOS DE VE\u00cdCULOS\u201d      Nesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo:     Na isen\u00e7\u00e3o de um novo, devera clicar no   e depois escrever a descri\u00e7\u00e3o  Depois de escrever a descri\u00e7\u00e3o, pode ir no   para salvar, ou no  , caso desista de fazer o cadastro!",
             "title": "Cadastrando Tipo de Ve\u00edculo"
         },
         {
             "location": "/modulos/cte/cadastro/marcas-de-veiculos/",
             "text": "Marcas de Ve\u00edculo\n\u00ab\n\n\nCadastrando Marca de Ve\u00edculo\n\u00ab\n\n\nPara se inserir uma nova Marca de Ve\u00edculo, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cTRANSPORTES \u00bb CADASTROS \u00bb CADASTRO DE MARCAS DE VE\u00cdCULOS\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo: \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o \n e depois escrever a descri\u00e7\u00e3o\n\n\n\nDepois de escrever a descri\u00e7\u00e3o, pode ir no bot\u00e3o \n para salvar, ou no bot\u00e3o \n, caso desista de fazer o cadastro!",
-            "title": "Cadastro de Marcas de Ve\u00edculo"
+            "title": "Marcas de Ve\u00edculo"
         },
         {
             "location": "/modulos/cte/cadastro/marcas-de-veiculos/#marcas-de-veiculo",
@@ -1112,8 +1117,8 @@
         },
         {
             "location": "/modulos/cte/cadastro/modelos-de-veiculos/",
-            "text": "Modelos de Ve\u00edculo\n\u00ab\n\n\nCadastrando Modelos de Ve\u00edculo\n\u00ab\n\n\nPara se inserir um novo Modelo de Ve\u00edculo, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cTRANSPORTES \u00bb CADASTROS \u00bb CADASTRO DE MODELOS DE VE\u00cdCULOS\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo: \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o \n e depois escrever a descri\u00e7\u00e3o\n\n\n\nDepois de escrever a descri\u00e7\u00e3o, seleciona a \nMarca\n e \nTipo\n,\nse quiser fazer o controle de rod\u00edzio de pneus, s\u00f3 selecionar quantos eixos tem o veiculo, feito isso pode ir no bot\u00e3o \n para salvar, ou no bot\u00e3o \n, caso desista de fazer o cadastro!",
-            "title": "Cadastro de Modelos de Ve\u00edculo"
+            "text": "Modelos de Ve\u00edculo\n\u00ab\n\n\nCadastrando Modelos de Ve\u00edculo\n\u00ab\n\n\nPara se inserir um novo Modelo de Ve\u00edculo, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cTRANSPORTES \u00bb CADASTROS \u00bb CADASTRO DE MODELOS DE VE\u00cdCULOS\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo: \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o \n e depois escrever a descri\u00e7\u00e3o\n\n\n\nDepois de escrever a descri\u00e7\u00e3o, seleciona a \nMarca\n e \nTipo\n, feito isso pode ir no \n para salvar, ou no  \n, caso desista de fazer o cadastro!\n\n\n\n\n\n\nCaso queira fazer o controle de rod\u00edzio de pneus, precisa do \nModulo Transporte",
+            "title": "Modelos de Ve\u00edculo"
         },
         {
             "location": "/modulos/cte/cadastro/modelos-de-veiculos/#modelos-de-veiculo",
@@ -1122,13 +1127,13 @@
         },
         {
             "location": "/modulos/cte/cadastro/modelos-de-veiculos/#cadastrando-modelos-de-veiculo",
-            "text": "Para se inserir um novo Modelo de Ve\u00edculo, voc\u00ea deve ir neste caminho:    \u201cTRANSPORTES \u00bb CADASTROS \u00bb CADASTRO DE MODELOS DE VE\u00cdCULOS\u201d      Nesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo:     Na isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o   e depois escrever a descri\u00e7\u00e3o  Depois de escrever a descri\u00e7\u00e3o, seleciona a  Marca  e  Tipo ,\nse quiser fazer o controle de rod\u00edzio de pneus, s\u00f3 selecionar quantos eixos tem o veiculo, feito isso pode ir no bot\u00e3o   para salvar, ou no bot\u00e3o  , caso desista de fazer o cadastro!",
+            "text": "Para se inserir um novo Modelo de Ve\u00edculo, voc\u00ea deve ir neste caminho:    \u201cTRANSPORTES \u00bb CADASTROS \u00bb CADASTRO DE MODELOS DE VE\u00cdCULOS\u201d      Nesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo:     Na isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o   e depois escrever a descri\u00e7\u00e3o  Depois de escrever a descri\u00e7\u00e3o, seleciona a  Marca  e  Tipo , feito isso pode ir no   para salvar, ou no   , caso desista de fazer o cadastro!    Caso queira fazer o controle de rod\u00edzio de pneus, precisa do  Modulo Transporte",
             "title": "Cadastrando Modelos de Ve\u00edculo"
         },
         {
             "location": "/modulos/cte/movimentos/controle-cte/",
-            "text": "Controle de CTE\n\u00ab\n\n\nControle de Conhecimento de Transportes Eletr\u00f4nico!\n\u00ab\n\n\nPara se inserir um novo Controle de CT-e, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cTELA INICIAL \u00bb CONTROLE DE CT-E\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode Pesquisar, Visualizar, Imprimir os CT-e existentes ou incluir um novo: \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o \n\n\n\n\nVerifique que nesta tela tem as abas: \n\n\n\n\n\n\n\u201cAba Emitente\u201d\n                       \n\nvai ter que preencher as informa\u00e7\u00f5es da Empresa Emitente\n\n\n\n\n\u201cAba Remetente\u201d\n                  \n\nvai apresentar as informa\u00e7\u00f5es do Remetente, para pesquisar um cliente cadastrado no sistema vai clicar na \n\n\n \n\n\n\u201cAba Expedidor\u201d\n                  \n\nvai ter que preencher as informa\u00e7\u00f5es da Empresa de Redespacho, se caso tiver!\n\n\n\n\n\u201cAba Recebedor\u201d\n                      \n\nvai ter que preencher as informa\u00e7\u00f5es da Empresa de Recebedor, se caso tiver!\n\n\n\n\n\u201cAba Destinat\u00e1rio\u201d\n                       \n\nvai ter que preencher as informa\u00e7\u00f5es da Empresa de Destino\n   (Obrigat\u00f3rio)   \n!\n\n\n\n\n\u201cAba Documentos\u201d \n            \n\nvai ter que carregar o xml das NFe que vai ser emitida com o CT-e! \n\n\n\n\n\n\u201cAba Ct-e\u201d \n              \n\ntem que ser preenchida o \nCFOP\n, e Presta\u00e7\u00e3o de Servi\u00e7o!\n\n\n\n\n\n\u201cAba Carga\u201d \n             \n\nvai carregar as informa\u00e7\u00f5es juntas com o xmls!\n\n\n\n\n\u201cAba Detalhes da Carga\u201d \n             \n\ncaso veja necessidade de gerar receber, para aparecer no MentorSoft, segue print:\n\n\n\n\n\n\u201cAba Valores\u201d \n           \n\ntem que preencher Total da Presta\u00e7\u00e3o do Servi\u00e7o, Valor do Receber e tributa\u00e7\u00e3o, como esta na imagem:\n\n\n\n\n\n\u201cAba Dados Complementares\u201d \n\ncaso veja necessidade de informar a previs\u00e3o de entrega! \n\n\n\n\n\u201cAba Observa\u00e7\u00f5es\u201d \n\ncaso veja necessidade de informar alguma observa\u00e7\u00e3o!            \n\n\n\n\n\u201cAba Rodovi\u00e1rio \n\nser\u00e1 obrigat\u00f3rio informar o \nRNTRC\n \n\n\n\n\nFeito isso pode clicar no bot\u00e3o de A\u00e7\u00f5es \n\n\nPronto seu CT-e foi emitido com sucesso!",
-            "title": "Controle de CT e"
+            "text": "Controle de CTE\n\u00ab\n\n\nControle de Conhecimento de Transportes Eletr\u00f4nico!\n\u00ab\n\n\nPara se inserir um novo Controle de CT-e, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cTELA INICIAL \u00bb CONTROLE DE CT-E\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode Pesquisar, Visualizar, Imprimir os CT-e existentes ou incluir um novo: \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o \n\n\n\n\nVerifique que nesta tela tem as abas: \n\n\n\n\n\n\n\n\nEmitente\n                        \n\nvai ter que preencher as informa\u00e7\u00f5es da Empresa Emitente\n\n\n\n\n\n\n\n\nRemetente\n               \n\nvai apresentar as informa\u00e7\u00f5es do Remetente, para pesquisar um cliente cadastrado no sistema vai clicar na \n\n\n \n\n\n\n\n\n\n\n\nExpedidor\n               \n\nvai ter que preencher as informa\u00e7\u00f5es da Empresa de Redespacho, se caso tiver!\n\n\n\n\n\n\n\n\nRecebedor\n                   \n\nvai ter que preencher as informa\u00e7\u00f5es da Empresa de Recebedor, se caso tiver!\n\n\n\n\n\n\n\n\nDestinat\u00e1rio\n                    \n\nvai ter que preencher as informa\u00e7\u00f5es da Empresa de Destino\n   (Obrigat\u00f3rio)   \n!\n\n\n\n\n\n\n\n\nDocumentos\n              \n\nvai ter que carregar o xml das NFe que vai ser emitida com o CT-e! \n\n\n\n\n\n\n\n\n\nCT-e\n            \n\ntem que ser preenchida o \nCFOP\n, e Presta\u00e7\u00e3o de Servi\u00e7o!\n\n\n\n\n\n\n\n\n\nCarga\n           \n\nvai carregar as informa\u00e7\u00f5es juntas com o xmls!\n\n\n\n\n\n\n\n\nDetalhes da Carga\n           \n\ncaso veja necessidade de gerar receber, para aparecer no MentorSoft, segue print:\n\n\n\n\n\n\n\n\n\nValores\n             \n\ntem que preencher Total da Presta\u00e7\u00e3o do Servi\u00e7o, Valor do Receber e tributa\u00e7\u00e3o, como esta na imagem:\n\n\n\n\n\n\n\n\n\nDados Complementares\n\ncaso veja necessidade de informar a previs\u00e3o de entrega! \n\n\n\n\n\n\n\n\nObserva\u00e7\u00f5es\n\ncaso veja necessidade de informar alguma observa\u00e7\u00e3o!            \n\n\n\n\n\n\n\n\nRodovi\u00e1rio\n\nser\u00e1 obrigat\u00f3rio informar o \nRNTRC\n \n\n\n\n\n\n\nFeito isso pode clicar no bot\u00e3o de A\u00e7\u00f5es \n\n\nPronto seu CT-e foi emitido com sucesso!",
+            "title": "Controle de CTe"
         },
         {
             "location": "/modulos/cte/movimentos/controle-cte/#controle-de-cte",
@@ -1137,8 +1142,83 @@
         },
         {
             "location": "/modulos/cte/movimentos/controle-cte/#controle-de-conhecimento-de-transportes-eletronico",
-            "text": "Para se inserir um novo Controle de CT-e, voc\u00ea deve ir neste caminho:    \u201cTELA INICIAL \u00bb CONTROLE DE CT-E\u201d      Nesta tela voc\u00ea pode Pesquisar, Visualizar, Imprimir os CT-e existentes ou incluir um novo:     Na isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o    Verifique que nesta tela tem as abas:     \u201cAba Emitente\u201d                         \nvai ter que preencher as informa\u00e7\u00f5es da Empresa Emitente   \u201cAba Remetente\u201d                    \nvai apresentar as informa\u00e7\u00f5es do Remetente, para pesquisar um cliente cadastrado no sistema vai clicar na      \u201cAba Expedidor\u201d                    \nvai ter que preencher as informa\u00e7\u00f5es da Empresa de Redespacho, se caso tiver!   \u201cAba Recebedor\u201d                        \nvai ter que preencher as informa\u00e7\u00f5es da Empresa de Recebedor, se caso tiver!   \u201cAba Destinat\u00e1rio\u201d                         \nvai ter que preencher as informa\u00e7\u00f5es da Empresa de Destino    (Obrigat\u00f3rio)    !   \u201cAba Documentos\u201d               \nvai ter que carregar o xml das NFe que vai ser emitida com o CT-e!    \u201cAba Ct-e\u201d                 \ntem que ser preenchida o  CFOP , e Presta\u00e7\u00e3o de Servi\u00e7o!   \u201cAba Carga\u201d                \nvai carregar as informa\u00e7\u00f5es juntas com o xmls!   \u201cAba Detalhes da Carga\u201d                \ncaso veja necessidade de gerar receber, para aparecer no MentorSoft, segue print:   \u201cAba Valores\u201d              \ntem que preencher Total da Presta\u00e7\u00e3o do Servi\u00e7o, Valor do Receber e tributa\u00e7\u00e3o, como esta na imagem:   \u201cAba Dados Complementares\u201d  \ncaso veja necessidade de informar a previs\u00e3o de entrega!    \u201cAba Observa\u00e7\u00f5es\u201d  \ncaso veja necessidade de informar alguma observa\u00e7\u00e3o!               \u201cAba Rodovi\u00e1rio  \nser\u00e1 obrigat\u00f3rio informar o  RNTRC     Feito isso pode clicar no bot\u00e3o de A\u00e7\u00f5es   Pronto seu CT-e foi emitido com sucesso!",
+            "text": "Para se inserir um novo Controle de CT-e, voc\u00ea deve ir neste caminho:    \u201cTELA INICIAL \u00bb CONTROLE DE CT-E\u201d      Nesta tela voc\u00ea pode Pesquisar, Visualizar, Imprimir os CT-e existentes ou incluir um novo:     Na isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o    Verifique que nesta tela tem as abas:      Emitente                          \nvai ter que preencher as informa\u00e7\u00f5es da Empresa Emitente     Remetente                 \nvai apresentar as informa\u00e7\u00f5es do Remetente, para pesquisar um cliente cadastrado no sistema vai clicar na         Expedidor                 \nvai ter que preencher as informa\u00e7\u00f5es da Empresa de Redespacho, se caso tiver!     Recebedor                     \nvai ter que preencher as informa\u00e7\u00f5es da Empresa de Recebedor, se caso tiver!     Destinat\u00e1rio                      \nvai ter que preencher as informa\u00e7\u00f5es da Empresa de Destino    (Obrigat\u00f3rio)    !     Documentos                \nvai ter que carregar o xml das NFe que vai ser emitida com o CT-e!      CT-e              \ntem que ser preenchida o  CFOP , e Presta\u00e7\u00e3o de Servi\u00e7o!     Carga             \nvai carregar as informa\u00e7\u00f5es juntas com o xmls!     Detalhes da Carga             \ncaso veja necessidade de gerar receber, para aparecer no MentorSoft, segue print:     Valores               \ntem que preencher Total da Presta\u00e7\u00e3o do Servi\u00e7o, Valor do Receber e tributa\u00e7\u00e3o, como esta na imagem:     Dados Complementares \ncaso veja necessidade de informar a previs\u00e3o de entrega!      Observa\u00e7\u00f5es \ncaso veja necessidade de informar alguma observa\u00e7\u00e3o!                 Rodovi\u00e1rio \nser\u00e1 obrigat\u00f3rio informar o  RNTRC      Feito isso pode clicar no bot\u00e3o de A\u00e7\u00f5es   Pronto seu CT-e foi emitido com sucesso!",
             "title": "Controle de Conhecimento de Transportes Eletr\u00f4nico!"
+        },
+        {
+            "location": "/modulos/mdfe/",
+            "text": "M\u00f3dulo MDF-e\n\u00ab\n\n\nMDF-e, \u00e9 voltado para gerar um Manifesto de Documento Fiscal Eletr\u00f4nico!\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nTipos de Ve\u00edculo\n - Aprenda a cadastrar um tipo de veiculo.      \n\n\nMarcas de Ve\u00edculo\n - Aprenda a cadastrar uma marca de veiculo.     \n\n\nModelos de Ve\u00edculo\n - Aprenda a cadastrar um modelo de veiculo. \n\n\n\n\nMovimentos\n\n\n\n\nControle de MDF-e\n - Aprenda a lan\u00e7ar um MDF-e.",
+            "title": "Inicio"
+        },
+        {
+            "location": "/modulos/mdfe/#modulo-mdf-e",
+            "text": "",
+            "title": "M\u00f3dulo MDF-e"
+        },
+        {
+            "location": "/modulos/mdfe/#mdf-e-e-voltado-para-gerar-um-manifesto-de-documento-fiscal-eletronico",
+            "text": "Cadastros   Tipos de Ve\u00edculo  - Aprenda a cadastrar um tipo de veiculo.        Marcas de Ve\u00edculo  - Aprenda a cadastrar uma marca de veiculo.       Modelos de Ve\u00edculo  - Aprenda a cadastrar um modelo de veiculo.    Movimentos   Controle de MDF-e  - Aprenda a lan\u00e7ar um MDF-e.",
+            "title": "MDF-e, \u00e9 voltado para gerar um Manifesto de Documento Fiscal Eletr\u00f4nico!"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/tipos-de-veiculos/",
+            "text": "Tipos de Ve\u00edculo\n\u00ab\n\n\nCadastrando Tipo de Ve\u00edculo\n\u00ab\n\n\nPara inserir um novo Tipo de Ve\u00edculo, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE TIPOS DE VE\u00cdCULOS\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo: \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no \n e depois escrever a descri\u00e7\u00e3o\n\n\n\nDepois de escrever a descri\u00e7\u00e3o, pode ir no \n para salvar, ou no  \n, caso desista de fazer o cadastro!",
+            "title": "Tipos de Ve\u00edculo"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/tipos-de-veiculos/#tipos-de-veiculo",
+            "text": "",
+            "title": "Tipos de Ve\u00edculo"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/tipos-de-veiculos/#cadastrando-tipo-de-veiculo",
+            "text": "Para inserir um novo Tipo de Ve\u00edculo, voc\u00ea deve ir neste caminho:    \u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE TIPOS DE VE\u00cdCULOS\u201d      Nesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo:     Na isen\u00e7\u00e3o de um novo, devera clicar no   e depois escrever a descri\u00e7\u00e3o  Depois de escrever a descri\u00e7\u00e3o, pode ir no   para salvar, ou no   , caso desista de fazer o cadastro!",
+            "title": "Cadastrando Tipo de Ve\u00edculo"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/marcas-de-veiculos/",
+            "text": "Marcas de Ve\u00edculo\n\u00ab\n\n\nCadastrando Marca de Ve\u00edculo\n\u00ab\n\n\nPara inserir uma nova Marca de Ve\u00edculo, voc\u00ea deve ir neste caminho:\n\n\n\n\n\u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE MARCAS DE VE\u00cdCULOS\u201d\n\n\n\n\n\n\nNesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo:\n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no \n e depois escrever a descri\u00e7\u00e3o\n\n\n\nDepois de escrever a descri\u00e7\u00e3o, pode ir no \n para salvar, ou no \n, caso desista de fazer o cadastro!",
+            "title": "Marcas de Ve\u00edculo"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/marcas-de-veiculos/#marcas-de-veiculo",
+            "text": "",
+            "title": "Marcas de Ve\u00edculo"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/marcas-de-veiculos/#cadastrando-marca-de-veiculo",
+            "text": "Para inserir uma nova Marca de Ve\u00edculo, voc\u00ea deve ir neste caminho:   \u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE MARCAS DE VE\u00cdCULOS\u201d    Nesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo:    Na isen\u00e7\u00e3o de um novo, devera clicar no   e depois escrever a descri\u00e7\u00e3o  Depois de escrever a descri\u00e7\u00e3o, pode ir no   para salvar, ou no  , caso desista de fazer o cadastro!",
+            "title": "Cadastrando Marca de Ve\u00edculo"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/modelos-de-veiculos/",
+            "text": "Modelos de Ve\u00edculo\n\u00ab\n\n\nCadastrando Modelos de Ve\u00edculo\n\u00ab\n\n\nPara inserir um novo Modelo de Ve\u00edculo, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE MODELOS DE VE\u00cdCULOS\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo: \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o \n e depois escrever a descri\u00e7\u00e3o\n\n\n\nDepois de escrever a descri\u00e7\u00e3o, seleciona a \nMarca\n e \nTipo\n, feito isso pode ir no \n para salvar, ou no  \n, caso desista de fazer o cadastro!\n\n\n\n\n\n\nCaso queira fazer o controle de rod\u00edzio de pneus, precisa do \nModulo Transporte",
+            "title": "Modelos de Ve\u00edculo"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/modelos-de-veiculos/#modelos-de-veiculo",
+            "text": "",
+            "title": "Modelos de Ve\u00edculo"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/modelos-de-veiculos/#cadastrando-modelos-de-veiculo",
+            "text": "Para inserir um novo Modelo de Ve\u00edculo, voc\u00ea deve ir neste caminho:    \u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE MODELOS DE VE\u00cdCULOS\u201d      Nesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo:     Na isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o   e depois escrever a descri\u00e7\u00e3o  Depois de escrever a descri\u00e7\u00e3o, seleciona a  Marca  e  Tipo , feito isso pode ir no   para salvar, ou no   , caso desista de fazer o cadastro!    Caso queira fazer o controle de rod\u00edzio de pneus, precisa do  Modulo Transporte",
+            "title": "Cadastrando Modelos de Ve\u00edculo"
+        },
+        {
+            "location": "/modulos/mdfe/movimentos/controle-mdfe/",
+            "text": "Controle de MDFe\n\u00ab\n\n\nControle de Manisfeto de Documentos Fiscais Eletr\u00f4nico!\n\u00ab\n\n\nPara se inserir um novo Controle de MDF-e, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cTELA INICIAL \u00bb CONTROLE DE MDF-E\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode Pesquisar: \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o \n\n\n\n\nVerifique que nesta tela tem as abas: \n\n\n\n\n\n\n\n\nEmitente\n                        \n\nPreencher as informa\u00e7\u00f5es da Empresa Emitente do MDFe.\n\n\n\n\n\n\n\n\nDocumentos\n              \n\nvai ter que carregar o xml das CT-e ou NFe que vai ser emitida com o MDF-e! \n\n\n\n\n\n\n\n\n\nMDF-e\n           \n\ntem que ser preenchida \nUF Carregamento\n, \nUF Descarregamento\n, e \nPercuso do MDFe\n! \n\n\nCaso tenha seguro da carga, ser\u00e1 nesta tela o preenchimento!\n\n\n\n\n\n\n\n\n\nValores\n             \n\nVai esta preenchido as informa\u00e7\u00f5es conforme carregado os xmls!\n\n\n\n\n\n\n\n\nRodovi\u00e1rio\n\nser\u00e1 obrigat\u00f3rio informar o \nRNTRC\n , \nDados do Ve\u00edculo com a Tra\u00e7\u00e3o\n, \nDados do Propriet\u00e1rio do Ve\u00edculo\n e \nCondutor do Ve\u00edculo\n\n\n\n\n\n\n\n\n\n\nFeito isso pode clicar no bot\u00e3o de A\u00e7\u00f5es \n\n\nPronto seu MDF-e foi emitido com sucesso!",
+            "title": "Controle de MDFe"
+        },
+        {
+            "location": "/modulos/mdfe/movimentos/controle-mdfe/#controle-de-mdfe",
+            "text": "",
+            "title": "Controle de MDFe"
+        },
+        {
+            "location": "/modulos/mdfe/movimentos/controle-mdfe/#controle-de-manisfeto-de-documentos-fiscais-eletronico",
+            "text": "Para se inserir um novo Controle de MDF-e, voc\u00ea deve ir neste caminho:    \u201cTELA INICIAL \u00bb CONTROLE DE MDF-E\u201d      Nesta tela voc\u00ea pode Pesquisar:     Na isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o    Verifique que nesta tela tem as abas:      Emitente                          \nPreencher as informa\u00e7\u00f5es da Empresa Emitente do MDFe.     Documentos                \nvai ter que carregar o xml das CT-e ou NFe que vai ser emitida com o MDF-e!      MDF-e             \ntem que ser preenchida  UF Carregamento ,  UF Descarregamento , e  Percuso do MDFe !  \nCaso tenha seguro da carga, ser\u00e1 nesta tela o preenchimento!     Valores               \nVai esta preenchido as informa\u00e7\u00f5es conforme carregado os xmls!     Rodovi\u00e1rio \nser\u00e1 obrigat\u00f3rio informar o  RNTRC  ,  Dados do Ve\u00edculo com a Tra\u00e7\u00e3o ,  Dados do Propriet\u00e1rio do Ve\u00edculo  e  Condutor do Ve\u00edculo      Feito isso pode clicar no bot\u00e3o de A\u00e7\u00f5es   Pronto seu MDF-e foi emitido com sucesso!",
+            "title": "Controle de Manisfeto de Documentos Fiscais Eletr\u00f4nico!"
         },
         {
             "location": "/instalacao/",
