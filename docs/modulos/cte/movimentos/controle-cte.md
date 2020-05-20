@@ -13,50 +13,77 @@ Na isenção de um novo, devera clicar no botão ![4](/img/cte/4.png)
 
 Verifique que nesta tela tem as abas: 	
 ![7](/img/cte/movimentos/7.png)
+
 ---
- **“Aba Emitente”**							
+
+> **Emitente**							
 vai ter que preencher as informações da Empresa Emitente
+
 ---
- **“Aba Remetente”**					
+
+> **Remetente**					
 vai apresentar as informações do Remetente, para pesquisar um cliente cadastrado no sistema vai clicar na ![9](/img/cte/movimentos/9.png)
 ![8](/img/cte/movimentos/8.png) 
 
- **“Aba Expedidor”**					
+---
+
+> **Expedidor**					
 vai ter que preencher as informações da Empresa de Redespacho, se caso tiver!
+
 ---
- **“Aba Recebedor”**						
+
+> **Recebedor**						
 vai ter que preencher as informações da Empresa de Recebedor, se caso tiver!
+
 ---
- **“Aba Destinatário”** 						
+
+> **Destinatário** 						
 vai ter que preencher as informações da Empresa de Destino**   (Obrigatório)   **!
+
 ---
- **“Aba Documentos” **				
+
+> **Documentos**				
 vai ter que carregar o xml das NFe que vai ser emitida com o CT-e! 
 ![10](/img/cte/movimentos/10.png)
+
 ---
- **“Aba Ct-e” **				
+
+> **CT-e**				
 tem que ser preenchida o **CFOP**, e Prestação de Serviço!
 ![11](/img/cte/movimentos/11.png)
+
 ---
- **“Aba Carga” **				
+
+> **Carga**				
 vai carregar as informações juntas com o xmls!
+
 --- 
- **“Aba Detalhes da Carga” **				
+
+> **Detalhes da Carga**				
 caso veja necessidade de gerar receber, para aparecer no MentorSoft, segue print:
 ![12](/img/cte/movimentos/12.png)
+
 --- 
- **“Aba Valores” **				
+
+> **Valores**				
 tem que preencher Total da Prestação do Serviço, Valor do Receber e tributação, como esta na imagem:
 ![13](/img/cte/movimentos/13.png)
+
 --- 
- **“Aba Dados Complementares” **
+
+> **Dados Complementares**
 caso veja necessidade de informar a previsão de entrega! 
+
 ---
- **“Aba Observações” **
+
+> **Observações**
 caso veja necessidade de informar alguma observação! 			
+
 ---
- **“Aba Rodoviário **
+
+> **Rodoviário**
 será obrigatório informar o **RNTRC** 
+
 ---
 
 Feito isso pode clicar no botão de Ações ![14](/img/cte/movimentos/14.png)

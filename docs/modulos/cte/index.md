@@ -1,6 +1,6 @@
 # Módulo CT-e
 
-> O Modulo CT-e, é voltado para gerar um Conhecimento de Transporte Eletrônico! 
+## CT-e, é voltado para gerar um Conhecimento de Transporte Eletrônico! 
 
 > Cadastros
 >> [Tipos de Veículo](/modulos/cte/cadastro/tipos-de-veiculos/#cadastrando-tipos-de-veiculos) - Aprenda a cadastrar um tipo de veiculo.		

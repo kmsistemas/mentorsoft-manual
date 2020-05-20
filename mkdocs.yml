@@ -181,14 +181,22 @@ pages:
     - Movimentos:
       - 'Movimento Financeiro': 'modulos/tesouraria/movimentos/movimento-financeiro.md'
       - 'Transferência entre Contas Financeiras': 'modulos/tesouraria/movimentos/transferencia-entre-contas-financeiras.md'
-  - Transporte: 
-    - 'CTE': 'modulos/cte/index.md'
+  - CTe: 
+    - 'Inicio': 'modulos/cte/index.md'
     - Cadastros:
-        - 'Cadastro de Tipos de Veículo': 'modulos/cte/cadastro/tipos-de-veiculos.md'
-        - 'Cadastro de Marcas de Veículo': 'modulos/cte/cadastro/marcas-de-veiculos.md'
-        - 'Cadastro de Modelos de Veículo': 'modulos/cte/cadastro/modelos-de-veiculos.md'
+        - 'Tipos de Veículo': 'modulos/cte/cadastro/tipos-de-veiculos.md'
+        - 'Marcas de Veículo': 'modulos/cte/cadastro/marcas-de-veiculos.md'
+        - 'Modelos de Veículo': 'modulos/cte/cadastro/modelos-de-veiculos.md'
     - Movimentos:
-        - 'Controle de CT e': 'modulos/cte/movimentos/controle-cte.md'
+        - 'Controle de CTe': 'modulos/cte/movimentos/controle-cte.md'
+  - MDFe: 
+    - 'Inicio': 'modulos/mdfe/index.md'
+    - Cadastros:
+        - 'Tipos de Veículo': 'modulos/mdfe/cadastro/tipos-de-veiculos.md'
+        - 'Marcas de Veículo': 'modulos/mdfe/cadastro/marcas-de-veiculos.md'
+        - 'Modelos de Veículo': 'modulos/mdfe/cadastro/modelos-de-veiculos.md'
+    - Movimentos:
+        - 'Controle de MDFe': 'modulos/mdfe/movimentos/controle-mdfe.md'
   - Suporte:
     - 'Instalacao': 'instalacao.md'
     - 'Força de Vendas': 'comum/forca-vendas.md'
