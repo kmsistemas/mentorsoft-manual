@@ -1237,7 +1237,7 @@
         },
         {
             "location": "/comum/forca-vendas/",
-            "text": "For\u00e7a de Vendas\n\u00ab\n\n\nem Breve....\n\u00ab",
+            "text": "For\u00e7a de Vendas\n\u00ab\n\n\nVideo do treinamento\n\u00ab",
             "title": "For\u00e7a de Vendas"
         },
         {
@@ -1246,9 +1246,9 @@
             "title": "For\u00e7a de Vendas"
         },
         {
-            "location": "/comum/forca-vendas/#em-breve",
+            "location": "/comum/forca-vendas/#video-do-treinamento",
             "text": "",
-            "title": "em Breve...."
+            "title": "Video do treinamento"
         }
     ]
 }
