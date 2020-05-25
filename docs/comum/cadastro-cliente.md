@@ -76,5 +76,3 @@ Altera as informações em destaque conforme o quadro abaixo:
 ![4](/img/cadastro-cliente/confgrade/4.png)  
 
 Feito isso, quando for fazer o faturamento para esse cliente, vai sair o produto separado por grade, item por item.
-
-
