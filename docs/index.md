@@ -19,7 +19,7 @@ Para isso estamos aprimorando ainda mais este manual, para melhor comodidade do 
 
 ---
 ## Como instalar o Sistema 
-> [![Instalação](/img/modulos/instala.png)](instalacao.md)
+> [![Instalação](/img/modulos/instala.png)](modulos/suporte/instalacao/instalacao.md)
 
 ## Módulos Disponíveis
 

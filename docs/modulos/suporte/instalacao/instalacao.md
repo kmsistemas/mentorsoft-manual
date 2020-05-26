@@ -11,7 +11,7 @@ Após a conclusão do mapeamento, ao acessar o mapeamento (K:\) deve encontrar a
 >> - DLL  
 >> - EXE  
 
-![1](img/instalacao-sistemas/1.png)  
+![1](/img/instalacao-sistemas/1.png)  
 
 No seu C:\ crie uma pasta chamada **MentorSoft** , dentro dessa pasta deve ficar da seguinte forma:  
 > Backup – Pasta padrão de backup do sistema  

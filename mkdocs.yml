@@ -199,5 +199,8 @@ pages:
     - Movimentos:
         - 'Controle de MDFe': 'modulos/mdfe/movimentos/controle-mdfe.md'
   - Suporte:
-    - 'Instalacao': 'instalacao.md'
-    - 'Força de Vendas': 'comum/forca-vendas.md'
+    - 'Inicio': 'modulos/suporte/index.md'
+    - Telas:
+      - 'Instalacao': 'modulos/suporte/instalacao/instalacao.md'
+      - 'Força de Vendas': 'modulos/suporte/forca-vendas/forca-vendas.md'
+      - 'Portal de Vendas': 'modulos/suporte/portal/portal.md'
