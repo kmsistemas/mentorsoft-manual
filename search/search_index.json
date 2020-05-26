@@ -1256,34 +1256,64 @@
             "title": "Controle de Manisfeto de Documentos Fiscais Eletr\u00f4nico!"
         },
         {
-            "location": "/instalacao/",
+            "location": "/modulos/suporte/",
+            "text": "M\u00f3dulo Suporte\n\u00ab\n\n\n\n\nTelas\n\n\n\n\nInstala\u00e7\u00e3o\n - Aprenda a instalar o Sistema.\n\n\nFor\u00e7a de Vendas\n - Aprenda a utilizar no app Android  \n\n\nPortal de Vendas\n - Aprenda a como inserir pedido no Portal",
+            "title": "Inicio"
+        },
+        {
+            "location": "/modulos/suporte/#modulo-suporte",
+            "text": "Telas   Instala\u00e7\u00e3o  - Aprenda a instalar o Sistema.  For\u00e7a de Vendas  - Aprenda a utilizar no app Android    Portal de Vendas  - Aprenda a como inserir pedido no Portal",
+            "title": "M\u00f3dulo Suporte"
+        },
+        {
+            "location": "/modulos/suporte/instalacao/instalacao/",
             "text": "Instala\u00e7\u00e3o do sistema\n\u00ab\n\n\nComo instalar o Sistema MentorSoft.\n\u00ab\n\n\nNesse passo a passo, estaremos ensinando a como fazer a instala\u00e7\u00e3o do sistema em uma m\u00e1quina qualquer.\n\nPara continuar, precisaremos de acesso ao servidor.  \n\n\nVoc\u00ea deve:  \n\n\n\n\nMapear Unidade de Rede para a pasta do sistema utilizando a letra K.\n\nAp\u00f3s a conclus\u00e3o do mapeamento, ao acessar o mapeamento (K:) deve encontrar as pastas  \n\n\n\n\n\n\nBackup  \n\n\nDLL  \n\n\nEXE  \n\n\n\n\n\n\n\n\n  \n\n\nNo seu C:\\ crie uma pasta chamada \nMentorSoft\n , dentro dessa pasta deve ficar da seguinte forma:  \n\n\n\n\nBackup \u2013 Pasta padr\u00e3o de backup do sistema\n\nEXE \u2013 Execut\u00e1veis do sistema  \n\n\n\n\n\n\nMentorSoft.exe  \n\n\nsisKM.ini\n\nDLL - Para o sistema funcionar\n\n\n\n\n\n\n\n\nV\u00e1 no servidor (K:) em \nK:\\exe\n copie os arquivos \nMentorSoft.exe\n e \nsisKM.ini\n e cole em \nC:\\MentorSoft\\exe\n;\n\nLogo em seguida v\u00e1 em \nK:\\DLL\n copie todos os arquivos e cole em \nC:\\MentorSoft\\exe\n e \nC:\\MentorSoft\\dll\n:  \n\n\nSe o usu\u00e1rio que utilizar\u00e1 m\u00e1quina for respons\u00e1vel de backup, voc\u00ea precisa configurar a mesma para que o fa\u00e7a, v\u00e1 em \nK:\\Backup\n, copie todos os arquivos que n\u00e3o contenham a extens\u00e3o \n.backup\n e cole em \nC:\\MentorSoft\\Backup\n\n\nOkay, seu sistema est\u00e1 instalado e deve funcionar, v\u00e1 na pasta \nC:\\MentorSoft\\exe\n e crie um atalho do \nMentorSoft.exe\n.",
             "title": "Instalacao"
         },
         {
-            "location": "/instalacao/#instalacao-do-sistema",
+            "location": "/modulos/suporte/instalacao/instalacao/#instalacao-do-sistema",
             "text": "",
             "title": "Instala\u00e7\u00e3o do sistema"
         },
         {
-            "location": "/instalacao/#como-instalar-o-sistema-mentorsoft",
+            "location": "/modulos/suporte/instalacao/instalacao/#como-instalar-o-sistema-mentorsoft",
             "text": "Nesse passo a passo, estaremos ensinando a como fazer a instala\u00e7\u00e3o do sistema em uma m\u00e1quina qualquer. \nPara continuar, precisaremos de acesso ao servidor.    Voc\u00ea deve:     Mapear Unidade de Rede para a pasta do sistema utilizando a letra K. \nAp\u00f3s a conclus\u00e3o do mapeamento, ao acessar o mapeamento (K:) deve encontrar as pastas      Backup    DLL    EXE           No seu C:\\ crie uma pasta chamada  MentorSoft  , dentro dessa pasta deve ficar da seguinte forma:     Backup \u2013 Pasta padr\u00e3o de backup do sistema \nEXE \u2013 Execut\u00e1veis do sistema      MentorSoft.exe    sisKM.ini \nDLL - Para o sistema funcionar     V\u00e1 no servidor (K:) em  K:\\exe  copie os arquivos  MentorSoft.exe  e  sisKM.ini  e cole em  C:\\MentorSoft\\exe ; \nLogo em seguida v\u00e1 em  K:\\DLL  copie todos os arquivos e cole em  C:\\MentorSoft\\exe  e  C:\\MentorSoft\\dll :    Se o usu\u00e1rio que utilizar\u00e1 m\u00e1quina for respons\u00e1vel de backup, voc\u00ea precisa configurar a mesma para que o fa\u00e7a, v\u00e1 em  K:\\Backup , copie todos os arquivos que n\u00e3o contenham a extens\u00e3o  .backup  e cole em  C:\\MentorSoft\\Backup  Okay, seu sistema est\u00e1 instalado e deve funcionar, v\u00e1 na pasta  C:\\MentorSoft\\exe  e crie um atalho do  MentorSoft.exe .",
             "title": "Como instalar o Sistema MentorSoft."
         },
         {
-            "location": "/comum/forca-vendas/",
+            "location": "/modulos/suporte/forca-vendas/forca-vendas/",
             "text": "For\u00e7a de Vendas\n\u00ab\n\n\nVideo do treinamento\n\u00ab",
             "title": "For\u00e7a de Vendas"
         },
         {
-            "location": "/comum/forca-vendas/#forca-de-vendas",
+            "location": "/modulos/suporte/forca-vendas/forca-vendas/#forca-de-vendas",
             "text": "",
             "title": "For\u00e7a de Vendas"
         },
         {
-            "location": "/comum/forca-vendas/#video-do-treinamento",
+            "location": "/modulos/suporte/forca-vendas/forca-vendas/#video-do-treinamento",
             "text": "",
             "title": "Video do treinamento"
+        },
+        {
+            "location": "/modulos/suporte/portal/portal/",
+            "text": "Portal de Vendas\n\u00ab\n\n\nComo acessar o portal de vendas\n\u00ab\n\n\nClique no \nLink\n\n\nColoque seu email, senha e selecione qual empresa vai gerar seu pedido e clique no bot\u00e3o \n\n\n\n\nComo inserir um pedido\n\u00ab\n\n\nPara inserir um pedido de venda, siga este caminho:\n\n\n\n\n\u201cMOVIMENTOS \u00bb PEDIDOS\u201d \n\n\n\n\nPodemos pesquisar os pedidos inclu\u00eddos no portal, clicando no bot\u00e3o \n , ou incluir um novo pedido clicando no bot\u00e3o \n\n\n\n\nVamos selecionar o cliente clicando no bot\u00e3o \n\n\n\n\nVamos selecionar a condi\u00e7\u00e3o de pagamento, e clicar no bot\u00e3o \n\n\n\n\nN\u00e3o \u00e9 poss\u00edvel inserir os itens sem antes salvar o pedido.\n\n\nVamos a inser\u00e7\u00e3o de itens clicando na aba Itens de Pedido.\n\n\n\n\nClicar no bot\u00e3o \n, localiza o produto que deseja, e clica no \n, depois de inserir todos os itens, aperte o bot\u00e3o \n\n\n\n\nVolte na aba Pedido, e clicar no bot\u00e3o \n, vai aparecer uma mensagem de confirma\u00e7\u00e3o, se realmente deseja finalizar o pedido!\n\n\nDepois de finalizar o pedido, n\u00e3o pode ser mais alterado via portal, somente pelo sistema Mentor Soft!",
+            "title": "Portal de Vendas"
+        },
+        {
+            "location": "/modulos/suporte/portal/portal/#portal-de-vendas",
+            "text": "",
+            "title": "Portal de Vendas"
+        },
+        {
+            "location": "/modulos/suporte/portal/portal/#como-acessar-o-portal-de-vendas",
+            "text": "Clique no  Link  Coloque seu email, senha e selecione qual empresa vai gerar seu pedido e clique no bot\u00e3o",
+            "title": "Como acessar o portal de vendas"
+        },
+        {
+            "location": "/modulos/suporte/portal/portal/#como-inserir-um-pedido",
+            "text": "Para inserir um pedido de venda, siga este caminho:   \u201cMOVIMENTOS \u00bb PEDIDOS\u201d    Podemos pesquisar os pedidos inclu\u00eddos no portal, clicando no bot\u00e3o   , ou incluir um novo pedido clicando no bot\u00e3o    Vamos selecionar o cliente clicando no bot\u00e3o    Vamos selecionar a condi\u00e7\u00e3o de pagamento, e clicar no bot\u00e3o    N\u00e3o \u00e9 poss\u00edvel inserir os itens sem antes salvar o pedido.  Vamos a inser\u00e7\u00e3o de itens clicando na aba Itens de Pedido.   Clicar no bot\u00e3o  , localiza o produto que deseja, e clica no  , depois de inserir todos os itens, aperte o bot\u00e3o    Volte na aba Pedido, e clicar no bot\u00e3o  , vai aparecer uma mensagem de confirma\u00e7\u00e3o, se realmente deseja finalizar o pedido!  Depois de finalizar o pedido, n\u00e3o pode ser mais alterado via portal, somente pelo sistema Mentor Soft!",
+            "title": "Como inserir um pedido"
         }
     ]
 }
