@@ -169,6 +169,7 @@ pages:
       - 'Cliente': 'modulos/receber/cadastro/cadastro-cliente.md'
       - 'Condição Pagamento': 'modulos/receber/cadastro/cadastro-condicao-pagamento.md'
     - Movimentos:
+      - 'Manutenção Parcelas a Receber': 'modulos/receber/movimentos/manutencao-receber.md'
       - 'Operação de Recebimento': 'modulos/receber/movimentos/operacao-recebimento.md'
   - Tesouraria:
     - 'Inicio': 'modulos/tesouraria/index.md'

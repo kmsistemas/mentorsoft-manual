@@ -21,7 +21,7 @@ Se a opção selecionada for "MATÉRIA-PRIMA/REVENDA", o produto cadastrado apar
 
 ![6](/img/cadastro-produtos/6.png)
 
-Preencha o campo NCM com o devido código (oito dígitos), ele pode ser adquirido com a sua contabilidade.
+Preencha o campo NCM com o devido código (oito dígitos). Obs.: Consulte o seu escritório de contabilidade p.
 
 ![7](/img/cadastro-produtos/7.png)
 

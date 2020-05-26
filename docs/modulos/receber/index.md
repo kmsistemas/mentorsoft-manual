@@ -7,6 +7,6 @@
 
 ---
 
-> Movimentos    
->> [Operação de Recebimento](/modulos/receber/movimentos/operacao-recebimento.md) - Aprenda a como liquidar um titulo a receber. 
-  
+> Movimentos
+>> [Manutenção de Parcelas a Receber](/modulos/receber/movimentos/manutencao-receber.md) - Aprenda a como inserir um titulo a receber.    
+>> [Operação de Recebimento](/modulos/receber/movimentos/operacao-recebimento.md) - Aprenda a como liquidar um titulo a receber.

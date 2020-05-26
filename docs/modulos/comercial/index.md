@@ -8,7 +8,7 @@
 >> [Representante](/comum/cadastro-representante/#cadastro-representante) - Aprenda a cadastrar um representante.  
 >> [Tipo de Pedido](/modulos/comercial/cadastro/cadastro-tipo-pedido/#cadastrando-tipo-pedido) - Aprenda a como cadastrar um Tipo de pedido.  
 >> [Condição Pagamento](/modulos/comercial/cadastro/cadastro-condicao-pagamento/#cadastrando-condicao-pagamento) - Aprenda a como cadastrar uma Condição de Pagamento.  
->> [Cadastro de Produtos](/modulos/comercial/cadastro/cadastro-produto/#comercial) - Aprenda a cadastrar um Produto.        
+>> [Cadastro de Produtos](/modulos/comercial/cadastro/cadastro-produto/#cadastro-de-produtos) - Aprenda a cadastrar um Produto.        
 >> [Cadastro Tipo Despesa/Receita](/modulos/comercial/cadastro/cadastro-tipo-despesa-receita/#comercial) - Aprenda a cadastrar Tipo de Despesa/Receita.   
 >> [Cadastro de Embalagens](/modulos/comercial/cadastro/cadastro-embalagens/#comercial) - Aprenda como cadastrar embalagens.
 
