@@ -5,14 +5,13 @@
 
 ##  MentorSoft
 
-> Desenvolvido pela `KM Sistemas de Gestão`, o `MentorSoft` é um sistema de gestão composto por módulos integrados para pequenas, médias e grandes empresas.
+> Desenvolvido pela <a href="http://www.kmsistemas.com.br/" target="_blank">KM Sistemas de Gestão</a>, o `MentorSoft` é um sistema de gestão composto por módulos integrados para pequenas, médias e grandes empresas.
 
-* [www.kmsistemas.com.br](http://www.kmsistemas.com.br/solucoes/mentor-soft/) 
 
 ---
 
 ** Este manual foi criado para auxiliar os usuários com dúvidas no funcionamento do sistema.
-Para isso estamos aprimorando ainda mais este manual, para melhor comodidade do usuário. Caso você não encontre a informação que procura, entre em contato conosco, através do nosso [suporte](http://www.kmsistemas.com.br/atendimento-2/) e solicite a inclusão de demais informações.
+Para isso estamos aprimorando ainda mais este manual, para melhor comodidade do usuário. Caso você não encontre a informação que procura, entre em contato conosco, através do nosso <a href="http://www.kmsistemas.com.br/atendimento-2/" target="_blank">suporte</a> e solicite a inclusão de demais informações.
 **
 
 >>K&M Sistemas - "Vamos crescer juntos"
@@ -48,7 +47,7 @@ Para isso estamos aprimorando ainda mais este manual, para melhor comodidade do 
 >> Gestão financeira, Conciliação bancária, Controle de cheques, Fluxo de Caixa, Demonstrativo Gerencial de Resultados.
 
 > [![CTE](/img/modulos/transp.png)](modulos/cte)
->> Controle de Transporte Eletrônico!
+>> Controle de Transporte Eletrônico.
 
-
-* [KM Sistemas de Gestão](http://www.kmsistemas.com.br/)
+> [![MDFE](/img/modulos/mdfe.png)](modulos/mdfe)
+>> Controle de Manifesto de Documento Fiscal Eletrônico.
