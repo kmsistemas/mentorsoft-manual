@@ -196,6 +196,9 @@ pages:
         - 'Tipos de Veículo': 'modulos/mdfe/cadastro/tipos-de-veiculos.md'
         - 'Marcas de Veículo': 'modulos/mdfe/cadastro/marcas-de-veiculos.md'
         - 'Modelos de Veículo': 'modulos/mdfe/cadastro/modelos-de-veiculos.md'
+        - 'Cores de Veiculo': 'modulos/mdfe/cadastro/cor.md'
+        - 'Veiculo': 'modulos/mdfe/cadastro/veiculos.md'
+        - 'Motorista': 'modulos/mdfe/cadastro/motorista.md'
     - Movimentos:
         - 'Controle de MDFe': 'modulos/mdfe/movimentos/controle-mdfe.md'
   - Suporte:
