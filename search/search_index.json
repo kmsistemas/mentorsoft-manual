@@ -1182,7 +1182,7 @@
         },
         {
             "location": "/modulos/mdfe/",
-            "text": "M\u00f3dulo MDF-e\n\u00ab\n\n\nMDF-e, \u00e9 voltado para gerar um Manifesto de Documento Fiscal Eletr\u00f4nico!\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nTipos de Ve\u00edculo\n - Aprenda a cadastrar um tipo de veiculo.      \n\n\nMarcas de Ve\u00edculo\n - Aprenda a cadastrar uma marca de veiculo.     \n\n\nModelos de Ve\u00edculo\n - Aprenda a cadastrar um modelo de veiculo. \n\n\n\n\nMovimentos\n\n\n\n\nControle de MDF-e\n - Aprenda a lan\u00e7ar um MDF-e.",
+            "text": "M\u00f3dulo MDF-e\n\u00ab\n\n\nMDF-e, \u00e9 voltado para gerar um Manifesto de Documento Fiscal Eletr\u00f4nico!\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nTipos de Ve\u00edculo\n - Aprenda a cadastrar um tipo de veiculo.      \n\n\nMarcas de Ve\u00edculo\n - Aprenda a cadastrar uma marca de veiculo.     \n\n\nModelos de Ve\u00edculo\n - Aprenda a cadastrar um modelo de veiculo.    \n\n\nCores de Ve\u00edculo\n - Aprenda a cadastrar uma cor de veiculo.    \n\n\nVe\u00edculos\n - Aprenda a cadastrar um ve\u00edculo.    \n\n\nMotorista\n - Aprenda a cadastrar um Motorista. \n\n\n\n\n\n\n\n\n\n\nMovimentos\n\n\n\n\nControle de MDF-e\n - Aprenda a lan\u00e7ar um MDF-e.",
             "title": "Inicio"
         },
         {
@@ -1192,7 +1192,7 @@
         },
         {
             "location": "/modulos/mdfe/#mdf-e-e-voltado-para-gerar-um-manifesto-de-documento-fiscal-eletronico",
-            "text": "Cadastros   Tipos de Ve\u00edculo  - Aprenda a cadastrar um tipo de veiculo.        Marcas de Ve\u00edculo  - Aprenda a cadastrar uma marca de veiculo.       Modelos de Ve\u00edculo  - Aprenda a cadastrar um modelo de veiculo.    Movimentos   Controle de MDF-e  - Aprenda a lan\u00e7ar um MDF-e.",
+            "text": "Cadastros   Tipos de Ve\u00edculo  - Aprenda a cadastrar um tipo de veiculo.        Marcas de Ve\u00edculo  - Aprenda a cadastrar uma marca de veiculo.       Modelos de Ve\u00edculo  - Aprenda a cadastrar um modelo de veiculo.      Cores de Ve\u00edculo  - Aprenda a cadastrar uma cor de veiculo.      Ve\u00edculos  - Aprenda a cadastrar um ve\u00edculo.      Motorista  - Aprenda a cadastrar um Motorista.       Movimentos   Controle de MDF-e  - Aprenda a lan\u00e7ar um MDF-e.",
             "title": "MDF-e, \u00e9 voltado para gerar um Manifesto de Documento Fiscal Eletr\u00f4nico!"
         },
         {
@@ -1239,6 +1239,51 @@
             "location": "/modulos/mdfe/cadastro/modelos-de-veiculos/#cadastrando-modelos-de-veiculo",
             "text": "Para inserir um novo Modelo de Ve\u00edculo, voc\u00ea deve ir neste caminho:    \u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE MODELOS DE VE\u00cdCULOS\u201d      Nesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo:     Na isen\u00e7\u00e3o de um novo, devera clicar no bot\u00e3o   e depois escrever a descri\u00e7\u00e3o  Depois de escrever a descri\u00e7\u00e3o, seleciona a  Marca  e  Tipo , feito isso pode ir no   para salvar, ou no   , caso desista de fazer o cadastro!    Caso queira fazer o controle de rod\u00edzio de pneus, precisa do  Modulo Transporte",
             "title": "Cadastrando Modelos de Ve\u00edculo"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/cor/",
+            "text": "Cores do Veiculos\n\u00ab\n\n\nCadastrando Cor de Ve\u00edculo\n\u00ab\n\n\nPara inserir uma nova Cor de Ve\u00edculo, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE CORES\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo: \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no \n e depois escrever a descri\u00e7\u00e3o\n\n\n\nDepois de escrever a descri\u00e7\u00e3o, pode ir no \n para salvar, ou no  \n, caso desista de fazer o cadastro!",
+            "title": "Cores de Veiculo"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/cor/#cores-do-veiculos",
+            "text": "",
+            "title": "Cores do Veiculos"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/cor/#cadastrando-cor-de-veiculo",
+            "text": "Para inserir uma nova Cor de Ve\u00edculo, voc\u00ea deve ir neste caminho:    \u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE CORES\u201d      Nesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo:     Na isen\u00e7\u00e3o de um novo, devera clicar no   e depois escrever a descri\u00e7\u00e3o  Depois de escrever a descri\u00e7\u00e3o, pode ir no   para salvar, ou no   , caso desista de fazer o cadastro!",
+            "title": "Cadastrando Cor de Ve\u00edculo"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/veiculos/",
+            "text": "Ve\u00edculos\n\u00ab\n\n\nCadastrando Ve\u00edculos\n\u00ab\n\n\nPara inserir um novo Veiculo, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE VE\u00cdCULOS\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo. \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no \n e preencha os campos do seu veiculo.\n\n \n\n\nPara finalizar aperte o bot\u00e3o \n para salvar, ou no  \n, caso desista de fazer o cadastro!",
+            "title": "Veiculo"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/veiculos/#veiculos",
+            "text": "",
+            "title": "Ve\u00edculos"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/veiculos/#cadastrando-veiculos",
+            "text": "Para inserir um novo Veiculo, voc\u00ea deve ir neste caminho:    \u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE VE\u00cdCULOS\u201d      Nesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo.     Na isen\u00e7\u00e3o de um novo, devera clicar no   e preencha os campos do seu veiculo.    Para finalizar aperte o bot\u00e3o   para salvar, ou no   , caso desista de fazer o cadastro!",
+            "title": "Cadastrando Ve\u00edculos"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/motorista/",
+            "text": "Fornecedores\n\u00ab\n\n\nCadastrando Motorista\n\u00ab\n\n\nPara inserir um novo Motorista, voc\u00ea deve ir neste caminho: \n\n\n\n\n\u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE FORNECEDORES\u201d\n\n\n \n\n\n\n\nNesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo: \n\n \n\n\nNa isen\u00e7\u00e3o de um novo, devera clicar no \n e preencha os campos do seu fornecedor e selecione a op\u00e7\u00e3o \nMotorista\n \n\n \n\n\nPara finalizar aperte o bot\u00e3o \n para salvar, ou no  \n, caso desista de fazer o cadastro!",
+            "title": "Motorista"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/motorista/#fornecedores",
+            "text": "",
+            "title": "Fornecedores"
+        },
+        {
+            "location": "/modulos/mdfe/cadastro/motorista/#cadastrando-motorista",
+            "text": "Para inserir um novo Motorista, voc\u00ea deve ir neste caminho:    \u201cMDFE \u00bb CADASTROS \u00bb CADASTRO DE FORNECEDORES\u201d      Nesta tela voc\u00ea pode pesquisar os existentes ou incluir um novo:     Na isen\u00e7\u00e3o de um novo, devera clicar no   e preencha os campos do seu fornecedor e selecione a op\u00e7\u00e3o  Motorista      Para finalizar aperte o bot\u00e3o   para salvar, ou no   , caso desista de fazer o cadastro!",
+            "title": "Cadastrando Motorista"
         },
         {
             "location": "/modulos/mdfe/movimentos/controle-mdfe/",
