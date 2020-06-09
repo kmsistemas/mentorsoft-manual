@@ -3,6 +3,7 @@
 Para inserir um novo produto, siga este caminho: 
 > “COMERCIAL » CADASTROS » PRODUTOS”  
 > “ESTOQUE » CADASTROS » PRODUTOS”   
+> “INDUSTRIAL » CADASTROS » PRODUTOS” 
    
 ![1](/img/cadastro-produtos/1.png) 
 Clique no botão ![12](/img/botoeskm/insere.jpg)
