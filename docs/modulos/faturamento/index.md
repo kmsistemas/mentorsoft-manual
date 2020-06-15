@@ -9,6 +9,7 @@
 >> [Tipo de Pedido](/modulos/faturamento/cadastro/cadastro-tipo-pedido.md) - Aprenda a como cadastrar um Tipo de Pedido.  
 >> [Cadastro de CEST](/modulos/faturamento/cadastro/cadastro-cest.md) - Aprenda a como cadastrar um CEST.  
 >> [Cadastro de Tributação](/modulos/faturamento/cadastro/cadastro-tributacao.md) - Aprenda a como cadastrar uma Tributação.  
+>> [Manifesto DFe](/modulos/faturamento/cadastro/manifesto-dfe.md) - Aprenda a como consultar notas emitidas contra seu CNPJ.       
 
 ---
 
