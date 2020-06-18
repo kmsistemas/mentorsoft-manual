@@ -9,6 +9,7 @@
 >> [Tipo de Ocorrência](/modulos/industrial/cadastro/tipo-ocorrencia/#tipo-ocorrência) - Aprenda como cadastrar um tipo de ocorrência.   
 >> [Tipo de Ordem de Serviço](/modulos/industrial/cadastro/tipo-ordem/#tipo-ordem) - Aprenda como cadastrar um tipo de ordem de serviço.   
 >> [Ocorrência de Ordem](/modulos/industrial/cadastro/ocorrencia/#tipo-ordem) - Aprenda como cadastrar uma ocorrência de ordem de serviço.   
+>> [Serviços de OS](/modulos/industrial/cadastro/servico/#servico-os) - Aprenda como cadastrar um serviço de ordem de serviço.   
 
 ---
 

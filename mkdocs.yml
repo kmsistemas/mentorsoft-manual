@@ -145,6 +145,7 @@ pages:
       - 'Tipo de Ocorrência de Produção': 'modulos/industrial/cadastro/tipo-ocorrencia.md'
       - 'Tipo de Ordem de Serviço': 'modulos/industrial/cadastro/tipo-ordem.md'
       - 'Ocorrência de Ordem de Serviço': 'modulos/industrial/cadastro/ocorrencia.md'
+      - 'Serviço de OS': 'modulos/industrial/cadastro/servico.md'
     - Movimentos:
       - 'PCP': 'modulos/industrial/movimentos/pcp.md'
   - GRH:
