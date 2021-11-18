@@ -1,37 +1,14 @@
-# Cadastro de Tipos de Proventos
+# Cadastro de Tipos de Proventos:
 
-Para cadastrar um novo tipo de provento, va em:
-> "GRH » Cadastro » Tipos de Proventos"  
+Para cadastrar um tipo de provento, siga os seguintes passos: 
+  
+1. No módulo grh, clique em cadastros e depois em tipo de proventos.   
+2. Clique no botão Insere.   
+3. Após preencher todos os campos, clique em gravar.
 
-![10](/img/grh/cadastros/provento.jpg)
+![emb](/img/grh/cadastros/tipoprovento.gif)
 
-Clica no ![15](/img/botoeskm/insere.jpg) para adicionar um novo provento:
-
-![11](/img/grh/cadastros/provento2.jpg)
-
-Coluna **Crédito/Débito** infomar se o novo provento vai somar ou diminuir na folha do colaborador:
-
-![12](/img/grh/cadastros/provento4.jpg)
-
-Coluna **Aplica Saldo** se este provento irá ou não somar ao salário no totalizador:
-
-![13](/img/grh/cadastros/provento5.jpg)
-
->Coluna Mantém Valor traz 3 opções. **Mantém Provento** / **Mantém Valor** / **Não Mantém** 
->>Mantém Provento: ele será inserido automaticamento sem informar valor     
->>Mantém Valor: ele irá manter sempre o mesmo valor ao provento     
->>Não Mantém: Ele não insere nem provento nem valor   
-
-![14](/img/grh/cadastros/provento6.jpg)
-
-Gerar Financeiro: Sim ou Não. Todo provento com Gera Financeiro = Sim ele irá fazer um lançamento avulso no Pagar separado da Folha no caso de Vale Transporte que é feito antes do pagamento mas tenho que ter uma previsão na programação de pagamento.															
+Gera Financeiro = Sim, irá fazer um lançamento avulso no Pagar separado da Folha no caso de Vale que é feito antes do pagamento.
 
 
-![16](/img/grh/cadastros/provento7.jpg)
-
-Quando Gera financeiro= Sim tem que informar Tipo de Documento / Cond Pagamento / Conta Despesa
-
-
-![17](/img/grh/cadastros/provento3.jpg)
-
-
+Prontinho, seu tipo de provento já estará aparecendo no lançamento da folha de funcionarios!
