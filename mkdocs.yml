@@ -1,5 +1,5 @@
 # Project information
-site_name: 'Mentor Soft Manual'
+site_name: 'Manual Mentor Soft'
 site_description: 'K & M SISTEMAS DE GESTÃO'
 site_author: 'KM Sistemas'
 #site_url: 'http://manual-mentorsoft.kmsistemas.com.br'
@@ -10,7 +10,7 @@ site_url: 'https://manual-mentorsoft.disqus.com'
 #repo_url: 'https://github.com/KmSistemas/mentorsoft-manual'
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2020 K & M Sistemas'
+copyright: 'Copyright &copy; 2016 - 2021 K & M Sistemas'
 
 # Configuration
 theme:

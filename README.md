@@ -1,6 +1,6 @@
-# Manual MentorSoft
+# Manual Mentor Soft
 
-Manual de uso do sistema MentorSoft.
+Manual de uso do sistema Mentor Soft.
 
 
 ## Setup inicial?

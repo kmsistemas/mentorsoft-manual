@@ -1,16 +1,20 @@
-# Cadastro de Embalagens
+# Cadastro de Embalagens:
 
-Para realizar o Cadastro de Embalagens é necessário ir em: 
-> “COMERCIAL » CADASTROS » EMBALAGENS”  
-> “ESTOQUE » CADASTROS » EMBALAGENS”
+Para cadastrar uma embalagem, siga os seguintes passos: 
 
-![1](/img/cadastro-embalagens/1.png)
+1. No módulo estoque, clique em cadastros e depois em embalagens.   
 
-Uma tela igual a esta será apresentada, agora clique no ![12](/img/botoeskm/insere.jpg)
+2. Insira todas as informações da embalagem, como: nome e dimensões.
 
-![3](/img/cadastro-embalagens/insere1.jpg)
+3. Se necessário, você poderá vincular junto a embalagem, um produto específico.
+
+4. Após preencher todos os campos, clique em gravar.
+
+![emb](/img/cadastro-embalagens/embalagens.gif)
+**Obs.: Para alguns usuários, o módulo estoque poderá aparecer como comercial.**
 
 
-Preencha as informações com o nome da embalagem e suas respectivas dimensões e caso queira, poderá vincular um produto especifico para aquela embalagem.
-Após preencher todos os campos e clicar no botão GRAVAR, sua embalagem agora aparecerá no Romaneio de Faturamento.
 
+Prontinho, sua embalagem já estará aparecendo no Romaneio de Faturamento!
+
+    
