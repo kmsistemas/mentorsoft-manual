@@ -782,12 +782,12 @@
         },
         {
             "location": "/modulos/grh/",
-            "text": "M\u00f3dulo GRH\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nFornecedor\n - Aprenda a como cadastrar um fornecedor.\n\n\nEndere\u00e7o do Fornecedor\n - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.\n\n\nContato do Fornecedor\n - Aprenda a como cadastrar um Contato do Fornecedor.     \n\n\nTipo de Aus\u00eancia\n - Aprenda a como cadastrar um Tipo de Aus\u00eancia.     \n\n\nTipos de Proventos\n - Aprenda a como cadastrar um Tipo de Provento.   \n\n\nFun\u00e7\u00e3o/Cargo\n - Aprenda a como cadastrar uma Fun\u00e7\u00e3o/Cargo.\n\n\n\n\n\n\n\n\n\n\nMovimentos    \n\n\n\n\nFicha de Funcionarios\n - Aprenda a lan\u00e7a uma folha de pagamento.",
+            "text": "M\u00f3dulo GRH\n\u00ab\n\n\n\n\nCadastros\n\n\n\n\nFornecedor\n - Aprenda a como cadastrar um fornecedor.\n\n\nEndere\u00e7o do Fornecedor\n - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.\n\n\nContato do Fornecedor\n - Aprenda a como cadastrar um Contato do Fornecedor.     \n\n\nTipo de Aus\u00eancia\n - Aprenda a como cadastrar um Tipo de Aus\u00eancia.     \n\n\nTipos de Proventos\n - Aprenda a como cadastrar um Tipo de Provento.   \n\n\nFun\u00e7\u00e3o/Cargo\n - Aprenda a como cadastrar uma Fun\u00e7\u00e3o/Cargo. \n\n\nPosto de Servi\u00e7o\n - Aprenda a como cadastrar um Posto de Servi\u00e7o.\n\n\n\n\n\n\n\n\n\n\nMovimentos    \n\n\n\n\nFicha de Funcionarios\n - Aprenda a lan\u00e7a uma folha de pagamento.>> \n\n\nControle de escalas\n - Aprenda a lan\u00e7a uma escala.",
             "title": "Inicio"
         },
         {
             "location": "/modulos/grh/#modulo-grh",
-            "text": "Cadastros   Fornecedor  - Aprenda a como cadastrar um fornecedor.  Endere\u00e7o do Fornecedor  - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.  Contato do Fornecedor  - Aprenda a como cadastrar um Contato do Fornecedor.       Tipo de Aus\u00eancia  - Aprenda a como cadastrar um Tipo de Aus\u00eancia.       Tipos de Proventos  - Aprenda a como cadastrar um Tipo de Provento.     Fun\u00e7\u00e3o/Cargo  - Aprenda a como cadastrar uma Fun\u00e7\u00e3o/Cargo.      Movimentos       Ficha de Funcionarios  - Aprenda a lan\u00e7a uma folha de pagamento.",
+            "text": "Cadastros   Fornecedor  - Aprenda a como cadastrar um fornecedor.  Endere\u00e7o do Fornecedor  - Aprenda a como cadastrar um Endere\u00e7o do Fornecedor.  Contato do Fornecedor  - Aprenda a como cadastrar um Contato do Fornecedor.       Tipo de Aus\u00eancia  - Aprenda a como cadastrar um Tipo de Aus\u00eancia.       Tipos de Proventos  - Aprenda a como cadastrar um Tipo de Provento.     Fun\u00e7\u00e3o/Cargo  - Aprenda a como cadastrar uma Fun\u00e7\u00e3o/Cargo.   Posto de Servi\u00e7o  - Aprenda a como cadastrar um Posto de Servi\u00e7o.      Movimentos       Ficha de Funcionarios  - Aprenda a lan\u00e7a uma folha de pagamento.>>   Controle de escalas  - Aprenda a lan\u00e7a uma escala.",
             "title": "M\u00f3dulo GRH"
         },
         {
@@ -846,6 +846,16 @@
             "title": "Cadastro de Fun\u00e7\u00e3o/Cargo"
         },
         {
+            "location": "/modulos/grh/cadastro/cadastro-posto/",
+            "text": "Cadastro de Posto de Servi\u00e7o:\n\u00ab\n\n\nPara cadastrar um posto de servi\u00e7o, siga os seguintes passos: \n\n\n\n\n\n\nNo m\u00f3dulo grh, clique em cadastros e depois em posto de servi\u00e7o.   \n\n\n\n\n\n\nInsira todas as informa\u00e7\u00f5es do posto de servi\u00e7o, como: descri\u00e7\u00e3o, valor hora, cliente e a conta de despesa.\n\n\n\n\n\n\nAp\u00f3s preencher todos os campos, clique em gravar.\n\n\n\n\n\n\n\n\nProntinho, seu posto de servi\u00e7o j\u00e1 estar\u00e1 aparecendo no Controle de Escalas!",
+            "title": "Posto de Servi\u00e7o"
+        },
+        {
+            "location": "/modulos/grh/cadastro/cadastro-posto/#cadastro-de-posto-de-servico",
+            "text": "Para cadastrar um posto de servi\u00e7o, siga os seguintes passos:     No m\u00f3dulo grh, clique em cadastros e depois em posto de servi\u00e7o.       Insira todas as informa\u00e7\u00f5es do posto de servi\u00e7o, como: descri\u00e7\u00e3o, valor hora, cliente e a conta de despesa.    Ap\u00f3s preencher todos os campos, clique em gravar.     Prontinho, seu posto de servi\u00e7o j\u00e1 estar\u00e1 aparecendo no Controle de Escalas!",
+            "title": "Cadastro de Posto de Servi\u00e7o:"
+        },
+        {
             "location": "/modulos/grh/movimentos/ficha-funcionario/",
             "text": "Ficha de Funcion\u00e1rio\n\u00ab\n\n\nLan\u00e7amento de Folha de Pagamento, va em:\n\n\n\n\n\"GRH \u00bb Movimentos \u00bb Ficha de Funcion\u00e1rios\"  \n\n\n\n\n\n\nTela de pesquisa de todos Colaboradores cadastrados, somente vai aparecer no GRH os Fornecedores cadastrados com o Tipo de Fornecedor - Colaborador\n\n\n\n\nClique 2x no Colaborar para fazer a inclus\u00e3o ou atualiza\u00e7\u00e3o de informa\u00e7\u00f5es ir\u00e1 abrir a tela  > Dados do Funcion\u00e1rio\n\n\n\n\nClique na aba Sal\u00e1rios para fazer os lan\u00e7amentos de Creditos e Debitos dentro do m\u00eas do Colaborador\n\n\n\n\nClique na aba Advert\u00eancias para adicionar uma nova advert\u00eancia\n\n\n\n\nClique na aba Horas Extras para inserir um registro de permiss\u00e3o de horas extras\n\n\n\n\nClique na aba Aus\u00eancias para informar uma nova aus\u00eancia para controle da ficha do colaborador\n\n\n\n\nClique na aba T\u00edtulos do Funcion\u00e1rio para vizualizar todos os t\u00edtulos gerados pelo GRH para o colaborador\n\n\n\n\nClique na aba \nControle de EPI\n para fazer os comprovantes de entrega de EPI ao colaborador\n\n\n\n\nClique na aba \nRateio de Despesas\n para informar os rateios automaticos ao gerar uma folha de pagamento, lembrando que precisa estar no paramentro do GRH > Rateio para Sal\u00e1rios, informando que \u00e9 para verificar na Ficha do Funcion\u00e1rio, se n\u00e3o estiver ir\u00e1 puxar os rateios do Cad.Fornecedor, esse lan\u00e7amento de rateio \u00e9 feito de funcion\u00e1rio a funcion\u00e1rio.                                                         \n\n\n\n\n\n\nAdvert\u00eancia:\n ir\u00e1 imprimir as Advert\u00eancias cadastradas:     \n\n\nTermo de Recebimento:\n ir\u00e1 imprimir o controle de EPI entregue ao colaborador para assinatura e arquivamento:     \n\n\nFolha:\n ir\u00e1 imprimir a folha do m\u00eas selecionada:",
             "title": "Ficha de Funcionarios"
@@ -854,6 +864,21 @@
             "location": "/modulos/grh/movimentos/ficha-funcionario/#ficha-de-funcionario",
             "text": "Lan\u00e7amento de Folha de Pagamento, va em:   \"GRH \u00bb Movimentos \u00bb Ficha de Funcion\u00e1rios\"      Tela de pesquisa de todos Colaboradores cadastrados, somente vai aparecer no GRH os Fornecedores cadastrados com o Tipo de Fornecedor - Colaborador   Clique 2x no Colaborar para fazer a inclus\u00e3o ou atualiza\u00e7\u00e3o de informa\u00e7\u00f5es ir\u00e1 abrir a tela  > Dados do Funcion\u00e1rio   Clique na aba Sal\u00e1rios para fazer os lan\u00e7amentos de Creditos e Debitos dentro do m\u00eas do Colaborador   Clique na aba Advert\u00eancias para adicionar uma nova advert\u00eancia   Clique na aba Horas Extras para inserir um registro de permiss\u00e3o de horas extras   Clique na aba Aus\u00eancias para informar uma nova aus\u00eancia para controle da ficha do colaborador   Clique na aba T\u00edtulos do Funcion\u00e1rio para vizualizar todos os t\u00edtulos gerados pelo GRH para o colaborador   Clique na aba  Controle de EPI  para fazer os comprovantes de entrega de EPI ao colaborador   Clique na aba  Rateio de Despesas  para informar os rateios automaticos ao gerar uma folha de pagamento, lembrando que precisa estar no paramentro do GRH > Rateio para Sal\u00e1rios, informando que \u00e9 para verificar na Ficha do Funcion\u00e1rio, se n\u00e3o estiver ir\u00e1 puxar os rateios do Cad.Fornecedor, esse lan\u00e7amento de rateio \u00e9 feito de funcion\u00e1rio a funcion\u00e1rio.                                                             Advert\u00eancia:  ir\u00e1 imprimir as Advert\u00eancias cadastradas:       Termo de Recebimento:  ir\u00e1 imprimir o controle de EPI entregue ao colaborador para assinatura e arquivamento:       Folha:  ir\u00e1 imprimir a folha do m\u00eas selecionada:",
             "title": "Ficha de Funcion\u00e1rio"
+        },
+        {
+            "location": "/modulos/grh/movimentos/controle-escala/",
+            "text": "Controle de Escalas:\n\u00ab\n\n\nPara incluir uma escala, siga os seguintes passos:\n\n\n\n\n\n\nNo m\u00f3dulo grh, clique em movimentos e depois em controle de escala.   \n\n\n\n\n\n\nClique no incluir, informe o cliente, posto de servi\u00e7o, colaborador, data de inicio e data fim.   \n\n\n\n\n\n\nAp\u00f3s preencher todos os campos, clique em gravar   \n\n\n\n\n\n\n\n\nProntinho, sua escala foi lan\u00e7ada com sucesso!\n\n\nFechamento de escala\n\u00ab\n\n\n\n\n\n\nDentro do controle de escala, fa\u00e7a os filtros que deseja para o fechamento.   \n\n\n\n\n\n\nClique no Controle de Pagamentos, Processar.   \n\n\n\n\n\n\n\n\nProntinho, fechamento gerado com sucesso!",
+            "title": "Controle de Escalas"
+        },
+        {
+            "location": "/modulos/grh/movimentos/controle-escala/#controle-de-escalas",
+            "text": "Para incluir uma escala, siga os seguintes passos:    No m\u00f3dulo grh, clique em movimentos e depois em controle de escala.       Clique no incluir, informe o cliente, posto de servi\u00e7o, colaborador, data de inicio e data fim.       Ap\u00f3s preencher todos os campos, clique em gravar        Prontinho, sua escala foi lan\u00e7ada com sucesso!",
+            "title": "Controle de Escalas:"
+        },
+        {
+            "location": "/modulos/grh/movimentos/controle-escala/#fechamento-de-escala",
+            "text": "Dentro do controle de escala, fa\u00e7a os filtros que deseja para o fechamento.       Clique no Controle de Pagamentos, Processar.        Prontinho, fechamento gerado com sucesso!",
+            "title": "Fechamento de escala"
         },
         {
             "location": "/modulos/pagar/",
