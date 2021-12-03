@@ -155,8 +155,10 @@ pages:
       - 'Tipo de Ausência': 'modulos/grh/cadastro/cadastro-ausencia.md'
       - 'Tipos de Proventos': 'modulos/grh/cadastro/cadastro-proventos.md'
       - 'Função/Cargos': 'modulos/grh/cadastro/cadastro-funcao.md'
+      - 'Posto de Serviço': 'modulos/grh/cadastro/cadastro-posto.md'
     - Movimentos:
       - 'Ficha de Funcionarios': 'modulos/grh/movimentos/ficha-funcionario.md'
+      - 'Controle de Escalas': 'modulos/grh/movimentos/controle-escala.md'
 
   - Pagar:
     - 'Inicio': 'modulos/pagar/index.md'
