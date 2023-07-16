@@ -4,7 +4,7 @@ livereload==2.5.1
 Markdown==2.6.11
 markdown-include==0.5.1
 MarkupSafe==1.0
-mkdocs==0.17.3
+mkdocs==1.2.3
 mkdocs-material==2.7.0
 Pygments==2.2.0
 pymdown-extensions==4.9
