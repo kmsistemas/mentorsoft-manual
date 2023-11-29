@@ -196,17 +196,17 @@ pages:
         - 'Modelos de Veículo': 'modulos/cte/cadastro/modelos-de-veiculos.md'
     - Movimentos:
         - 'Controle de CTe': 'modulos/cte/movimentos/controle-cte.md'
-  - MDFe: 
-    - 'Inicio': 'modulos/mdfe/index.md'
-    - Cadastros:
-        - 'Tipos de Veículo': 'modulos/mdfe/cadastro/tipos-de-veiculos.md'
-        - 'Marcas de Veículo': 'modulos/mdfe/cadastro/marcas-de-veiculos.md'
-        - 'Modelos de Veículo': 'modulos/mdfe/cadastro/modelos-de-veiculos.md'
-        - 'Cores de Veiculo': 'modulos/mdfe/cadastro/cor.md'
-        - 'Veiculo': 'modulos/mdfe/cadastro/veiculos.md'
-        - 'Motorista': 'modulos/mdfe/cadastro/motorista.md'
-    - Movimentos:
-        - 'Controle de MDFe': 'modulos/mdfe/movimentos/controle-mdfe.md'
+  # - MDFe: 
+  #   - 'Inicio': 'modulos/mdfe/index.md'
+  #   - Cadastros:
+  #       - 'Tipos de Veículo': 'modulos/mdfe/cadastro/tipos-de-veiculos.md'
+  #       - 'Marcas de Veículo': 'modulos/mdfe/cadastro/marcas-de-veiculos.md'
+  #       - 'Modelos de Veículo': 'modulos/mdfe/cadastro/modelos-de-veiculos.md'
+  #       - 'Cores de Veiculo': 'modulos/mdfe/cadastro/cor.md'
+  #       - 'Veiculo': 'modulos/mdfe/cadastro/veiculos.md'
+  #       - 'Motorista': 'modulos/mdfe/cadastro/motorista.md'
+  #   - Movimentos:
+  #       - 'Controle de MDFe': 'modulos/mdfe/movimentos/controle-mdfe.md'
   - Suporte:
     - 'Inicio': 'modulos/suporte/index.md'
     - Telas:

@@ -57,11 +57,11 @@ Aqui, você tem total controle dos vencimentos e valores a serem pagos.
 > CT-e é a sigla utilizada para Conhecimento de Transporte Eletrônico, que corresponde ao documento fiscal emitido pelas transportadoras de carga para informar as mercadorias entre a localidade de origem e destinatário.  
 > Neste módulo, o usuário conseguirá emitir de maneira simples, este documento.   
 > Para saber mais, <a href="modulos/cte/"> clique aqui.</a>
-
+<!-- 
 ![MDFE](/img/modulos/mdfe.png)
 > MDF-e é a sigla para Manifesto Eletrônico de Documentos Fiscais. Em resumo, é o documento emitido e armazenado eletronicamente, para vincular os documentos fiscais transportados na carga.  
 > No módulo MDF-e, o usuário poderá emitir este documento de maneira ágil.  
-> Para saber mais, <a href="modulos/mdfe/"> clique aqui.</a>
+> Para saber mais, <a href="modulos/mdfe/"> clique aqui.</a> -->
 
 ---
 KM Sistemas       
